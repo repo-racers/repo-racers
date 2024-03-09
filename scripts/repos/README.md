@@ -44,3 +44,5 @@ This command will print the full list of repositories and the filtered list of r
 
 
 Remember to replace your_token, your_org, and your_pattern with your actual GitHub token, your GitHub organization, and your pattern, respectively.
+
+![Example Output](images/example-output.png)
