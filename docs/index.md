@@ -38,9 +38,9 @@ Got a GitHub challenge not listed here? Challenge us! We're ready to jump into t
 
 ## 🏎️ Why Choose Repo Racers?
 
-Because we understand that in the world of development, speed and reliability are everything. Our team of experts brings light-hearted enthusiasm to every project, ensuring not only top-notch professional service but also an enjoyable journey from start to finish.
+Because we understand that in the world of development, speed and reliability are everything. Our team of experts brings commitment and enthusiasm to every project, ensuring not only top-notch professional service but also an enjoyable journey from start to finish.
 
-Ready to turbocharge your GitHub experience with Repo Racers? Contact us today and let's rev up your repositories!
+Ready to turbocharge your GitHub experience with Repo Racers? [Contact us today](#contact-us) and let's rev up your repositories!
 
 ## 🌍 Open Source & Community at Repo Racers
 

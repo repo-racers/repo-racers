@@ -53,21 +53,3 @@ plugins:
 # Page tree
 nav:
   - Home: index.md
-  - Guides & Checklists:
-      - guides/index.md
-      - Pre-Migration: guides/pre-migration.md
-      - Migration Process: guides/migration-process.md
-      - Post-Migration: guides/post-migration.md
-  - Tools & Utilities:
-      - Migration Toolkit CLI: tools/migration-toolkit-cli.md
-      - GitHub CLI: tools/github-cli.md
-      - Migration Toolkit Container: tools/migration-toolkit-container.md
-  - Developer Documentation:
-      - Contribution Guidelines: dev/contribution-guidelines.md
-      - Definition of Done: dev/definition-of-done.md
-      - 12 Factor App Checklist: dev/12-factor-app-checklist.md
-      - Production Readiness Checklist: dev/production-readiness-checklist.md
-      - Pre-Commit: dev/pre-commit.md
-      - Migration Toolkit CLI: dev/migration-toolkit-cli-developer-documentation.md
-      - Migration Toolkit Container: dev/migration-toolkit-container-developer-documentation.md
-      - Code of Conduct: dev/code-of-conduct.md
