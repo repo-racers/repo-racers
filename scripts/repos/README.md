@@ -21,7 +21,7 @@ python repos.py --token your_token --org your_org --pattern your_pattern --full 
 
 Each argument is optional:
 
-`--token`: The GitHub token. If you don't provide this argument, the script will try to read it from the `GITHUB_ADMIN_TOKEN` environment variable. If both the `--token` argument and the GITHUB_ADMIN_TOKEN environment variable are set, the `--token` argument will take priority.
+`--token`: The GitHub token. If you don't provide this argument, the script will try to read it from the `GITHUB_ADMIN_TOKEN` environment variable. If both the `--token` argument and the `GITHUB_ADMIN_TOKEN` environment variable are set, the `--token` argument will take priority.
 
 `--org`: The GitHub organization. This argument is required. If you don't provide this argument, the script will throw an error.
 
