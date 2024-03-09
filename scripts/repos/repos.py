@@ -3,6 +3,7 @@ import argparse
 from github import Github
 import json
 import re
+from prettytable import PrettyTable
 
 # Create the parser
 parser = argparse.ArgumentParser(description="List repositories in a GitHub organization")
@@ -41,14 +42,22 @@ repos_filtered_list = [{"name": repo.name, "url": repo.html_url} for repo in rep
 
 # Print the full list of repositories if the --full argument is provided
 if args.full:
-    print("Full list of repositories:")
+    table = PrettyTable()
+    table.field_names = ["Name", "URL"]
+    table.align = "l"  # Align columns to the left
     for repo in repos_full_list:
-        print(f"Name: {repo['name']}, URL: {repo['url']}")
+        table.add_row([repo['name'], repo['url']])
+    print("\nFull list of repositories:")
+    print(table)
 
 # Print the filtered list of repositories if the --filtered argument is provided
 if args.filtered:
-    print("\nFiltered list of repositories:")
+    table = PrettyTable()
+    table.field_names = ["Name", "URL"]
+    table.align = "l"  # Align columns to the left
     for repo in repos_filtered_list:
-        print(f"Name: {repo['name']}, URL: {repo['url']}")
+        table.add_row([repo['name'], repo['url']])
+    print("\nFiltered list of repositories:")
+    print(table)
 
 print("\n")

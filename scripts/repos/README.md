@@ -4,10 +4,10 @@ This script lists repositories in a GitHub organization. It can print a full lis
 
 ## Prerequisites
 
-You need to have Python installed on your machine to run this script. You also need to install the `PyGithub` package. You can install it with pip:
+You need to have Python installed on your machine to run this script. You also need to install the `PyGithub` and `prettytable` packages. You can install it with pip:
 
 ```bash
-pip install PyGithub
+pip install PyGithub prettytable
 ```
 
 ## Usage
