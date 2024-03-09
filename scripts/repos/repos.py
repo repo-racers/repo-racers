@@ -4,6 +4,7 @@ from github import Github
 import json
 import re
 from prettytable import PrettyTable
+from termcolor import colored
 
 # Create the parser
 parser = argparse.ArgumentParser(description="List repositories in a GitHub organization")
@@ -34,30 +35,31 @@ repos = org.get_repos()
 pattern = args.pattern if args.pattern else r".*"
 
 # Convert repos to a list of dictionaries so it can be output as JSON
-repos_full_list = [{"name": repo.name, "url": repo.html_url} for repo in repos]
+repos_full_list = [{"name": repo.name, "url": repo.html_url, "size": repo.size} for repo in repos]
 
 # Convert repos to a list of dictionaries so it can be output as JSON
 # and filter the list to only include repos that match the pattern
-repos_filtered_list = [{"name": repo.name, "url": repo.html_url} for repo in repos if re.match(pattern, repo.html_url)]
+repos_filtered_list = [{"name": repo.name, "url": repo.html_url, "size": repo.size} for repo in repos if re.match(pattern, repo.html_url)]
 
 # Print the full list of repositories if the --full argument is provided
 if args.full:
     table = PrettyTable()
-    table.field_names = ["Name", "URL"]
+    table.field_names = ["Name", "URL", "Size"]
     table.align = "l"  # Align columns to the left
+    repos_full_list = sorted(repos_full_list, key=lambda x: x['name'])
     for repo in repos_full_list:
-        table.add_row([repo['name'], repo['url']])
+        table.add_row([repo['name'], repo['url'], repo['size']])
     print("\nFull list of repositories:")
-    print(table)
+    print(colored(str(table), 'green'))
 
 # Print the filtered list of repositories if the --filtered argument is provided
 if args.filtered:
     table = PrettyTable()
-    table.field_names = ["Name", "URL"]
+    table.field_names = ["Name", "URL", "Size"]
     table.align = "l"  # Align columns to the left
+    repos_filtered_list = sorted(repos_filtered_list, key=lambda x: x['name'])
     for repo in repos_filtered_list:
-        table.add_row([repo['name'], repo['url']])
+        table.add_row([repo['name'], repo['url'], repo['size']])
     print("\nFiltered list of repositories:")
-    print(table)
-
+    print(colored(str(table), 'green'))
 print("\n")
