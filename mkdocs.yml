@@ -17,6 +17,7 @@ copyright: Copyright &copy; 2024 Repo Racers
 # Configuration
 theme:
   name: material
+  favicon: 'assets/images/favicon.ico'
   palette:
     - media: "(prefers-color-scheme)"
       toggle:
