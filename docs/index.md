@@ -58,7 +58,7 @@ At **Repo Racers**, we don't just race; we also embrace the spirit of open colla
 
 Though we race in the digital realm, our home base is in the vibrant city of Dublin, Ireland. 🍀
 
-- **A Pint of Collaboration:** Based in the heart of Dublin, we're not just about code; we're about community. We're always up for sharing a Guinness and engaging in the craic with fellow developers and tech enthusiasts. Whether you're local or just visiting, let's meet up and exchange ideas over a pint. 🚀🍺
+- **A Pint of Collaboration:** Based in the heart of Dublin, we're not just about code; we're about community. We're always up for sharing a Guinness and engaging in the craic with fellow developers and tech enthusiasts. Whether you're local or just visiting, let's meet up and exchange ideas over a pint. 🍺
 
 ## 📞 Contact Us
 
