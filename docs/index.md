@@ -30,6 +30,20 @@ Optimize for enterprise SLAs, performance, and cost with our self-hosted runners
 ### Best Practices and Repeatable Patterns
 We don't just set you up and wave the checkered flag; we equip you with the best practices and patterns that ensure your success lap after lap.
 
+## GitHub Copilot Training: Elevate Your Coding Co-Pilot
+
+### Mastering Your AI Wingman
+
+GitHub Copilot isn't just another tool in your development kit—it's your AI wingman, ready to help you navigate the complexities of coding with ease and efficiency. At **Repo Racers**, we go beyond just tuning; we offer comprehensive GitHub Copilot Training designed to turn your Copilot into the most reliable, intuitive, and intelligent partner you've ever coded with. 🤖 
+
+
+### Ready to Take Flight?
+
+Elevate your development team with GitHub Copilot Training from **Repo Racers**. Transform your Copilot from a handy tool into an indispensable ally in your coding journey. Contact us today at [speedyresponse@reporacers.com](mailto:speedyresponse@reporacers.com) to learn more about our training programs and how we can help you harness the full power of GitHub Copilot.
+
+Fly higher and code smarter with **Repo Racers** – where technology meets teamwork and innovation takes flight! 🌟
+
+
 ### Enterprise Copilot Fine Tuning
 Make your GitHub Copilot work harder for you. Our fine tuning service customizes your AI pair programmer to your specific enterprise needs, making it the most valuable member of your team.
 
