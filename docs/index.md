@@ -30,8 +30,8 @@ Optimize for enterprise SLAs, performance, and cost with our self-hosted runners
 ### Best Practices and Repeatable Patterns
 We don't just set you up and wave the checkered flag; we equip you with the best practices and patterns that ensure your success lap after lap.
 
-### Enterprise Copilot Tuning
-Make your GitHub Copilot work harder for you. Our tuning service customizes your AI pair programmer to your specific enterprise needs, making it the most valuable member of your team.
+### Enterprise Copilot Fine Tuning
+Make your GitHub Copilot work harder for you. Our fine tuning service customizes your AI pair programmer to your specific enterprise needs, making it the most valuable member of your team.
 
 ### And More...
 Got a GitHub challenge not listed here? Challenge us! We're ready to jump into the driver's seat and help you cross the finish line.
