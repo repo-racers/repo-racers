@@ -1,0 +1,11 @@
+[MESSAGES CONTROL]
+# C0301: Line too long.
+# E401: Unabl to import
+disable=import-error,line-too-long
+
+[REPORTS]
+# Set the output format. Available formats are text, parseable, colorized, json and msvs (visual studio).
+output-format=text
+
+# Tells whether to display a full report or only the messages
+reports=no

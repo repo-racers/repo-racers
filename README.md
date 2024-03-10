@@ -1,8 +1,7 @@
 
-# Welcome to Repo Racers!
+# Welcome to Repo Racers
 
 ![Repo Racers](https://github.com/repo-racers/.github/blob/main/profile/repo-racers-header.png)
-
 
 At **Repo Racers**, we're not just a GitHub professional services company; we're your pit crew in the fast-paced world of code management and development. 🏁
 
@@ -11,27 +10,35 @@ At **Repo Racers**, we're not just a GitHub professional services company; we're
 Our services are designed to supercharge your GitHub experience, whether you're a small startup or a Fortune 500 company. Here's what we can do for you:
 
 ### GitHub Enterprise Implementation
+
 Need to scale your GitHub setup to enterprise-level? We've got you covered, both in the server room and in the cloud. Our implementations are so smooth, you'll feel like you're coding on air.
 
 ### GitHub Detox
+
 Codebase looking a bit cluttered? Let us detox your repositories and get them back into racing condition. We'll prune the unnecessary, optimize the essential, and have your projects looking showroom-ready.
 
 ### Migration to GitHub Enterprise
+
 Ready to make the leap to GitHub Enterprise? We're here to make your transition seamless, whether you're moving to the server or the cloud. Fasten your seatbelts; it's going to be a smooth ride.
 
 ### Self-Hosted Runners Implementation
+
 Optimize for enterprise SLAs, performance, and cost with our self-hosted runners implementation. We tailor everything to your needs, ensuring your development processes run more smoothly than a freshly paved racetrack.
 
 ### Best Practices and Repeatable Patterns
+
 We don't just set you up and wave the checkered flag; we equip you with the best practices and patterns that ensure your success lap after lap.
 
 ### GitHub Copilot Training
-GitHub Copilot isn't just another tool in your development kit — it's your AI wingman. At **Repo Racers**, we offer comprehensive GitHub Copilot Training to teach you how to get the most out of your new AI buddy, soon Copolot will be the most intuitive, and intelligent pair programmer you've ever coded with. 🤖 
+
+GitHub Copilot isn't just another tool in your development kit — it's your AI wingman. At **Repo Racers**, we offer comprehensive GitHub Copilot Training to teach you how to get the most out of your new AI buddy, soon Copolot will be the most intuitive, and intelligent pair programmer you've ever coded with. 🤖
 
 ### Enterprise Copilot Fine Tuning
+
 Make your GitHub Copilot work harder for you. Our fine tuning service customizes your AI pair programmer to your specific enterprise needs, making it the most valuable member of your team.
 
-### And More...
+### And More
+
 Got a GitHub challenge not listed here? Challenge us! We're ready to jump into the driver's seat and help you cross the finish line.
 
 ## 🏎️ Why Choose Repo Racers?

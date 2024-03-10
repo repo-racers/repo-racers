@@ -1,0 +1,30 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "pip-install",
+			"type": "shell",
+			"command": "make pip/install",
+			"presentation": {
+				"reveal": "always",
+				"panel": "new"
+			},
+			"runOptions": {
+				"runOn": "folderOpen"
+			}
+		},
+		{
+			"label": "pre-commit",
+			"type": "shell",
+			"command": "pre-commit install && pre-commit install-hooks",
+			"presentation": {
+				"reveal": "always",
+				"panel": "new"
+			},
+			"dependsOrder": "sequence",
+			"dependsOn": [
+				"pip-install"
+			]
+		}
+	]
+}

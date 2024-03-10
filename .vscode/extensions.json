@@ -1,0 +1,11 @@
+{
+	"recommendations": [
+        "github.copilot",
+        "github.copilot-chat",
+        "eamodio.gitlens",
+        "davidanson.vscode-markdownlint",
+        "ms-azuretools.vscode-docker",
+        "esbenp.prettier-vscode"
+    ],
+	"unwantedRecommendations": []
+}
