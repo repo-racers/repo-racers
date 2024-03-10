@@ -1,4 +1,7 @@
 {
     "name": "Universal",
-    "image": "mcr.microsoft.com/vscode/devcontainers/universal:linux"
+    "image": "mcr.microsoft.com/vscode/devcontainers/universal:linux",
+    "postCreateCommand":  {
+        "pre-commit": "pip install -r requirements.txt && pre-commit install && pre-commit install-hooks"
+    }
 }
