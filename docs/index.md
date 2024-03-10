@@ -64,11 +64,19 @@ At **Repo Racers**, we don't just race; we also embrace the spirit of open colla
 
 - **Contribute to Our Journey:** Got ideas or improvements for our tools and runbooks? We love that! Join our pit crew by contributing to our repository. Your insights and contributions fuel our mutual success and drive forward innovation.
 
-### Local Pride: Dublin, Ireland
+## 🌍 Local Pride: Dublin, Ireland & Málaga, Spain
 
-Though we race in the digital realm, our home base is in the vibrant city of Dublin, Ireland. 🍀
+Though our races span the digital realm, our pit stops are in the vibrant cities of Dublin, Ireland, and Málaga, Spain. 🍀🌞
 
-- **A Pint of Collaboration:** Based in the heart of Dublin, we're not just about code; we're about community. We're always up for sharing a Guinness and engaging in the craic with fellow developers and tech enthusiasts. Whether you're local or just visiting, let's meet up and exchange ideas over a pint. 🍺
+### A Pint of Collaboration: Dublin, Ireland
+
+Based in the heart of Dublin, we're more than just about code; we're about community. Always ready to share a Guinness and dive into the craic with fellow developers and tech enthusiasts. Whether you're local or just passing through, let's connect and exchange ideas over a pint. 🍺
+
+### A Glass of Sunshine: Málaga, Spain
+
+Our Málaga office brings the warmth of the Spanish sun to our coding escapades. Join us for a tapa and a chat about the latest in tech, under the shade of an orange tree. Let's make innovation and collaboration as enjoyable as a sunny day on the Costa del Sol. 🍹
+
+No matter where you find yourself, Dublin or Málaga, we're always up for making connections, sharing knowledge, and enjoying good company. Drop by our offices for a unique blend of tech, culture, and fun. Let's build something great together, fueled by local pride and a global vision.
 
 ## 📞 Contact Us
 
