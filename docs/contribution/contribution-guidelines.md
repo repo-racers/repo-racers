@@ -29,9 +29,9 @@ Here are a few things you can do that will increase the likelihood of your pull 
 - Keep your change as focused as possible. If there are multiple changes you would like to make that are not dependent upon each other, consider submitting them as separate pull requests.
 - Write a [good commit message](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
 
-## For crew
+## Crew contributions
 
-Contributions to this repo are very welcome! We follow a fairly standard [pull request
+We follow a fairly standard [pull request
 process](https://docs.github.com/en/pull-requests) for contributions, subject to the following guidelines:
 
 1. [File a GitHub issue](#file-a-github-issue)
