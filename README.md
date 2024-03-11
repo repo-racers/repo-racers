@@ -67,6 +67,6 @@ Though we race in the digital realm, our home base is in the vibrant city of Dub
 
 ## 📞 Contact Us
 
-Ready to start your engine with Repo Racers? Drop us a line at [speedyresponse@reporacers.com](mailto:speedyresponse@reporacers.com). We're excited to help you take the lead in your GitHub journey!
+Ready to start your engine with Repo Racers? Drop us a line at [hello@reporacers.com](mailto:hello@reporacers.com). We're excited to help you take the lead in your GitHub journey!
 
 Join the race with Repo Racers – where speed meets code! 🚗💨
