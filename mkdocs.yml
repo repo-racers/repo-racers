@@ -54,7 +54,7 @@ plugins:
 # Page tree
 nav:
   - Home: index.md
-  - Contribution Guidelines:
+  - Contributing To This Repository:
       - contribution/contribution-guidelines.md
       - Definition of Done: contribution/definition-of-done.md
       - 12 Factor App Checklist: contribution/12-factor-app-checklist.md

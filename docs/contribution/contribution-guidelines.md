@@ -1,10 +1,14 @@
 # Contribution Guidelines
 
-## For Anyone
+## Contributions to this repo are very welcome
 
-Contributions to this project are released to the public under the project's open source license.
+All contributions accepted by the project crew will be released to the public under the project's open source license.
 
 Please note that this project is released with a [Contributor Code of Conduct](./code-of-conduct.md). By participating in this project you agree to abide by its terms.
+
+For a great article with advice and inspiration regarding how to contribute to open source projects we recommend this [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/).
+
+## Step by step guide
 
 ### File a GitHub issue
 
@@ -25,12 +29,7 @@ Here are a few things you can do that will increase the likelihood of your pull 
 - Keep your change as focused as possible. If there are multiple changes you would like to make that are not dependent upon each other, consider submitting them as separate pull requests.
 - Write a [good commit message](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
 
-### Resources
-
-- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
-- [Using Pull Requests](https://help.github.com/articles/about-pull-requests/)
-
-## For Crew
+## For crew
 
 Contributions to this repo are very welcome! We follow a fairly standard [pull request
 process](https://docs.github.com/en/pull-requests) for contributions, subject to the following guidelines:
