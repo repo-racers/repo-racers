@@ -1,5 +1,37 @@
 # Contribution Guidelines
 
+## For Anyone
+
+Contributions to this project are released to the public under the project's open source license.
+
+Please note that this project is released with a [Contributor Code of Conduct](./code-of-conduct.md). By participating in this project you agree to abide by its terms.
+
+### File a GitHub issue
+
+Before starting any work, we recommend filing a GitHub [issue](https://github.com/repo-racers/repo-racers/issues) on the repo's [project board](https://github.com/orgs/repo-racers/projects/11). This is your chance to ask questions and
+get feedback from the maintainers and the community before you sink a lot of time into writing (possibly the wrong)
+code. If there is anything you're unsure about, just ask!
+
+### Fork and clone this repo
+
+Click on the 'Fork' button at the top right corner of the repository page. This will create a copy of the repository in your GitHub account.
+
+### Guidelines
+
+Here are a few things you can do that will increase the likelihood of your pull request being accepted:
+
+- Follow standards for style and code quality.
+- Write tests.
+- Keep your change as focused as possible. If there are multiple changes you would like to make that are not dependent upon each other, consider submitting them as separate pull requests.
+- Write a [good commit message](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
+
+### Resources
+
+- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
+- [Using Pull Requests](https://help.github.com/articles/about-pull-requests/)
+
+## For Crew
+
 Contributions to this repo are very welcome! We follow a fairly standard [pull request
 process](https://docs.github.com/en/pull-requests) for contributions, subject to the following guidelines:
 
@@ -14,13 +46,11 @@ process](https://docs.github.com/en/pull-requests) for contributions, subject to
 1. [Merge and release](#merge-and-release)
 1. [Clean up development resources](#clean-up-development-resources)
 
-## File a GitHub issue
+### File a GitHub issue for peer review
 
-Before starting any work, we recommend filing a GitHub [issue](https://github.com/repo-racers/repo-racers/issues) on the repo's [project board](https://github.com/orgs/repo-racers/projects/11). This is your chance to ask questions and
-get feedback from the maintainers and the community before you sink a lot of time into writing (possibly the wrong)
-code. If there is anything you're unsure about, just ask!
+File a GitHub [issue](https://github.com/repo-racers/repo-racers/issues) on the repo's [project board](https://github.com/orgs/repo-racers/projects/11).
 
-## Create a development branch
+### Create a development branch
 
 After filing a GitHub issue, the next step is to [create a branch to work on your issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-a-branch-for-an-issue).
 This branch will serve as the foundation for your work, enabling you to make changes without affecting the main branch.
@@ -48,21 +78,21 @@ Which could translate to something as follows:
 devopskev/feature/271-make-all-the-things
 ```
 
-## Create a codespace
+### Create a codespace
 
 After creating your development branch, the next step is to set up your development environment.
 We recommend using [GitHub Codespaces](https://github.com/features/codespaces) for this, creating a new codespace specific to the development branch of th newly created issue.
 Codespaces provides a fully configured development environment in the cloud, which you can use to develop and test your contributions.
 This ensures that all contributors are working in a consistent environment, reducing the ["it works on my machine"](https://blog.codinghorror.com/the-works-on-my-machine-certification-program/) problem.
 
-## Update the documentation
+### Update the documentation
 
 We recommend updating the documentation *before* updating any code (see [Readme Driven
 Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)). This ensures the documentation
 stays up to date and allows you to think through the problem at a high level before you get lost in the weeds of
 coding.
 
-## Update the tests
+### Update the tests
 
 We also recommend updating the automated tests *before* updating any code (see [Test Driven
 Development](https://en.wikipedia.org/wiki/Test-driven_development)). That means you add or update a test case,
@@ -70,16 +100,16 @@ verify that it's failing with a clear error message, and *then* make the code ch
 ensures the tests stay up to date and verify all the functionality in this repo, including whatever new
 functionality you're adding in your contribution.
 
-## Update the code
+### Update the code
 
 At this point, make your code changes and use your new test case to verify that everything is working. As you work,
 please consider backwards compatibility.
 
-### Backwards compatibility
+#### Backwards compatibility
 
 Please make every effort to avoid unnecessary backwards incompatible changes. If a backwards incompatible change cannot be avoided, please make sure to call that out when you submit a pull request, explaining why the change is absolutely necessary.
 
-## Definition of Done
+### Definition of Done
 
 Before submitting a pull request, take the time to review our [Definition  of Done](./definition-of-done.md).
 
@@ -92,7 +122,7 @@ We describe our [Definition  of Done](./definition-of-done.md) at two levels:
 1. Merge Pull Request
 1. Tag Release
 
-## Create a pull request
+### Create a pull request
 
 [Create a pull request](https://docs.github.com/en/pull-requests) with your changes. Please make sure
 to include the following:
@@ -101,17 +131,17 @@ to include the following:
 1. The output of your automated test run, preferably in a [GitHub Gist](https://docs.github.com/en/github/writing-on-github/editing-and-sharing-content-with-gists/creating-gists).
 1. Any notes on backwards incompatibility.
 
-## Merge and release
+### Merge and release
 
 The maintainers for this repo will review your code and provide feedback. If everything looks good, they will merge the
 code and release a new version, which you'll be able to find in the [releases page](https://github.com/repo-racers/repo-racers/releases).
 
-## Clean up development resources
+### Clean up development resources
 
 After your contribution has been successfully merged and released, it's important to clean up your development resources to keep the project repository and GitHub tidy.
 This involves deleting your development branch and the GitHub Codespace you created for your work.
 
-### Delete the development branch
+#### Delete the development branch
 
 1. Navigate to the main page of the repository on GitHub.
 2. Click on the "Branches" tab.
@@ -126,7 +156,7 @@ git push origin --delete <branch name> # Deletes the branch on GitHub
 
 ```
 
-### Delete the codespace
+#### Delete the codespace
 
 1. Navigate to the "Codespaces" tab in your GitHub profile or repository page.
 2. Find the codespace you created for your contribution.
