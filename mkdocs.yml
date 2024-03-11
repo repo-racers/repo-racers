@@ -54,3 +54,9 @@ plugins:
 # Page tree
 nav:
   - Home: index.md
+  - Contribution Guidelines:
+      - contribution/contribution-guidelines.md
+      - Definition of Done: contribution/definition-of-done.md
+      - 12 Factor App Checklist: contribution/12-factor-app-checklist.md
+      - Pre-Commit: contribution/pre-commit.md
+      - Code of Conduct: contribution/code-of-conduct.md
