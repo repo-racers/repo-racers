@@ -1,4 +1,4 @@
-# Production Environment Checklist (Azure)
+# Azure Deployment Checklist
 
 1. [Server-side](#server-side)
 1. [Client-side](#client-side)
