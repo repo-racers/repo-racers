@@ -67,15 +67,14 @@ nav:
           - Beyond The Basics:
               - Backlog Management: wow/our_agile_guide/beyond_the_basics/backlog_management.md
   - Crew Contracts:
-      - crew_contracts/crew_contracts.md
+      - Definition of Done: crew_contracts/definition_of_done.md
+      - 12 Factor App Checklist: crew_contracts/12_factor_app_checklist.md
+      - Azure Deployment Checklist: crew_contracts/azure_deployment_checklist.md
+      - Code of Conduct: crew_contracts/code_of_conduct.md
   - Cheat Sheets:
       - cheat_sheets/cheat_sheets.md
   - Product Documentation:
       - product_documentation/product_documentation.md
   - Contributing To This Repository:
       - contributing/contribution_guidelines.md
-      - Definition of Done: contributing/definition_of_done.md
-      - 12 Factor App Checklist: contributing/12_factor_app_checklist.md
-      - Azure Deployment Checklist: contributing/azure_deployment_checklist.md
       - Pre-Commit: contributing/pre_commit.md
-      - Code of Conduct: contributing/code_of_conduct.md
