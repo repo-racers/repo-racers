@@ -73,8 +73,8 @@ nav:
       - Code of Conduct: crew_contracts/code_of_conduct.md
   - Cheat Sheets:
       - cheat_sheets/cheat_sheets.md
-  - Product Documentation:
-      - product_documentation/product_documentation.md
+  - Service Catalog:
+      - service_catalog/service_catalog.md
   - Contributing To This Repository:
       - contributing/contribution_guidelines.md
       - Pre-Commit: contributing/pre_commit.md
