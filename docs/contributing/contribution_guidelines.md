@@ -4,7 +4,7 @@
 
 All contributions accepted by the project crew will be released to the public under the project's open source license.
 
-Please note that this project is released with a [Contributor Code of Conduct](./code-of-conduct.md). By participating in this project you agree to abide by its terms.
+Please note that this project is released with a [Contributor Code of Conduct](./code_of_conduct.md). By participating in this project you agree to abide by its terms.
 
 For a great article with advice and inspiration regarding how to contribute to open source projects we recommend this [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/).
 
@@ -40,7 +40,7 @@ process](https://docs.github.com/en/pull-requests) for contributions, subject to
 1. [Update the documentation](#update-the-documentation)
 1. [Update the tests](#update-the-tests)
 1. [Update the code](#update-the-code)
-1. [Definition of Done](#definition-of-done)
+1. [Definition of Done](#definition_of_done)
 1. [Create a pull request](#create-a-pull-request)
 1. [Merge and release](#merge-and-release)
 1. [Clean up development resources](#clean-up-development-resources)
@@ -110,13 +110,13 @@ Please make every effort to avoid unnecessary backwards incompatible changes. If
 
 ### Definition of Done
 
-Before submitting a pull request, take the time to review our [Definition  of Done](./definition-of-done.md).
+Before submitting a pull request, take the time to review our [Definition  of Done](./definition_of_done.md).
 
 Our definition of done describes the list of criteria that must be met before any work is considered 'done.' Failure to comply with any of these conditions means work is not complete and will probably result in your pull request being refused.
 
-Upon receipt of a pull request, the maintainers of this repo will review code submitted against the [Definition  of Done](./definition-of-done.md) before accepting that pull request into the codebase.
+Upon receipt of a pull request, the maintainers of this repo will review code submitted against the [Definition  of Done](./definition_of_done.md) before accepting that pull request into the codebase.
 
-We describe our [Definition  of Done](./definition-of-done.md) at two levels:
+We describe our [Definition  of Done](./definition_of_done.md) at two levels:
 
 1. Merge Pull Request
 1. Tag Release

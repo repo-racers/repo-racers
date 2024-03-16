@@ -54,10 +54,28 @@ plugins:
 # Page tree
 nav:
   - Home: index.md
+  - Ways of Working:
+      - wow/ways_of_working.md
+      - Our Agile Guide:
+          - wow/our_agile_guide/getting_started.md
+          - Basics:
+              - Backlog Management: wow/our_agile_guide/basics/backlog_management.md
+              - Ceremonies: wow/our_agile_guide/basics/ceremonies.md
+              - Roles: wow/our_agile_guide/basics/roles.md
+              - Sprints: wow/our_agile_guide/basics/sprints.md
+          - How We Ship: wow/our_agile_guide/how_we_ship/how_we_ship.md
+          - Beyond The Basics:
+              - Backlog Management: wow/our_agile_guide/beyond_the_basics/backlog_management.md
+  - Crew Contracts:
+      - crew_contracts/crew_contracts.md
+  - Cheat Sheets:
+      - cheat_sheets/cheat_sheets.md
+  - Product Documentation:
+      - product_documentation/product_documentation.md
   - Contributing To This Repository:
-      - contribution/contribution-guidelines.md
-      - Definition of Done: contribution/definition-of-done.md
-      - 12 Factor App Checklist: contribution/12-factor-app-checklist.md
-      - Azure Deployment Checklist: contribution/deployment-checklist.md
-      - Pre-Commit: contribution/pre-commit.md
-      - Code of Conduct: contribution/code-of-conduct.md
+      - contributing/contribution_guidelines.md
+      - Definition of Done: contributing/definition_of_done.md
+      - 12 Factor App Checklist: contributing/12_factor_app_checklist.md
+      - Azure Deployment Checklist: contributing/azure_deployment_checklist.md
+      - Pre-Commit: contributing/pre_commit.md
+      - Code of Conduct: contributing/code_of_conduct.md

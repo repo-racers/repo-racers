@@ -4,8 +4,8 @@
 
 [GitHub Documentation](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 
-- Application architecture complies with the [12 Factor App Checklist](./12-factor-app-checklist.md).
-- Infrastructure architecture complies with the [Deployment Checklist](./deployment-checklist.md).
+- Application architecture complies with the [12 Factor App Checklist](./12_factor_app_checklist.md).
+- Infrastructure architecture complies with the [Azure Deployment Checklist](./azure_deployment_checklist.md).
 - Group or individual codeowners identified int the project  `.github/CODEOWNERS` file for all artefacts on the branch to be merged.
 - Any new CICD pipelines have been commited to the `.github/workflows` directory.
 - Any new makefiles have been commited to the `./make` directory or a remote git repository containing shared makefiles.
@@ -28,8 +28,8 @@
 
 [GitHub Documentation](https://docs.github.com/en/github/administering-a-repository/releasing-projects-on-github/managing-releases-in-a-repository)
 
-- Application architecture complies with the [12 Factor App Checklist](./12-factor-app-checklist.md).
-- Infrastructure architecture complies with the [Deployment Checklist](./deployment-checklist.md).
+- Application architecture complies with the [12 Factor App Checklist](./12_factor_app_checklist.md).
+- Infrastructure architecture complies with the [Azure Deployment Checklist](./azure_deployment_checklist.md).
 - Full spectrum automated tests pass *"consistently"* without failure for entire code base.
 - Technical and user documentation are localized and HTML documentation has been generated.
 - Consumers of APIs have been notified of any incompatible API changes.

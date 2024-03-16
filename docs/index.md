@@ -3,10 +3,9 @@ hide:
   - navigation
   - toc
 ---
+# "In Git We Trust, everything else can fork off!"
 
-# Welcome to Repo Racers
-
-![Repo Racers](assets/images/repo-racers-header.png)
+![In Git We Trust](assets/images/in_git_we_trust.webp)
 
 At **Repo Racers**, we're not just a GitHub professional services company; we're your pit crew in the fast-paced world of code management and development. 🏁
 
