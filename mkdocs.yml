@@ -47,6 +47,7 @@ theme:
     - navigation.footer
 
 plugins:
+  - search
   - termynal:
       prompt_literal_start:
         - "$"
@@ -67,7 +68,10 @@ nav:
           - Beyond The Basics:
               - Backlog Management: playbook/agile_guide/beyond_the_basics/backlog_management.md
               - Collaboration: playbook/agile_guide/beyond_the_basics/collaboration.md
+              - Virtual Collaboration: playbook/agile_guide/beyond_the_basics/virtual_collaboration.md
               - Pair Programming: playbook/agile_guide/beyond_the_basics/pair_programming.md
+              - Team Dynamics: playbook/agile_guide/beyond_the_basics/team_dynamics.md
+              - Social Question: playbook/agile_guide/beyond_the_basics/social_question.md
   - Crew Contracts:
       - Definition of Done: crew_contracts/definition_of_done.md
       - 12 Factor App Checklist: crew_contracts/12_factor_app_checklist.md
