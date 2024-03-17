@@ -54,18 +54,18 @@ plugins:
 # Page tree
 nav:
   - Home: index.md
-  - Ways of Working:
-      - wow/ways_of_working.md
-      - Our Agile Guide:
-          - wow/our_agile_guide/getting_started.md
+  - Our Playook:
+      - playbook/our_playbook.md
+      - Agile Guide:
+          - playbook/agile_guide/scrumban.md
           - Basics:
-              - Backlog Management: wow/our_agile_guide/basics/backlog_management.md
-              - Ceremonies: wow/our_agile_guide/basics/ceremonies.md
-              - Roles: wow/our_agile_guide/basics/roles.md
-              - Sprints: wow/our_agile_guide/basics/sprints.md
-          - How We Ship: wow/our_agile_guide/how_we_ship/how_we_ship.md
+              - Backlog Management: playbook/agile_guide/basics/backlog_management.md
+              - Ceremonies: playbook/agile_guide/basics/ceremonies.md
+              - Roles: playbook/agile_guide/basics/roles.md
+              - Sprints: playbook/agile_guide/basics/sprints.md
+          - How We Roll: playbook/agile_guide/how_we_roll/how_we_roll.md
           - Beyond The Basics:
-              - Backlog Management: wow/our_agile_guide/beyond_the_basics/backlog_management.md
+              - Backlog Management: playbook/agile_guide/beyond_the_basics/backlog_management.md
   - Crew Contracts:
       - Definition of Done: crew_contracts/definition_of_done.md
       - 12 Factor App Checklist: crew_contracts/12_factor_app_checklist.md
