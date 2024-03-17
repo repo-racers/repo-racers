@@ -11,7 +11,7 @@
 - Any new makefiles have been commited to the `./make` directory or a remote git repository containing shared makefiles.
 - Solution has been documented in markdown files within the `./docs` directory of the repository root on the branch to be merged.
 - Git commit messages reference an issue ID by hashtag on the branch to be merged.
-- The final commit message on the branch to be merged will result in gerneration of [CHANGELOG](/CHANGELOG.md) entries by [github_changelog_generator](https://github.com/github-changelog-generator/github-changelog-generator) eg:
+- The final commit message on the branch to be merged will result in gerneration of [CHANGELOG](https://github.com/repo-racers/repo-racers/blob/main/CHANGELOG.md) entries by [github_changelog_generator](https://github.com/github-changelog-generator/github-changelog-generator) eg:
   - adr: *"commit message goes here"* (#*"issue number goes here"*)
   - devops: *"commit message goes here"* (#*"issue number goes here"*)
   - document: *"commit message goes here"* (#*"issue number goes here"*)
@@ -35,7 +35,7 @@
 - Consumers of APIs have been notified of any incompatible API changes.
 - Repository has been tagged in accordance with the rules of [Semantic Versioning 2.0.0](https://semver.org/#semantic-versioning-200).
 - Release notes have been written, localized, and associated with the repository tag.
-- [CHANGELOG](https://github.com/cprime-github-professional-services/github-migration-toolkit/blob/main/CHANGELOG.md) has been generated from code commits within the repository, peer reviewed and any additional release notes included.
+- [CHANGELOG](https://github.com/repo-racers/repo-racers/blob/main/CHANGELOG.md) has been generated from code commits within the repository, peer reviewed and any additional release notes included.
 - GitHub 'Release' has been given a descriptive and self-explanatory title.
 - GitHub 'Release' has been associated with a project milestone (if appropriate).
 - Asset links to any built binaries, or other related materials have been included in the GitHub 'Release'.

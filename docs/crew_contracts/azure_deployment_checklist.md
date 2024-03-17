@@ -178,7 +178,7 @@ Check all code into a Version Control System (VCS). The most popular choice thes
 
 ### Do code reviews
 
-Set up a code review process in your team to ensure all commits are reviewed. Pull requests are an easy way to do this. See [contribution guidelines](./contribution-guidelines.md).
+Set up a code review process in your team to ensure all commits are reviewed. Pull requests are an easy way to do this. See [contribution guidelines](../contributing/contribution_guidelines.md).
 
 ### Configure a build system
 

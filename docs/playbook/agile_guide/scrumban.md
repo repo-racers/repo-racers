@@ -12,7 +12,7 @@ With Scrum as our foundation, we focus on fostering teamwork, accountability, an
 
 - [The Basics](./basics/backlog_management.md): Begin our adventure by delving into the Scrum methodology, understanding its core values, and principles.
 - [How We Roll](./how_we_roll/how_we_roll.md): Discover the foundational elements that make us an effective crew, including our roles, responsibilities, and what we expect from each other.
-- [Beyond The Basics](./beyond_the_basics/backlog_management.md): Advance our knowledge with deeper insights into Agile and Scrum practices, learning new tools and techniques to tackle our upcoming challenges.
+- [Beyond The Basics](./beyond_the_basics/backlog_management/backlog_management.md): Advance our knowledge with deeper insights into Agile and Scrum practices, learning new tools and techniques to tackle our upcoming challenges.
 
 ## Corey's Book
 

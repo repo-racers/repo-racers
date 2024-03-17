@@ -21,7 +21,7 @@ their own, and adjust times, communication channels, branch naming policies etc.
 ## Communication
 
 - We communicate all information relevant to the crew through the Project channel
-- We add all [technical spikes](../../../design/design_reviews/recipes/technical-spike.md), [trade studies](../../../design/design_reviews/trade_studies/README.md), and other technical documentation to the project repository through [async design reviews in PRs](../../../design/design_reviews/recipes/async_design_reviews.md)
+- We add all [technical spikes](../../../design/design_reviews/recipes/technical_spike.md), [trade studies](../../../design/design_reviews/trade_studies/README.md), and other technical documentation to the project repository through [async design reviews in PRs](../../../design/design_reviews/recipes/async_design_reviews.md)
 
 ## Work-life Balance
 
@@ -36,21 +36,21 @@ their own, and adjust times, communication channels, branch naming policies etc.
 
 ## Scrum Rhythm
 
-| Activity                                                          | When                  | Duration | Who          | Accountable  | Goal                                                                       |
-|-------------------------------------------------------------------|-----------------------|----------|--------------|--------------|----------------------------------------------------------------------------|
-| [Project Standup](../../how_we_roll/how_we_roll.md)               | Tue-Fri 9AM           | 15 min   | Everyone     | Process Lead | What has been accomplished, next steps, blockers                           |
-| Sprint Demo                                                       | Monday 9AM            | 1 hour   | Everyone     | Dev Lead     | Present work done and sign off on user story completion                    |
-| [Sprint Retro](../../how_we_roll/how_we_roll.md)                  | Monday 10AM           | 1 hour   | Everyone     | Process Lead | Dev Crew shares learnings and what can be improved                        |
-| [Sprint Planning](../../how_we_roll/how_we_roll.md)               | Monday 11AM           | 1 hour   | Everyone     | PO           | Size and plan user stories for the sprint                                  |
-| Task Creation                                                     | After Sprint Planning | -        | Dev Crew     | Dev Lead     | Create tasks to clarify and determine velocity                             |
-| [Backlog refinement](../backlog_management/backlog_management.md) | Wednesday 2PM         | 1 hour   | Dev Lead, PO | PO           | Prepare for next sprint and ensure that stories are ready for next sprint. |
+| Activity                                                                               | When                  | Duration | Who          | Accountable  | Goal                                                                       |
+|----------------------------------------------------------------------------------------|-----------------------|----------|--------------|--------------|----------------------------------------------------------------------------|
+| [Project Standup](../../how_we_roll/how_we_roll.md)                                    | Tue-Fri 9AM           | 15 min   | Everyone     | Process Lead | What has been accomplished, next steps, blockers                           |
+| Sprint Demo                                                                            | Monday 9AM            | 1 hour   | Everyone     | Dev Lead     | Present work done and sign off on user story completion                    |
+| [Sprint Retro](../../how_we_roll/how_we_roll.md)                                       | Monday 10AM           | 1 hour   | Everyone     | Process Lead | Dev Crew shares learnings and what can be improved                        |
+| [Sprint Planning](../../how_we_roll/how_we_roll.md)                                    | Monday 11AM           | 1 hour   | Everyone     | PO           | Size and plan user stories for the sprint                                  |
+| Task Creation                                                                          | After Sprint Planning | -        | Dev Crew     | Dev Lead     | Create tasks to clarify and determine velocity                             |
+| [Backlog refinement](../../beyond_the_basics/backlog_management/backlog_management.md) | Wednesday 2PM         | 1 hour   | Dev Lead, PO | PO           | Prepare for next sprint and ensure that stories are ready for next sprint. |
 
 ## Process Lead
 
 The Process Lead is responsible for leading any scrum or agile practices to enable the project to move forward.
 
 - Facilitate standup meetings and hold crew accountable for attendance and participation.
-- Keep the meeting moving as described in the [Project Standup](../../core-expectations/README.md) page.
+- Keep the meeting moving as described in the [Project Standup](../../how_we_roll/how_we_roll.mdd) page.
 - Make sure all action items are documented and ensure each has an owner and a due date and tracks the open issues.
 - Notes as needed after planning / stand-ups.
 - Make sure that items are moved to the parking lot and ensure follow-up afterwards.
