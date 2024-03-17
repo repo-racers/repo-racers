@@ -17,6 +17,7 @@ copyright: Copyright &copy; 2024 Repo Racers
 # Configuration
 theme:
   name: material
+  custom_dir: docs/overrides
   favicon: 'assets/images/favicon.ico'
   palette:
     - media: "(prefers-color-scheme)"
@@ -45,6 +46,10 @@ theme:
   features:
     - navigation.tabs
     - navigation.footer
+
+# Extra
+extra:
+  404: '404.md'
 
 plugins:
   - search
