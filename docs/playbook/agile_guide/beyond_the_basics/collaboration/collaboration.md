@@ -1,5 +1,4 @@
-
-# Collaboration
+# Overview
 
 ## Why collaboration is important
 

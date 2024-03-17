@@ -60,7 +60,7 @@ plugins:
 # Page tree
 nav:
   - Home: index.md
-  - Our Playook:
+  - Our Playbook:
       - playbook/our_playbook.md
       - Agile Guide:
           - playbook/agile_guide/scrumban.md
@@ -71,12 +71,19 @@ nav:
               - Sprints: playbook/agile_guide/basics/sprints.md
           - How We Roll: playbook/agile_guide/how_we_roll/how_we_roll.md
           - Beyond The Basics:
-              - Backlog Management: playbook/agile_guide/beyond_the_basics/backlog_management.md
-              - Collaboration: playbook/agile_guide/beyond_the_basics/collaboration.md
-              - Virtual Collaboration: playbook/agile_guide/beyond_the_basics/virtual_collaboration.md
-              - Pair Programming: playbook/agile_guide/beyond_the_basics/pair_programming.md
-              - Team Dynamics: playbook/agile_guide/beyond_the_basics/team_dynamics.md
-              - Social Question: playbook/agile_guide/beyond_the_basics/social_question.md
+              - Backlog Management: playbook/agile_guide/beyond_the_basics/backlog_management/backlog_management.md
+              - Collaboration:
+                  - playbook/agile_guide/beyond_the_basics/collaboration/collaboration.md
+                  - Virtual Collaboration: playbook/agile_guide/beyond_the_basics/collaboration/virtual_collaboration.md
+                  - Pair Programming: playbook/agile_guide/beyond_the_basics/collaboration/pair_programming.md
+                  - Team Dynamics: playbook/agile_guide/beyond_the_basics/collaboration/team_dynamics.md
+                  - Social Question: playbook/agile_guide/beyond_the_basics/collaboration/social_question.md
+              - Crew Contracts:
+                  - playbook/agile_guide/beyond_the_basics/crew_contracts/crew_contracts.md
+                  - playbook/agile_guide/beyond_the_basics/crew_contracts/crew_manifesto.md
+                  - playbook/agile_guide/beyond_the_basics/crew_contracts/working_agreement.md
+                  - playbook/agile_guide/beyond_the_basics/crew_contracts/definition_of_ready.md
+                  - playbook/agile_guide/beyond_the_basics/crew_contracts/definition_of_done.md
   - Crew Contracts:
       - Definition of Done: crew_contracts/definition_of_done.md
       - 12 Factor App Checklist: crew_contracts/12_factor_app_checklist.md
@@ -86,6 +93,8 @@ nav:
       - cheat_sheets/cheat_sheets.md
   - Service Catalog:
       - service_catalog/service_catalog.md
+  - Product Catalog:
+      - product_catalog/product_catalog.md
   - Contributing To This Repository:
       - contributing/contribution_guidelines.md
       - Pre-Commit: contributing/pre_commit.md
