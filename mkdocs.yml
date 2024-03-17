@@ -66,6 +66,8 @@ nav:
           - How We Roll: playbook/agile_guide/how_we_roll/how_we_roll.md
           - Beyond The Basics:
               - Backlog Management: playbook/agile_guide/beyond_the_basics/backlog_management.md
+              - Collaboration: playbook/agile_guide/beyond_the_basics/collaboration.md
+              - Pair Programming: playbook/agile_guide/beyond_the_basics/pair_programming.md
   - Crew Contracts:
       - Definition of Done: crew_contracts/definition_of_done.md
       - 12 Factor App Checklist: crew_contracts/12_factor_app_checklist.md
