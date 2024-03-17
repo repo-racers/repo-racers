@@ -62,6 +62,7 @@ nav:
   - Home: index.md
   - Our Playbook:
       - playbook/our_playbook.md
+      - playbook/accessibility.md
       - Agile Guide:
           - playbook/agile_guide/scrumban.md
           - Basics:
