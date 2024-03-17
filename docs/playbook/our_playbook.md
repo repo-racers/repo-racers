@@ -1,5 +1,7 @@
 # Why have a Playbook?
 
+![Playbook](../assets/images/playbook.webp)
+
 At Repo Racers, our Playbook is more than just a collection of procedures; it's the backbone of our crew's collaboration and efficiency.
 More than a set of instructions, it's an invitation for our crew to contribute to and benefit from a living, evolving repository of knowledge. This approach not only streamlines our internal processes but also affords us a unique opportunity to share our experiences with the wider open source community.
 
