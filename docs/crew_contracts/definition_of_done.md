@@ -8,7 +8,7 @@ The DoD at the pull request level focuses on ensuring that individual changes or
 
 [GitHub Documentation](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 
-- Scope complete as described in the work item's Definition of Ready.
+- Scope complete as described in the work item's [Definition of Ready](./definition_of_ready.md).
 - Application architecture complies with the [12 Factor App Checklist](./12_factor_app_checklist.md).
 - Infrastructure architecture complies with the [Azure Deployment Checklist](./azure_deployment_checklist.md).
 - Group or individual codeowners identified int the project  `.github/CODEOWNERS` file for all artefacts on the branch to be merged.
@@ -35,7 +35,7 @@ The DoD at the release level encompasses a broader scope, verifying that a colle
 
 [GitHub Documentation](https://docs.github.com/en/github/administering-a-repository/releasing-projects-on-github/managing-releases-in-a-repository)
 
-- Scope complete as described in the work item's Definition of Ready.
+- Scope complete as described in the work item's [Definition of Ready](./definition_of_ready.md).
 - Application architecture complies with the [12 Factor App Checklist](./12_factor_app_checklist.md).
 - Infrastructure architecture complies with the [Azure Deployment Checklist](./azure_deployment_checklist.md).
 - Full spectrum automated tests pass *"consistently"* without failure for entire code base.
