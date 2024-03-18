@@ -1,5 +1,14 @@
 # Azure Deployment Checklist
 
+Deploying applications in the cloud, especially on a platform as robust as Azure, requires meticulous planning and execution. 
+
+Our Azure Deployment Checklist is provides us with guardrails in the nuanced landscape of cloud deployment, ensuring that our applications are not only efficiently deployed but also optimized for performance, cost, and security. 
+
+This checklist covers a broad spectrum of considerations, including server-side configurations, client-side optimizations, data storage solutions, scalability, continuous integration and delivery practices, networking, security protocols, monitoring strategies, and cost optimization techniques.
+
+At two critical junctures of the deployment process—server-side setups and client-side configurations—we delve into specific actions like building VM Images, deploying Docker images, configuring CPU and memory settings, and more. Each section is crafted to ensure our deployment aligns with Azure's best practices and our organizational goals, whether we're rolling out a new application or optimizing an existing one.
+
+
 1. [Server-side](#server-side)
 1. [Client-side](#client-side)
 1. [Data storage](#data-storage)
