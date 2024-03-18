@@ -20,14 +20,30 @@ code. If there is anything you're unsure about, just ask!
 
 Click on the 'Fork' button at the top right corner of the repository page. This will create a copy of the repository in your GitHub account.
 
-### Guidelines
+### Make your changes
 
-Here are a few things you can do that will increase the likelihood of your pull request being accepted:
+Perform the necessary edits, additions, or deletions to files in your local repository.
 
-- Follow standards for style and code quality.
-- Write tests.
-- Keep your change as focused as possible. If there are multiple changes you would like to make that are not dependent upon each other, consider submitting them as separate pull requests.
-- Write a [good commit message](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
+### Commit your changes
+
+Commit your changes with a clear and descriptive [commit message](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
+
+### Push changes to your fork
+
+Push the changes to your GitHub fork.
+
+### Submit a Pull Request
+
+On your fork's GitHub page, use the "Compare & pull request" button to submit your Pull Request.
+
+### Tips for increasing the likelihood your Pull Request will be accepeted
+
+- Adhere to any contribution guidelines provided by this project.
+- Ensure your Pull Request title and description effectively communicate the purpose and content of your changes.
+- Smaller, more focused Pull Requests are easier to review and more likely to be accepted.
+- Match the coding style of this project, including naming conventions and documentation.
+- Thoroughly test your changes to ensure they work correctly and do not introduce new issues.
+- Be prepared to make adjustments based on feedback from the project maintainers.
 
 ## Crew contributions
 
