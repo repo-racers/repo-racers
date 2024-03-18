@@ -189,3 +189,29 @@ git stash list
 git clean -n  # Dry run to show which files will be removed
 git clean -f  # Force the removal of untracked files
 ```
+
+## Tagging
+
+### List all tags
+
+```bash
+git tag
+```
+
+### Create a new tag
+
+```bash
+git tag -a tag-name -m "Tag message"
+```
+
+### Show the commit that was tagged
+
+```bash
+git show tag-name
+```
+
+### Delete a tag
+
+```bash
+git tag -d tag-name
+```

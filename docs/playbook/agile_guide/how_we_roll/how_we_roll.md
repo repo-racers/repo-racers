@@ -6,7 +6,7 @@
 
 ## Project Guidelines
 
-- Our crews deliver reliably.
+- Our crew delivers reliably.
 - We share adjustments openly.
 - Roles and responsibilities are defined upfront.
 - Continuously refining our process is key to our success.
@@ -37,7 +37,7 @@
 - Prepare and assign stories to ensure understanding and ownership.
 - Distribute tasks based on team strengths and project needs.
 
-### Continuous Improvement
+### Backlog Refinement
 
 - Ensure user stories are well-defined.
 - Incorporate design tasks into the backlog.
