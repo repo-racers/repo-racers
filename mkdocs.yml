@@ -91,7 +91,7 @@ nav:
       - Azure Deployment Checklist: crew_contracts/azure_deployment_checklist.md
       - Code of Conduct: crew_contracts/code_of_conduct.md
   - Cheat Sheets:
-      - cheat_sheets/cheat_sheets.md
+      - cheat_sheets/git_cli.md
   - Service Catalog:
       - service_catalog/service_catalog.md
   - Product Catalog:
