@@ -46,7 +46,7 @@
 
 ### Showcasing Progress
 
-- Sprint Demos highlight the sprint's achievements within the larger project context.
+- Weekly Sprint Demos highlight the sprint's achievements within the larger project context.
 
 ### Daily Coordination
 
