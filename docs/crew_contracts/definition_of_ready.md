@@ -1,6 +1,8 @@
 # Definition of Ready
 
-Before a Product Backlog Item (PBI) is considered "ready" for sprint inclusion, it must satisfy the following criteria:
+A great definition of "ready" for an Agile product backlog item (PBI) indicates that the item is sufficiently prepared, understood, and actionable for the development team to begin work on it in an upcoming sprint. This definition typically ensures that all necessary prerequisites for starting work on the PBI have been met. Here's a detailed breakdown of what makes a PBI "ready":
+
+Before our crew considers a Product Backlog Item (PBI) "ready" for sprint inclusion, it must satisfy the following criteria:
 
 ## Clarity
 The PBI has a clear, concise description detailing the what, why, and value.
