@@ -86,6 +86,7 @@ nav:
                   - playbook/agile_guide/beyond_the_basics/crew_contracts/definition_of_ready.md
                   - playbook/agile_guide/beyond_the_basics/crew_contracts/definition_of_done.md
   - Crew Contracts:
+      - Definition of Ready: crew_contracts/definition_of_ready.md 
       - Definition of Done: crew_contracts/definition_of_done.md
       - 12 Factor App Checklist: crew_contracts/12_factor_app_checklist.md
       - Azure Deployment Checklist: crew_contracts/azure_deployment_checklist.md
