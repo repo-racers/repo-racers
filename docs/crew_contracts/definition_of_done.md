@@ -1,7 +1,5 @@
 # Definition of Done
 
-# Definition of Done Checklist
-
 Our Definition of Done (DoD) establishes clear, agreed-upon criteria that signify the completion of work at different stages of our development cycle. It ensures quality, completeness, and alignment with our project goals and customer expectations. At Repo Racers, we adhere to a two-tiered DoD to encapsulate the essential checkpoints for our development process: one at the **Pull Request** level and another at the **Release** level.
 
 ## Pull Request Level
