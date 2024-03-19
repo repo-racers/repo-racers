@@ -11,9 +11,13 @@ This project is not just a narrative; it's a demonstration of our team's ability
 ## Synopsis
 
 > In the shadow-streaked corners of 'Bankrupt Britain,' a simmering fury boils within the hearts of those betrayed and burdened by the insatiable greed of the generations before them. Boomers, in their reckless pursuit of excess, have shackled their children and grandchildren with chains of debt so dense, the air reeks of despair.
+
 > This isn't just resentment; it's a declaration of war.
+
 > At the forefront of this new age stands the Zero Debt Hacktivists, a cadre of razor-sharp activists, the spearhead of a disenfranchised generation. They've witnessed the pillage of their future, seen their dreams auctioned off to the highest bidder, and they're not standing for it any longer. With a fire in their bellies and fury in their eyes, they plot the ultimate act of rebellion: a mass bankruptcy declaration.
+
 > And then, the unthinkable: the entire UK population below the age of 35 stands united, declaring bankruptcy on the same cataclysmic day. Orchestrated by the Zero Debt Hacktivists, this collective defiance sends the pound into freefall and resets the debt clock to null. The establishment quakes as their empire of cards collapses, a nation's chains shattered by the very ones they sought to enslave.
+
 > 'Bankrupt Britain' isn't just a story; it's a gritty, raw testament to the power of collective action against the juggernaut of generational greed. It's a wake-up call, ringing loud in the silent aftermath, a question hanging in the balance: What comes after the dust settles?
 
 ## Our Mission: More Than Just a Story
