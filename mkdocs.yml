@@ -101,3 +101,5 @@ nav:
   - Contributing To This Repository:
       - contributing/contribution_guidelines.md
       - Pre-Commit: contributing/pre_commit.md
+  - Showcase:
+      - showcase/showcase.md
