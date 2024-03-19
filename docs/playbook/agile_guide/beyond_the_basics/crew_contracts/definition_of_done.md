@@ -5,7 +5,7 @@ To close a user story, a sprint, or a milestone it is important to verify that t
 
 The development crew should decide together what their Definition of Done is and document this in the project. Below are some examples of checks to verify that the user story, sprint, task is completed.
 
-## Work Item
+## Product Backlog Item (PBI)
 
 - Acceptance criteria are met
 - Refactoring is complete
