@@ -51,5 +51,3 @@ Drawing inspiration from various Agile frameworks such as Scrum, Scrumban, Extre
 ### Daily Sync-ups
 
 - **Efficient Coordination**: Our daily meetings are succinct, concentrating on progress updates, immediate plans, and addressing blockers, ensuring that every crew member is aligned and informed.
-
-

@@ -5,28 +5,35 @@ A great definition of "ready" for an Agile product backlog item (PBI) indicates 
 Before our crew considers a Product Backlog Item (PBI) "ready" for sprint inclusion, it must satisfy the following criteria:
 
 ## Clarity
+
 The PBI has a clear, concise description detailing the what, why, and value.
 
 Acceptance criteria are specified, outlining the conditions for completion.
 
 ## Feasibility
+
 Assessed as technically feasible with the current technology stack and skills.
 
 All external dependencies identified and resolved or planned for.
 
 ## Size
+
 The PBI is appropriately sized to be completed within a single sprint.
 
 ## Prioritized
+
 The PBI has been prioritized against other items in the backlog.
 
 ## Estimable
+
 The team has estimated the effort required using their preferred technique (e.g., story points, T-shirt sizes).
 
 ## Team Consensus
+
 There is consensus among the team, including product owners, developers, and other stakeholders, that the PBI is ready.
 
 ## User-Centric
+
 The PBI articulates clear user or business value, justifying its priority.
 
 ## Notes for the Crew
