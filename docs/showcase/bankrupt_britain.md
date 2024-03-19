@@ -31,3 +31,9 @@ At Repo Racers, we believe in pushing the boundaries of what's possible. "Bankru
 ## Why This Matters
 
 In creating "Bankrupt Britain," we're doing more than telling a story. We're setting a precedent for how technology can be used to amplify creative voices and tackle complex issues. This graphic novel serves as a showcase of our expertise in GitHub, OpenAI, and beyond, illustrating the potential for tech-driven storytelling and its impact on society.
+
+## Get Involved
+
+If you find the vision behind "Bankrupt Britain" intriguing and are eager to contribute to this groundbreaking blend of technology and storytelling, we would love to hear from you. Whether you're skilled in programming, graphic design, storytelling, or simply passionate about driving change, your expertise and enthusiasm can help elevate this project to new heights.
+
+Get in touch with us at [hello@reporacers.com](hello@reporacers.com) to explore how you can be a part of this innovative journey. Let's create something extraordinary together!

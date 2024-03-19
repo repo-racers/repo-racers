@@ -92,8 +92,6 @@ nav:
       - 12 Factor App Checklist: crew_contracts/12_factor_app_checklist.md
       - Azure Deployment Checklist: crew_contracts/azure_deployment_checklist.md
       - Code of Conduct: crew_contracts/code_of_conduct.md
-  - Cheat Sheets:
-      - cheat_sheets/git_cli.md
   - Service Catalog:
       - service_catalog/service_catalog.md
   - Product Catalog:
@@ -102,4 +100,4 @@ nav:
       - contributing/contribution_guidelines.md
       - Pre-Commit: contributing/pre_commit.md
   - Showcase:
-      - showcase/showcase.md
+      - showcase/bankrupt_britain.md
