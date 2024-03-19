@@ -4,7 +4,7 @@
 
 Welcome to an exhilarating venture by Repo Racers, where we break the mold to bring you "Bankrupt Britain," a graphic novel that encapsulates the essence of our technological prowess, creative ambition, and insightful commentary on societal issues.
 
-This project is not just a narrative; it's a demonstration of our team's ability to harness the latest in GitHub, OpenAI, and Midjourney innovations, blending cutting-edge technology with compelling storytelling.
+This project is not just a narrative; it's a demonstration of our team's ability to harness the latest in GitHub, OpenAI, and Midjourney, blending cutting-edge technology with compelling storytelling.
 
 ![Counting](./images/counting.webp)
 
