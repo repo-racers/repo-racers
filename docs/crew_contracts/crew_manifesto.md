@@ -1,5 +1,7 @@
 # Crew Manifesto
 
+![Manifesto](../assets/images/crew_manifesto.webp)
+
 We, the development crew, pledge to uphold the highest standards of technical excellence and agility in every project engagement. This manifesto serves as our guide and commitment to fostering a culture of collaboration, innovation, and respect.
 
 ## Collective Ownership
