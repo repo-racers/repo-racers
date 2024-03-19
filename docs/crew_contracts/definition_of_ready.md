@@ -1,47 +1,44 @@
-# Definition of Ready
+# Our Crew's Definition of Ready
 
-A great definition of "ready" for an Agile product backlog item (PBI) indicates that the item is sufficiently prepared, understood, and actionable for the development team to begin work on it in an upcoming sprint. This definition typically ensures that all necessary prerequisites for starting work on the PBI have been met.
-
-Before our crew considers a Product Backlog Item (PBI) "ready" for sprint inclusion, it must satisfy the following criteria:
+To declare a Product Backlog Item (PBI) as "ready" for inclusion in our sprints, it must meet the comprehensive criteria set forth below:
 
 ## Clarity
 
-The PBI has a clear, concise description detailing the what, why, and value.
-
-Acceptance criteria are specified, outlining the conditions for completion.
+- **Well-Defined Objective:** The PBI must articulate a specific goal or functionality, detailing the what, the why, and the value to the user or business.
+- **Detailed Acceptance Criteria:** It includes precise, measurable conditions that must be met for the PBI to be considered complete, facilitating clarity and consensus on the definition of done.
 
 ## Feasibility
 
-Assessed as technically feasible with the current technology stack and skills.
-
-All external dependencies identified and resolved or planned for.
+- **Technical Viability:** Assessed and confirmed to be technically feasible within our current technology ecosystem, leveraging our collective skills and expertise.
+- **Dependencies Managed:** All external dependencies are identified, with strategies in place to address or mitigate them, ensuring no roadblocks to progress.
 
 ## Size
 
-The PBI is appropriately sized to be completed within a single sprint.
+- **Sprint Compatible:** Sized to fit comfortably within a sprint, considering our velocity and capacity, to avoid spillover and ensure achievable delivery targets.
+- **Breakdown and Refinement:** Larger items are broken down into smaller, manageable pieces that can be completed within a sprint, enhancing focus and delivery predictability.
 
-## Prioritized
+## Prioritization
 
-The PBI has been prioritized against other items in the backlog.
+- **Aligned with Strategy:** Clearly prioritized based on strategic value, urgency, and impact on project objectives, ensuring that we're always working on what matters most.
+- **Stakeholder Consensus:** Prioritization reflects a consensus among stakeholders, including product owners and the development team, balancing business needs and technical considerations.
 
-## Estimable
+## Estimability
 
-The team has estimated the effort required using their preferred technique (e.g., story points, T-shirt sizes).
+- **Collaboratively Estimated:** The effort required is estimated by the team, using techniques like planning poker to ensure a shared understanding and commitment.
+- **Reflective of Complexity and Effort:** Estimates consider the complexity, effort, and potential uncertainties, fostering realistic planning and allocation.
 
 ## Team Consensus
 
-There is consensus among the team, including product owners, developers, and other stakeholders, that the PBI is ready.
+- **Unified Agreement:** Full team consensus on the PBI's readiness, ensuring everyone is on board, understands the scope, and is committed to delivering the expected outcomes.
+- **Open Discussion:** Encourages robust discussion and questions, ensuring any concerns are addressed and resolved before commitment.
 
 ## User-Centric
 
-The PBI articulates clear user or business value, justifying its priority.
+- **User Benefits Clear:** The PBI clearly demonstrates how it benefits the user or enhances the business value, justifying its inclusion and priority in the sprint.
+- **User Feedback Incorporated:** Where possible, incorporates user feedback or insights to ensure that the solution meets real user needs and preferences.
 
-## Notes for the Crew
+## Implementation Notes for Our Crew
 
-Ensure all checklist items are reviewed and ticked off during backlog refinement sessions or before sprint planning.
-
-Encourage open discussions about each criterion to ensure shared understanding and agreement.
-
-Adjustments to the checklist should be made collaboratively, reflecting lessons learned and evolving project needs.
-
-This checklist is a living document. It should evolve as the team learns and adapts its processes.
+- **Engage in Rigorous Refinement Sessions:** Utilize backlog refinement sessions to diligently assess and confirm each criterion, ensuring no PBI is prematurely considered ready.
+- **Foster a Culture of Continuous Improvement:** Regularly revisit and refine our Definition of Ready, incorporating learnings and feedback to evolve our practices.
+- **Encourage Full Participation and Ownership:** Every team member, from developers to product owners, actively participates in defining and agreeing on the readiness of PBIs, fostering a sense of ownership and shared responsibility.
