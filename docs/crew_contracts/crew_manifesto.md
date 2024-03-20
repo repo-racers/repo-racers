@@ -1,3 +1,6 @@
+![Margaret Hamilton](../assets/images/john_von_neumann.webp)
+<p align="right"><sub><a href="https://en.wikipedia.org/wiki/John_von_Neumann" target="_blank">John von Neumann</a> (AI Generated Artwork)</sub></p>
+
 # Crew Manifesto
 
 We, the development crew, pledge to uphold the highest standards of technical excellence and agility in every project engagement. This manifesto serves as our guide and commitment to fostering a culture of collaboration, innovation, and respect.
