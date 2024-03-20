@@ -5,7 +5,7 @@ hide:
 ---
 # "In Git We Trust."
 
-![In Git We Trust](assets/images/alan_turing.webp)
+![Alan Turing](assets/images/alan_turing.webp)
 <p align="right"><sub><a href="https://en.wikipedia.org/wiki/Alan_Turing" target="_blank">Alan Mathison Turing</a> (AI Generated Artwork)</sub></p>
 
 ## Welcome

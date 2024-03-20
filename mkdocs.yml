@@ -99,5 +99,7 @@ nav:
   - Contributing To This Repository:
       - contributing/contribution_guidelines.md
       - Pre-Commit: contributing/pre_commit.md
+  - Our Heroes:
+      - our_heroes/our_heroes.md
   - Showcase:
       - showcase/bankrupt_britain.md
