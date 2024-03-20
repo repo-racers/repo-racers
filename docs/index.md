@@ -3,13 +3,16 @@ hide:
   - navigation
   - toc
 ---
-# "In Git We Trust, everything else can fork off!"
+# "In Git We Trust."
 
-![In Git We Trust](assets/images/in_git_we_trust.webp)
+![In Git We Trust](assets/images/alan_turing.webp)
+<p align="right"><sub><a href="https://en.wikipedia.org/wiki/Alan_Turing" target="_blank">Alan Mathison Turing</a> (AI Generated Artwork)</sub></p>
+
+## Welcome
 
 Welcome to **Repo Racers**, your premier GitHub professional services partner. We are dedicated to enhancing your GitHub experience, offering expert support for code management and development.
 
-## What We Offer
+### What We Offer
 
 At Repo Racers, we provide comprehensive services to optimize your GitHub usage, catering to both emerging startups and established Fortune 500 companies. Our offerings include:
 

@@ -1,7 +1,5 @@
 # Scrumban
 
-![Scrum](../../assets/images/scrum.webp)
-
 Welcome to the starting point for our crew's journey through the world of Scrum, Kanban and Agile. This guide is tailor-made for us, there are many ways to do Agile, this is how we do it.
 
 ## [Scrumban](https://www.agilealliance.org/scrumban/)
