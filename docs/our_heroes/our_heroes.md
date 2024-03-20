@@ -30,14 +30,17 @@ Known as the "father of information theory," Shannon's work laid the groundwork 
 ## Donald Knuth (b. 1938)
 
 ![Donald Knuth](../assets/images/donald_knuth.webp)
-
 An expert in algorithms and the author of "The Art of Computer Programming," Knuth's work has been influential in the development of the field.
 
 <a href="https://en.wikipedia.org/wiki/Donald_Knuth" target="_blank">Donald Knuth - Wikipedia</a>
 
 ## Edsger W. Dijkstra (1930–2002)
 
+![Edsger W. Dijkstra](../assets/images/edsger_w_dijkstra.webp)
+
 A pioneer in many areas of computer science, Dijkstra is known for his work on algorithm design and his contributions to the discipline of programming as a high-level engineering profession.
+
+<a href="https://en.wikipedia.org/wiki/Edsger_W._Dijkstra" target="_blank">Edsger W. Dijkstra  - Wikipedia</a>
 
 ## Frances E. Allen (1932–2020)
 
