@@ -1,3 +1,6 @@
+![Ada Lovelace](../assets/images/ada_lovelace.webp)
+<p align="right"><sub><a href="https://en.wikipedia.org/wiki/Ada_Lovelace" target="_blank">Augusta Ada King</a> (AI Generated Artwork)</sub></p>
+
 # Why have a Playbook?
 
 At Repo Racers, our Playbook is more than just a collection of procedures; it's the backbone of our crew's collaboration and efficiency.
