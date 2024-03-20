@@ -15,7 +15,10 @@ Often considered the father of theoretical computer science and artificial intel
 
 ## Barbara Liskov (b. 1939)
 
+![Barbara Liskov](../assets/images/barbara_liskov.webp)
 A computer scientist who was awarded the Turing Award for her work in the design of programming languages and software methodology that led to the development of object-oriented programming.
+
+<a href="https://en.wikipedia.org/wiki/Barbara_Liskov" target="_blank">Barbara Liskov - Wikipedia</a>
 
 ## Claude Shannon (1916–2001)
 
