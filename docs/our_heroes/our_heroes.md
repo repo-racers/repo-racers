@@ -22,11 +22,18 @@ A computer scientist who was awarded the Turing Award for her work in the design
 
 ## Claude Shannon (1916–2001)
 
+![Claude Shannon](../assets/images/claude_shannon.webp)
 Known as the "father of information theory," Shannon's work laid the groundwork for digital circuit design theory and telecommunications.
+
+<a href="https://en.wikipedia.org/wiki/Claude_Shannon" target="_blank">Claude Shannon - Wikipedia</a>
 
 ## Donald Knuth (b. 1938)
 
+![Donald Knuth](../assets/images/donald_knuth.webp)
+
 An expert in algorithms and the author of "The Art of Computer Programming," Knuth's work has been influential in the development of the field.
+
+<a href="https://en.wikipedia.org/wiki/Donald_Knuth" target="_blank">Donald Knuth - Wikipedia</a>
 
 ## Edsger W. Dijkstra (1930–2002)
 
