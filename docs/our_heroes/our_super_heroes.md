@@ -62,11 +62,14 @@ A pioneer in the field of compiler optimization, Allen became the first woman to
 ![Grace Hopper](../assets/images/grace_hopper.webp)
 A rear admiral in the U.S. Navy, Hopper was a pioneer of computer programming who invented one of the first compiler-related tools. She played a significant role in the development of COBOL, one of the earliest high-level programming languages.
 
-<a href="https://en.wikipedia.org/wiki/Grace_Hopper" target="_blank">Grace Hopper  - Wikipedia</a>
+<a href="https://en.wikipedia.org/wiki/Grace_Hopper" target="_blank">Grace Hopper - Wikipedia</a>
 
 ## Hedy Lamarr (1914–2000)
 
+![Heddy Lamarr](../assets/images/heddy_lamarr.webp)
 While primarily known as a film actress, Lamarr was also a co-inventor of an early technique for spread spectrum communications, a key to modern wireless communication technology.
+
+<a href="https://en.wikipedia.org/wiki/Hedy_Lamarr" target="_blank">Heddy Lamarr - Wikipedia</a>
 
 ## Joan Clarke (1917–1996)
 
