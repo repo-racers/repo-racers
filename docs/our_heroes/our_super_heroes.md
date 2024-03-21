@@ -90,9 +90,9 @@ A pioneer in information retrieval and natural language processing, Jones develo
 
 A mathematician whose work for NASA included calculating trajectories for the Mercury and Apollo missions. Her story was popularized in the film "Hidden Figures."
 
-## Ken Thompson (b. 1943) and Dennis Ritchie (1941–2011)
+## Dennis Ritchie (1941–2011)
 
-Co-creators of UNIX, an operating system that has had a profound influence on the development of software and programming languages. Ritchie also created the C programming language, one of the most widely used languages today.
+Co-creator of UNIX with Ken Thompson, an operating system that has had a profound influence on the development of software and programming languages. Ritchie also created the C programming language, one of the most widely used languages today.
 
 ## Linus Torvalds (b. 1969)
 
@@ -116,7 +116,3 @@ Founder of the Free Software Movement, Stallman initiated the development of the
 ## Tim Berners-Lee (b. 1955)
 
 Inventor of the World Wide Web, Berners-Lee has been a pivotal figure in making the internet accessible and usable for people worldwide.
-
-## Vint Cerf (b. 1943) and Robert Kahn (b. 1938)
-
-Known as the "fathers of the Internet," they co-designed TCP/IP protocols and the architecture of the Internet.
