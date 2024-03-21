@@ -59,7 +59,7 @@ A pioneer in the field of compiler optimization, Allen became the first woman to
 
 ## Grace Hopper (1906–1992)
 
-![Grace Hopper](../assets/images/grace_hopper.webp)
+![Grace Hopper](../assets/images/_grace_hopper.webp)
 A rear admiral in the U.S. Navy, Hopper was a pioneer of computer programming who invented one of the first compiler-related tools. She played a significant role in the development of COBOL, one of the earliest high-level programming languages.
 
 <a href="https://en.wikipedia.org/wiki/Grace_Hopper" target="_blank">Grace Hopper - Wikipedia</a>
