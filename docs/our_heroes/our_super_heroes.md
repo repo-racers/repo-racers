@@ -52,7 +52,7 @@ A pioneer in many areas of computer science, Dijkstra is known for his work on a
 
 ## Frances E. Allen (1932–2020)
 
-![Frances E. Allen](../assets/images/_frances_e_allen.webp)
+![Frances E. Allen](../assets/images/frances_e_allen.webp)
 A pioneer in the field of compiler optimization, Allen became the first woman to win the Turing Award, which is often referred to as the "Nobel Prize of Computing."
 
 <a href="https://en.wikipedia.org/wiki/Frances_Allen" target="_blank">Frances E. Allen - Wikipedia</a>
