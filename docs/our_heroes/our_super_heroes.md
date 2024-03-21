@@ -66,10 +66,10 @@ A rear admiral in the U.S. Navy, Hopper was a pioneer of computer programming wh
 
 ## Hedy Lamarr (1914–2000)
 
-![Heddy Lamarr](../assets/images/heddy_lamarr.webp)
+![Hedy Lamarr](../assets/images/hedy_lamarr.webp)
 While primarily known as a film actress, Lamarr was also a co-inventor of an early technique for spread spectrum communications, a key to modern wireless communication technology.
 
-<a href="https://en.wikipedia.org/wiki/Hedy_Lamarr" target="_blank">Heddy Lamarr - Wikipedia</a>
+<a href="https://en.wikipedia.org/wiki/Hedy_Lamarr" target="_blank">Hedy Lamarr - Wikipedia</a>
 
 ## Joan Clarke (1917–1996)
 
