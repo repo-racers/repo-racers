@@ -6,7 +6,7 @@ Welcome to an exhilarating venture by Repo Racers, where we break the mold to br
 
 This project is not just a narrative; it's a demonstration of our team's ability to harness the latest in GitHub, OpenAI, and Midjourney, blending cutting-edge technology with compelling storytelling.
 
-![Counting](./images/counting.webp)
+![Counting](./images/bankrupt_britain.webp)
 
 ## Synopsis
 
