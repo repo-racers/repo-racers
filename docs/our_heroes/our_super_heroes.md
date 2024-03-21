@@ -46,7 +46,6 @@ An expert in algorithms and the author of "The Art of Computer Programming," Knu
 ## Edsger W. Dijkstra (1930–2002)
 
 ![Edsger W. Dijkstra](../assets/images/edsger_w_dijkstra.webp)
-
 A pioneer in many areas of computer science, Dijkstra is known for his work on algorithm design and his contributions to the discipline of programming as a high-level engineering profession.
 
 <a href="https://en.wikipedia.org/wiki/Edsger_W._Dijkstra" target="_blank">Edsger W. Dijkstra  - Wikipedia</a>
@@ -54,14 +53,16 @@ A pioneer in many areas of computer science, Dijkstra is known for his work on a
 ## Frances E. Allen (1932–2020)
 
 ![Frances E. Allen](../assets/images/frances_e_allen.webp)
-
 A pioneer in the field of compiler optimization, Allen became the first woman to win the Turing Award, which is often referred to as the "Nobel Prize of Computing."
 
 <a href="https://en.wikipedia.org/wiki/Frances_Allen" target="_blank">Frances E. Allen - Wikipedia</a>
 
 ## Grace Hopper (1906–1992)
 
+![Grace Hopper](../assets/images/grace_hopper.webp)
 A rear admiral in the U.S. Navy, Hopper was a pioneer of computer programming who invented one of the first compiler-related tools. She played a significant role in the development of COBOL, one of the earliest high-level programming languages.
+
+<a href="https://en.wikipedia.org/wiki/Grace_Hopper" target="_blank">Grace Hopper  - Wikipedia</a>
 
 ## Hedy Lamarr (1914–2000)
 
