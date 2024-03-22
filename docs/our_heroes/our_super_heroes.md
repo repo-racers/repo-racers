@@ -87,7 +87,10 @@ Made foundational contributions to the development of digital computers, includi
 
 ## Karen Spärck Jones (1935–2007)
 
+![Karen Spärck Jones](../assets/images/karen_spark_jones.webp)
 A pioneer in information retrieval and natural language processing, Jones developed the concept of inverse document frequency, a key to search engine technology.
+
+<a href="https://en.wikipedia.org/wiki/Karen_Sp%C3%A4rck_Jones" target="_blank">Karen Spärck Jones - Wikipedia</a>
 
 ## Katherine Johnson (1918–2020)
 
