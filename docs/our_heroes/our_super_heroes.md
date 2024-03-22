@@ -73,7 +73,10 @@ While primarily known as a film actress, Lamarr was also a co-inventor of an ear
 
 ## Joan Clarke (1917–1996)
 
+![Joan Clarke](../assets/images/joan_clarke.webp)
 A codebreaker who worked alongside Alan Turing at Bletchley Park during World War II, contributing to decrypting the Enigma code.
+
+<a href="https://en.wikipedia.org/wiki/Joan_Clarke" target="_blank">Joan Clarke - Wikipedia</a>
 
 ## John von Neumann (1903–1957)
 
