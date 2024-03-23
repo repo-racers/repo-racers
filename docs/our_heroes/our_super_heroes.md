@@ -94,7 +94,10 @@ A mathematician whose work for NASA included calculating trajectories for the Me
 
 ## Dennis Ritchie (1941–2011)
 
+![Dennis Ritchie](../assets/images/dennis_ritchie.webp)
 Co-creator of UNIX with Ken Thompson, an operating system that has had a profound influence on the development of software and programming languages. Ritchie also created the C programming language, one of the most widely used languages today.
+
+<a href="https://en.wikipedia.org/wiki/Dennis_Ritchie" target="_blank">Dennis Ritchie - Wikipedia</a>
 
 ## Linus Torvalds (b. 1969)
 
