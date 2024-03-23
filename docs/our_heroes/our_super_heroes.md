@@ -36,13 +36,6 @@ Known as the "father of information theory," Shannon's work laid the groundwork 
 
 <a href="https://en.wikipedia.org/wiki/Claude_Shannon" target="_blank">Claude Shannon - Wikipedia</a>
 
-## Donald Knuth (b. 1938)
-
-![Donald Knuth](../assets/images/donald_knuth.webp)
-An expert in algorithms and the author of "The Art of Computer Programming," Knuth's work has been influential in the development of the field.
-
-<a href="https://en.wikipedia.org/wiki/Donald_Knuth" target="_blank">Donald Knuth - Wikipedia</a>
-
 ## Edsger W. Dijkstra (1930–2002)
 
 ![Edsger W. Dijkstra](../assets/images/edsger_w_dijkstra.webp)
@@ -94,7 +87,10 @@ A pioneer in information retrieval and natural language processing, Jones develo
 
 ## Katherine Johnson (1918–2020)
 
+![Katherine Johnson](../assets/images/katherine_johnson.webp)
 A mathematician whose work for NASA included calculating trajectories for the Mercury and Apollo missions. Her story was popularized in the film "Hidden Figures."
+
+<a href="https://en.wikipedia.org/wiki/Katherine_Johnson" target="_blank">Katherine Johnson - Wikipedia</a>
 
 ## Dennis Ritchie (1941–2011)
 
