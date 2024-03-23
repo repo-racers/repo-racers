@@ -98,7 +98,10 @@ Co-creator of UNIX with Ken Thompson, an operating system that has had a profoun
 
 ## Linus Torvalds (b. 1969)
 
+![Linus Torvalds](../assets/images/linus_torvalds.webp)
 The creator of Linux, an open-source operating system kernel that powers millions of servers, desktops, and mobile devices around the world.
+
+<a href="https://en.wikipedia.org/wiki/Linus_Torvalds" target="_blank">Linus Torvalds - Wikipedia</a>
 
 ## Margaret Hamilton (b. 1936)
 
@@ -107,14 +110,9 @@ As the director of the Software Engineering Division of the MIT Instrumentation 
 
 <a href="https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)" target="_blank">Margaret Elaine Hamilton - Wikipedia</a>
 
-## Radia Perlman (b. 1951)
-
-Known as the "mother of the Internet," Perlman invented the spanning-tree protocol (STP), which is fundamental to the operation of network bridges.
-
 ## Richard Stallman (b. 1953)
 
+![Richard Stallman](../assets/images/richard_stallman.webp)
 Founder of the Free Software Movement, Stallman initiated the development of the GNU operating system, which, together with the Linux kernel, is used widely in its variants.
 
-## Tim Berners-Lee (b. 1955)
-
-Inventor of the World Wide Web, Berners-Lee has been a pivotal figure in making the internet accessible and usable for people worldwide.
+<a href="https://en.wikipedia.org/wiki/Richard_Stallman" target="_blank">Richard Stallman - Wikipedia</a>
