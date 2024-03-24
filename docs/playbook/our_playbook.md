@@ -1,4 +1,4 @@
-![Ada Lovelace](../assets/images/ada_lovelace.webp)
+![Ada Lovelace](../assets/images/heroes/ada_lovelace.webp)
 <p align="right"><sub><a href="https://en.wikipedia.org/wiki/Ada_Lovelace" target="_blank">Augusta Ada King</a> (AI Generated Artwork)</sub></p>
 
 # Why have a Playbook?

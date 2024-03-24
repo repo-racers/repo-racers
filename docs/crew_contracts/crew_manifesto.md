@@ -1,4 +1,4 @@
-![Margaret Hamilton](../assets/images/john_von_neumann.webp)
+![Margaret Hamilton](../assets/images/heroes/john_von_neumann.webp)
 <p align="right"><sub><a href="https://en.wikipedia.org/wiki/John_von_Neumann" target="_blank">John von Neumann</a> (AI Generated Artwork)</sub></p>
 
 # Crew Manifesto
