@@ -85,6 +85,12 @@ nav:
                   - playbook/agile_guide/beyond_the_basics/crew_contracts/working_agreement.md
                   - playbook/agile_guide/beyond_the_basics/crew_contracts/definition_of_ready.md
                   - playbook/agile_guide/beyond_the_basics/crew_contracts/definition_of_done.md
+      - playbook/reliability/reliability.md
+      - Security:
+          - playbook/security/security.md
+          - Threat Modelling: playbook/security/threat_modelling.md
+          - Threat Modelling Example: playbook/security/threat_modelling_example.md
+          - Rules of Engagement: playbook/security/rules_of_engagement.md
       - Source Control:
           - playbook/source_control/source_control.md
           - Git Guidance: playbook/source_control/git_guidance/git_guidance.md
@@ -92,11 +98,7 @@ nav:
           - Merge Strategies: playbook/source_control/merge_strategies.md
           - Naming Branches: playbook/source_control/naming_branches.md
           - Secrets Management: playbook/source_control/secrets_management.md
-      - Security:
-          - playbook/security/security.md
-          - Threat Modelling: playbook/security/threat_modelling.md
-          - Threat Modelling Example: playbook/security/threat_modelling_example.md
-          - Rules of Engagement: playbook/security/rules_of_engagement.md
+
   - Crew Contracts:
       - Crew Manifesto: crew_contracts/crew_manifesto.md
       - Definition of Ready: crew_contracts/definition_of_ready.md
