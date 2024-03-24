@@ -62,7 +62,7 @@ Version updates happen through:
 
 A monorepo, short for "monolithic repository", is a software development practice where multiple related projects, components, or modules are stored within a single version-controlled repository as opposed to maintaining them in separate repositories.
 
-<img src="./assets/monorepo.png" alt="drawing" width="150"/>
+![monorepo](assets/images/monorepo.png)
 
 ### Challenges with Versioning in a monorepo structure
 
@@ -99,7 +99,7 @@ If a commit touches a file in or below a package's root, it will be considered f
 
 In order to avoid version collisions, generated git tags are namespaced using the given package's name: `<package-name>`-`<version>`.
 
-![monorepo-git-tags](./assets/monorepo-git-tags.png)
+![monorepo-git-tags](./assets/images/monorepo_git_tags.png)
 
 ### semantic-release configurations
 

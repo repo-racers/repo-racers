@@ -1,4 +1,4 @@
-![Margaret Hamilton](../assets/images/margaret_hamilton.webp)
+![Margaret Hamilton](../assets/images/heroes/margaret_hamilton.webp)
 <p align="right"><sub><a href="https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)" target="_blank">Margaret Elaine Hamilton</a> (AI Generated Artwork)</sub></p>
 
 # Contribution Guidelines
