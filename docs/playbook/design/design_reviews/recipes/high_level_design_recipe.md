@@ -6,7 +6,7 @@ Design at macroscopic level shows the interactions between systems and services 
 
 ## Things to keep in mind
 
-* As with all other aspects of the project, design reviews must provide a friendly and safe environment so that any team member feels comfortable proposing a design for review and can use the opportunity to grow and learn from the constructive / non-judgemental feedback from peers and subject-matter experts (see [Team Agreements](../../../agile-development/advanced-topics/team-agreements/README.md)).
+* As with all other aspects of the project, design reviews must provide a friendly and safe environment so that any team member feels comfortable proposing a design for review and can use the opportunity to grow and learn from the constructive / non-judgemental feedback from peers and subject-matter experts (see [Team Agreements](../../../agile_development/advanced_topics/team_agreements/README.md)).
 * Attempt to illustrate different personas involved in the use cases and how/which boxes are their entry points.
 * Prefer pictures over paragraphs. The diagrams aren't intended to generate code, so they should be fairly high level.
   * Artifacts should indicate the direction of calls (are they outbound, inbound, or bidirectional?) and call out system boundaries where ports might need to be opened or additional infrastructure work may be needed to allow calls to be made.
@@ -18,8 +18,8 @@ Design at macroscopic level shows the interactions between systems and services 
 
 ## Examples
 
-![Sequence Diagram](images/high-level-sequence-diagram.png)
+![Sequence Diagram](images/high_level_sequence_diagram.png)
 
-![Call Flow Diagram](images/high-level-box-diagram.png)
+![Call Flow Diagram](images/high_level_box_diagram.png)
 
-![System Diagram](images/high-level-system-diagram.png)
+![System Diagram](images/high_level_system_diagram.png)

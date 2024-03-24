@@ -7,9 +7,9 @@ Although profiling follows the same principles of any other software project, th
 
 Below are some common scenarios in MLOps/Data Science projects, along with suggestions on how to profile them.
 
-- [Generic Python profiling](#generic-python-profiling)
-- [PyTorch model training profiling](#pytorch-model-training-profiling)
-- [Azure Machine Learning pipeline profiling](#azure-machine-learning-pipeline-profiling)
+- [Generic Python profiling](#generic_python_profiling)
+- [PyTorch model training profiling](#pytorch_model_training_profiling)
+- [Azure Machine Learning pipeline profiling](#azure_machine_learning_pipeline_profiling)
 
 ## Generic Python profiling
 

@@ -13,15 +13,15 @@ This covers not only technical design of software, but also architecture design 
 
 ## Sections
 
-- [Diagram Types](diagram-types/README.md)
-- [Design Patterns](design-patterns/README.md)
-- [Design Reviews](design-reviews/README.md)
-- [Non-Functional Requirements Guidance](design-patterns/non-functional-requirements-capture-guide.md)
+- [Diagram Types](diagram_types/README.md)
+- [Design Patterns](design_patterns/README.md)
+- [Design Reviews](design_reviews/README.md)
+- [Non-Functional Requirements Guidance](design_patterns/non_functional_requirements_capture_guide.md)
 - [Sustainable Software Engineering](sustainability/readme.md)
 
 ## Recipes
 
-- [Design Recipes](design-reviews/recipes/README.md)
+- [Design Recipes](design_reviews/recipes/README.md)
 
 ## Code Examples
 

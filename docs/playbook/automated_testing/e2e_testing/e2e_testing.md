@@ -4,13 +4,13 @@ End-to-end (E2E) testing is a Software testing methodology to test a functional 
 
 At times, these systems are developed in different technologies by different teams or organizations. Finally, they come together to form a functional business application.  Hence, testing a single system would not suffice. Therefore, end-to-end testing verifies the application from start to end putting all its components together.
 
-![End to End Testing](./images/e2e-testing.png)
+![End to End Testing](./images/e2e_testing.png)
 
 ## Why E2E Testing [The Why]
 
 In many commercial software application scenarios, a modern software system consists of its interconnection with multiple sub-systems. These sub-systems can be within the same organization or can be components of different organizations. Also, these sub-systems can have somewhat similar or different lifetime release cycle from the current system. As a result, if there is any failure or fault in any sub-system, it can adversely affect the whole software system leading to its collapse.
 
-![E2E Testing Pyramid](./images/testing-pyramid.png)
+![E2E Testing Pyramid](./images/testing_pyramid.png)
 
 The above illustration is a testing pyramid from [Kent C. Dodd's blog](https://blog.kentcdodds.com/write-tests-not-too-many-mostly-integration-5e8c7fff591c) which is a combination of the pyramids from [Martin Fowler’s blog](https://martinfowler.com/bliki/TestPyramid.html) and the [Google Testing Blog](https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html).
 
@@ -18,7 +18,7 @@ The majority of your tests are at the bottom of the pyramid. As you move up the 
 
 ## E2E Testing Design Blocks [The What]
 
-![E2E Testing Design Framework](./images/e2e-blocks.png)
+![E2E Testing Design Framework](./images/e2e_blocks.png)
 
 We will look into all the 3 categories one by one:
 
@@ -59,7 +59,7 @@ E2E testing is done with the following steps:
 - Production like Environment setup for the testing
 - Test data setup
 - Decide exit criteria
-- Choose the testing methods that most applicable to your system. For the definition of the various testing methods, please see [Testing Methods](./testing-methods.md) document.
+- Choose the testing methods that most applicable to your system. For the definition of the various testing methods, please see [Testing Methods](./testing_methods.md) document.
 
 ### Pre-requisite
 
@@ -119,7 +119,7 @@ Robot shares a lot of the same "pros" as Gauge, except the developer tooling and
 
 ### 3. TestCraft
 
-![TestCraft](./images/TestCraft-logo.png)
+![TestCraft](./images/TestCraft_logo.png)
 
 TestCraft is a codeless Selenium test automation platform. Its revolutionary AI technology and unique visual modeling allow for faster test creation and execution while eliminating test maintenance overhead.
 
@@ -129,7 +129,7 @@ The testers create fully automated test scenarios without coding. Customers find
 
 ### 4. Ranorex Studio
 
-![Ranorex Studio](./images/ranorex-studio2.png)
+![Ranorex Studio](./images/ranorex_studio2.png)
 
 **Ranorex Studio** is a complete end-to-end test automation tool for desktop, web, and mobile applications. Create reliable tests fast without any coding at all, or using the full IDE. Use external CSV or Excel files, or a SQL database as inputs to your tests.
 
@@ -141,7 +141,7 @@ Run tests in parallel or on a Selenium Grid with built-in Selenium WebDriver. Ra
 
 ### 5. Katalon Studio
 
-![Katalon](./images/New-Logo-Katalon-Studio.png)
+![Katalon](./images/New_Logo_Katalon_Studio.png)
 
 **Katalon Studio** is an excellent end-to-end automation solution for web, API, mobile, and desktop testing with DevOps support.
 
@@ -157,7 +157,7 @@ Katalon is endorsed by Gartner, IT professionals, and a large testing community.
 
 ### 6. BugBug.io
 
-![BugBug](./images/bugbug-logo-208x65.png)
+![BugBug](./images/bugbug_logo_208x65.png)
 
 **BugBug** is an easy way to automate tests for web applications. The tool focuses on simplicity, yet allows you to cover all essential test cases without coding. It's an all-in-one solution - you can easily create tests and use the built-in cloud to run them on schedule or from your CI/CD, without changes to your own infrastructure.
 

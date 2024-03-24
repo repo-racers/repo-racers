@@ -6,11 +6,11 @@ Some scenarios might seem different or more difficult to test. The best way to a
 
 Below are some common operations in MLOps or Data Science projects, along with suggestions on how to test them.
 
-* [Saving and loading data](#saving-and-loading-data)
-* [Transforming data](#transforming-data)
-* [Model load or predict](#model-load-or-predict)
-* [Data validation](#data-validation)
-* [Model testing](#model-testing)
+* [Saving and loading data](#saving_and_loading_data)
+* [Transforming data](#transforming_data)
+* [Model load or predict](#model_load_or_predict)
+* [Data validation](#data_validation)
+* [Model testing](#model_testing)
 
 ## Saving and loading data
 

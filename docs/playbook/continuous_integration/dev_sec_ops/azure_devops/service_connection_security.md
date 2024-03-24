@@ -39,7 +39,7 @@ steps:
 
 YAML pipelines can be triggered without the need for a pull request, this introduces a security risk.
 
-In good practice, [Pull Requests](../../../code-reviews/pull-requests.md) and [Code Reviews](../../../code-reviews/README.md) should be used to ensure the code that is being deployed, is being reviewed by a second person and potentially automatically being checked for vulnerabilities and other security issues.
+In good practice, [Pull Requests](../../../code_reviews/pull_requests.md) and [Code Reviews](../../../code_reviews/README.md) should be used to ensure the code that is being deployed, is being reviewed by a second person and potentially automatically being checked for vulnerabilities and other security issues.
 However, YAML Pipelines can be executed without the need for a Pull Request and Code Reviews. This allows the (malicious) user to make changes using the Service Connection which would normally require a reviewer.
 
 The configuration of *when* a pipeline should be triggered is specified in the YAML Pipeline itself and therefore a pipeline can be configured to execute on changes in a temporary branch. In this temporary branch, any changes made to the pipeline itself will be executed without being reviewed.
@@ -51,7 +51,7 @@ Since Service Connections can have a lot of permissions in the external service,
 
 To prevent accidental mis-use of Service Connections there are several checks that can be configured. These checks are configured on the Service Connection itself and therefore can only be configured by the owner or administrator of that Service Connection. A user of a certain YAML Pipeline cannot modify these checks since the checks are not defined in the YAML file itself.
 Configuration can be done in the Approvals and Checks menu on the Service Connection.
-![ApprovalsAndChecks](images/approvals-and-checks.png)
+![ApprovalsAndChecks](images/approvals_and_checks.png)
 
 ### Branch Control
 
@@ -64,4 +64,4 @@ With Branch Control in place, in combination with Branch Protections, it is not 
 
 **Note: When setting a wildcard for the Allowed Branches, anyone could still create a branch matching that wildcard and would be able to use the Service Connection. Using [git permissions](https://learn.microsoft.com/en-us/azure/devops/repos/git/require-branch-folders#enforce-permissions) it can be configured so only administrators are allowed to create certain branches, like release branches.*
 
-![BranchControl](images/branch-control.png)
+![BranchControl](images/branch_control.png)

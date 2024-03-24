@@ -1,6 +1,6 @@
 # Deploy the DocFx Documentation website to an Azure Website automatically
 
-In the article [Using DocFx and Companion Tools to generate a Documentation website](using-docfx-and-tools.md) the process is described to generate content of a documentation website using DocFx. This document describes how to setup an Azure Website to host the content and automate the deployment to it using a pipeline in Azure DevOps.
+In the article [Using DocFx and Companion Tools to generate a Documentation website](using_docfx_and_tools.md) the process is described to generate content of a documentation website using DocFx. This document describes how to setup an Azure Website to host the content and automate the deployment to it using a pipeline in Azure DevOps.
 
 The [QuickStart sample](https://github.com/mtirionMSFT/DocFxQuickStart) that is provided for a quick setup of DocFx generation also contains the files explained in this document. Especially the **.pipelines** and **infrastructure** folders.
 
@@ -22,7 +22,7 @@ In the Quick Start, authentication is disabled. If you want that enabled, make s
 
 If you want to set a custom domain for your documentation website with an SSL certificate you have to do some extra steps. You have to create a *Key Vault* and store the certificate there. Next step is to uncomment and set the values in *variables.tf*. You also have to uncomment the necessary steps in *main.tf*. All is indicated by comment-boxes. For more information see [Add a TLS/SSL certificate in Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/configure-ssl-certificate).
 
-Some extra information on SSL certificate, custom domain and Azure App Service can be found in the following paragraphs. If you are familiar with that or don't need it, go ahead and continue with [Step 3](#3-deploy-azure-resources-from-your-local-machine).
+Some extra information on SSL certificate, custom domain and Azure App Service can be found in the following paragraphs. If you are familiar with that or don't need it, go ahead and continue with [Step 3](#3_deploy_azure_resources_from_your_local_machine).
 
 ### SSL Certificate
 

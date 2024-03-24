@@ -6,7 +6,7 @@ Developers should follow [Google's Bash Style Guide](https://google.github.io/st
 
 ## Code Analysis / Linting
 
-Projects must check bash code with [shellcheck](https://github.com/koalaman/shellcheck) as part of the [CI process](../../continuous-integration/README.md).
+Projects must check bash code with [shellcheck](https://github.com/koalaman/shellcheck) as part of the [CI process](../../continuous_integration/README.md).
 Apart from linting, [shfmt](https://github.com/mvdan/sh) can be used to automatically format shell scripts. There are few vscode code extensions which are based on shfmt like shell-format which can be used to automatically format shell scripts.
 
 ## Project Setup
@@ -132,7 +132,7 @@ fi
 
 ## Code Review Checklist
 
-In addition to the [Code Review Checklist](../process-guidance/reviewer-guidance.md) you should also look for these bash specific code review items
+In addition to the [Code Review Checklist](../process_guidance/reviewer_guidance.md) you should also look for these bash specific code review items
 
 * [ ] Does this code use [Built-in Shell](https://www.gnu.org/software/bash/manual/html_node/The-Set-Builtin.html) Options like set -o, set -e, set -u for execution control of shell scripts ?
 * [ ] Is the code modularized? Shell scripts can be modularized like python modules. Portions of bash scripts should be sourced in complex bash projects.

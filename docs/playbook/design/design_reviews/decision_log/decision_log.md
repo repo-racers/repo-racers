@@ -15,7 +15,7 @@ Tracking an architecture design decision can have many advantages:
 
 In addition to incorporating a design decision as an update of the overall design documentation of the project, the decisions could be tracked as [Architecture Decision Records](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions) as Michael Nygard proposed in his blog.
 
-The effort invested in design reviews and discussions can be different throughout the course of a project. Sometimes decisions are made quickly without having to go into a detailed comparison of competing technologies. In some cases, it is necessary to have a more elaborate study of advantages and disadvantages, as is described in the documentation of [Trade Studies](../trade-studies/README.md). In other cases, it can be helpful to conduct [Engineering Feasibility Spikes](../recipes/engineering-feasibility-spikes.md). An ADR can incorporate each of these different approaches.
+The effort invested in design reviews and discussions can be different throughout the course of a project. Sometimes decisions are made quickly without having to go into a detailed comparison of competing technologies. In some cases, it is necessary to have a more elaborate study of advantages and disadvantages, as is described in the documentation of [Trade Studies](../trade_studies/README.md). In other cases, it can be helpful to conduct [Engineering Feasibility Spikes](../recipes/engineering_feasibility_spikes.md). An ADR can incorporate each of these different approaches.
 
 ### Architecture Decision Record (ADR)
 
@@ -50,7 +50,7 @@ An architecture decision record has the structure
 
     > *Due to the microservices design of the platform, we need to ensure consistency of logging throughout each service so tracking of usage, performance, errors etc. can be performed end-to-end. A single logging/monitoring framework should be used where possible to achieve this, whilst allowing the flexibility for integration/export into other tools at a later stage. The developers should be equipped with a simple interface to log messages and metrics.*
 
-    *If the development team had a data-driven approach to back the decision, i.e., a study that evaluates the potential choices against a set of objective criteria by following the guidance in [Trade Studies](../trade-studies/README.md), the study should be referred to in this section.*
+    *If the development team had a data-driven approach to back the decision, i.e., a study that evaluates the potential choices against a set of objective criteria by following the guidance in [Trade Studies](../trade_studies/README.md), the study should be referred to in this section.*
 
 - **Decision:**
 
@@ -74,7 +74,7 @@ ADRs can be stored and tracked in any version control system such as git. As a r
 
 #### Decision Logs
 
-A decision log is a Markdown file containing a table which provides executive summaries of the decisions contained in ADRs, as well as some other metadata. You can see a template table at [`doc/decision-log.md`](doc/decision-log.md).
+A decision log is a Markdown file containing a table which provides executive summaries of the decisions contained in ADRs, as well as some other metadata. You can see a template table at [`doc/decision-log.md`](doc/decision_log.md).
 
 ### When to track ADRs
 
@@ -84,8 +84,8 @@ Architecture design decisions are usually tracked whenever significant decisions
 
 The first ADR could be the decision to use ADRs to track design decisions,
 
-- [0001-record-architecture-decisions.md](doc/adr/0001-record-architecture-decisions.md),
+- [0001-record-architecture-decisions.md](doc/adr/0001_record_architecture_decisions.md),
 
 followed by actual decisions in the engagement as in the example used above,
 
-- [0002-app-level-logging.md](doc/adr/0002-app-level-logging.md).
+- [0002-app-level-logging.md](doc/adr/0002_app_level_logging.md).

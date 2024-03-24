@@ -23,7 +23,7 @@ Unit tests
 - speed up the developer inner loop
 - act as documentation as code
 
-For more details, see all the [detailed descriptions of the points above](./why-unit-tests.md).
+For more details, see all the [detailed descriptions of the points above](./why_unit_tests.md).
 
 ## Unit Testing Design Blocks
 
@@ -41,7 +41,7 @@ layers and complexity to the code.
 ## Applying the Unit Testing
 
 Getting started with writing a unit test is much easier than some other test types since it should require next to no
-setup and is just code. Each [test framework](#test-frameworks) is different in how you organize and write your tests,
+setup and is just code. Each [test framework](#test_frameworks) is different in how you organize and write your tests,
 but the general techniques and best practices of writing a unit test are universal.
 
 ### Techniques
@@ -62,7 +62,7 @@ for greater flexibility in the code and allows for the a [mock or simulator](moc
 
 One of the side effects of abstracting dependencies is that you may have an abstraction that has no test coverage. This
 is case where unit testing is not well-suited, you can not expect to unit test everything, things like dependencies will
-always be an uncovered case. This is why even if you have a robust unit testing suite, [integration or functional testing](../integration-testing/README.md)
+always be an uncovered case. This is why even if you have a robust unit testing suite, [integration or functional testing](../integration_testing/README.md)
 should still be used - without that, a change in the way the dependency functions would never be caught.
 
 When building wrappers around third-party dependencies, it is best to keep the implementations with as little logic as
@@ -93,7 +93,7 @@ system.
 Many languages include special Dependency Injection frameworks that take care of the boilerplate code and construction
 of the objects. Examples of this are [Spring](https://spring.io/) in Java or built into [ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-3.1)
 
-An example of using dependency injection can be found [here](authoring_example.md#dependency-injection).
+An example of using dependency injection can be found [here](authoring_example.md#dependency_injection).
 
 #### Test-Driven Development
 

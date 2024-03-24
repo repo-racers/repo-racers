@@ -6,7 +6,7 @@ First, we'll introduce Postman and Newman and then outline several Postman testi
 
 In the final use case, we are looking to use a shell script that references the Postman Collection file path and Environment file path as inputs to Newman. Below is a flow diagram representing the outcome of the final use case:
 
-![E2E Postman Script Dependencies](./../images/postman-e2e-script.png)
+![E2E Postman Script Dependencies](./../images/postman_e2e_script.png)
 
 ## Postman and Newman
 

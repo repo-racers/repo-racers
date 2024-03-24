@@ -17,10 +17,10 @@ In this section we provide a **non-exhaustive list** of privacy frameworks which
 
 We focus on four main use cases in the data lifecycle:
 
-1. [Obtaining non-sensitive data](#obtaining-non-sensitive-data)
-2. [Establishing trusted research and modeling environments](#trusted-research-and-modeling-environments)
-3. [Creating privacy preserving data and ML pipelines](#privacy-preserving-data-pipelines-and-ml)
-4. [Data loss prevention](#data-loss-prevention)
+1. [Obtaining non-sensitive data](#obtaining_non_sensitive_data)
+2. [Establishing trusted research and modeling environments](#trusted_research_and_modeling_environments)
+3. [Creating privacy preserving data and ML pipelines](#privacy_preserving_data_pipelines_and_ml)
+4. [Data loss prevention](#data_loss_prevention)
 
 ### Obtaining non-sensitive data
 
@@ -103,7 +103,7 @@ The Eyes-on dataset is often a de-identified subset of the private dataset, or a
 
 Various tools and systems allow different parties to share data with 3rd parties while protecting private entities, and securely process data while reducing the likelihood of data exfiltration.
 These tools include [Secure Multi Party Computation (SMPC)](https://en.wikipedia.org/wiki/Secure_multi-party_computation) systems,
-[Homomorphic Encryption](#homomorphic-encryption) systems, [Confidential Computing](https://azure.microsoft.com/en-us/solutions/confidential-compute/),
+[Homomorphic Encryption](#homomorphic_encryption) systems, [Confidential Computing](https://azure.microsoft.com/en-us/solutions/confidential-compute/),
 private data analysis frameworks such as [PySift](https://github.com/OpenMined/PySyft) among others.
 
 ### Privacy preserving data pipelines and ML
@@ -184,7 +184,7 @@ Tools for data classification on Azure:
 | [Data Discovery & Classification for Azure SQL Database, Azure SQL Managed Instance, and Azure Synapse](https://learn.microsoft.com/en-us/azure/azure-sql/database/data-discovery-and-classification-overview) | Basic capabilities for discovering, classifying, labeling, and reporting the sensitive data in Azure SQL and Synapse databases. |
 | [Data Discovery & Classification for SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/security/sql-data-discovery-and-classification?view=sql-server-ver15&tabs=t-sql) | Capabilities for discovering, classifying, labeling & reporting the sensitive data in SQL Server databases. |
 
-Often, tools used for de-identification can also serve as sensitive data classifiers. Refer to [de-identification tools](#data-de-identification) for such tools.
+Often, tools used for de-identification can also serve as sensitive data classifiers. Refer to [de-identification tools](#data_de_identification) for such tools.
 
 Additional resources:
 

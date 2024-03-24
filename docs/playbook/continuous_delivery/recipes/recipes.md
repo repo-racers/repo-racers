@@ -2,10 +2,10 @@
 
 ## Github
 
-- [Github workflows](./github-workflows/README.md)
+- [Github workflows](./github_workflows/README.md)
 
 ## Terraform
 
-- [Save output to variable group](./terraform/save-output-to-variable-group.md)
-- [Share common variables naming conventions](./terraform/share-common-variables-naming-conventions.md)
-- [Terraform structure guidelines](./terraform/terraform-structure-guidelines.md)
+- [Save output to variable group](./terraform/save_output_to_variable_group.md)
+- [Share common variables naming conventions](./terraform/share_common_variables_naming_conventions.md)
+- [Terraform structure guidelines](./terraform/terraform_structure_guidelines.md)

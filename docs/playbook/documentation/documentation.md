@@ -8,8 +8,8 @@ Documentation shouldn't be an afterthought. Different written documents and mate
 
 - [Goals](#goals)
 - [Challenges](#challenges)
-- [What documentation should exist?](#what-documentation-should-exist)
-- [Best practices](#best-practices)
+- [What documentation should exist?](#what_documentation_should_exist)
+- [Best practices](#best_practices)
 - [Tools](#tools)
 - [Recipes](#recipes)
 - [Resources](#resources)
@@ -52,19 +52,19 @@ When working in an engineering project, we typically encounter one or more of th
 
 ## What documentation should exist
 
-- [Project and Repositories](./guidance/project-and-repositories.md)
-- [Commit Messages](../source-control/git-guidance/README.md#commit-best-practices)
-- [Pull Requests](./guidance/pull-requests.md)
+- [Project and Repositories](./guidance/project_and_repositories.md)
+- [Commit Messages](../source_control/git_guidance/README.md#commit_best_practices)
+- [Pull Requests](./guidance/pull_requests.md)
 - [Code](./guidance/code.md)
-- [Work Items](./guidance/work-items.md)
-- [REST APIs](./guidance/rest-apis.md)
-- [Engineering Feedback](./guidance/engineering-feedback.md)
+- [Work Items](./guidance/work_items.md)
+- [REST APIs](./guidance/rest_apis.md)
+- [Engineering Feedback](./guidance/engineering_feedback.md)
 
 ## Best practices
 
-- [Establishing and managing documentation](./best-practices/establish-and-manage.md)
-- [Creating good documentation](./best-practices/good-documentation.md)
-- [Replacing documentation with automation](./best-practices/automation.md)
+- [Establishing and managing documentation](./best_practices/establish_and_manage.md)
+- [Creating good documentation](./best_practices/good_documentation.md)
+- [Replacing documentation with automation](./best_practices/automation.md)
 
 ## Tools
 
@@ -77,10 +77,10 @@ When working in an engineering project, we typically encounter one or more of th
 
 ## Recipes
 
-- [How to sync a wiki between repositories](./recipes/sync-wiki-between-repos.md)
-- [Using DocFx and Companion Tools to generate a Documentation website](./recipes/using-docfx-and-tools.md)
-- [Deploy the DocFx Documentation website to an Azure Website automatically](./recipes/deploy-docfx-azure-website.md)
-- [How to create a static website for your documentation based on MkDocs and Material for MkDocs](./recipes/static-website-with-mkdocs.md)
+- [How to sync a wiki between repositories](./recipes/sync_wiki_between_repos.md)
+- [Using DocFx and Companion Tools to generate a Documentation website](./recipes/using_docfx_and_tools.md)
+- [Deploy the DocFx Documentation website to an Azure Website automatically](./recipes/deploy_docfx_azure_website.md)
+- [How to create a static website for your documentation based on MkDocs and Material for MkDocs](./recipes/static_website_with_mkdocs.md)
 
 ## Resources
 

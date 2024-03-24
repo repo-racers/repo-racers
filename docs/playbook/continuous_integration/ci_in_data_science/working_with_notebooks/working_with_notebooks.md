@@ -41,7 +41,7 @@ We can add a pipeline with the following steps to the repository to run in `ipyn
 
 1. Go to the *Project Settings* -> *Repositories* -> *Security* -> *User Permissions*
 1. Add the *Build Service* in *Users* the permission to *Contribute*
-    ![Contribute](assets/repository-properties.png)
+    ![Contribute](assets/repository_properties.png)
 1. Create a new pipeline.
 
 In the newly created pipeline we add:

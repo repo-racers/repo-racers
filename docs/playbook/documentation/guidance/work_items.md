@@ -4,11 +4,11 @@ While many teams can work with a flat list of items, sometimes it helps to group
 
 **Agile** process backlog work item hierarchy:
 
-![agile-artifacts](./images/agile-artifacts.png)
+![agile-artifacts](./images/agile_artifacts.png)
 
 **Scrum** process backlog work item hierarchy:
 
-![scrum-artifacts](./images/scrum-artifacts.png)
+![scrum-artifacts](./images/scrum_artifacts.png)
 
 Bugs can be set at the same level as User Stories / Product Backlog Items or Tasks.
 

@@ -52,7 +52,7 @@ Facing a GitHub challenge not mentioned here? Challenge us! We're ready to provi
 
 Repo Racers stands out for our dedication to speed, reliability, and quality in development. Our team brings a blend of expertise, commitment, and enthusiasm to every project, ensuring professional service and a rewarding experience from start to finish.
 
-Elevate your GitHub experience with Repo Racers. [Contact us today](#contact-us) to accelerate your projects.
+Elevate your GitHub experience with Repo Racers. [Contact us today](#contact_us) to accelerate your projects.
 
 ## Open Source & Community Engagement
 

@@ -13,7 +13,7 @@ CDC tries to overcome the [several painful drawbacks](https://pactflow.io/blog/p
 
 Although testing best practices suggest to write just a few E2E tests compared to the cheaper, faster and more stable integration and unit tests as pictured in the testing pyramid below, experience shows [many teams end up writing too many E2E tests](https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html). A reason for this is that E2E tests give developers the highest confidence to release as they are testing the "real" system.
 
-![E2E Testing Pyramid](./images/testing-pyramid.png)
+![E2E Testing Pyramid](./images/testing_pyramid.png)
 
 CDC addresses these issues by testing interactions between components in isolation using mocks that conform to a shared understanding documented in a "contract". Contracts are agreed between consumer and provider, and are regularly verified against a real instance of the provider component. This effectively partitions a larger system into smaller pieces that can be tested individually in isolation of each other, leading to simpler, fast and stable tests that also give confidence to release.
 
@@ -25,7 +25,7 @@ CDC testing was initially developed for testing RESTful API's, but the pattern s
 
 In a [consumer-driven approach](https://martinfowler.com/articles/consumerDrivenContracts.html) the consumer drives changes to contracts between a consumer (the client) and a provider (the server). This may sound counterintuitive, but it helps providers create APIs that fit the real requirements of the consumers rather than trying to guess these in advance. Next we describe the CDC building blocks ordered by their occurrence in the development cycle.
 
-![CDC testing](./images/cdc-testing.png)
+![CDC testing](./images/cdc_testing.png)
 
 ### Consumer Tests with Provider Mock
 
@@ -33,7 +33,7 @@ The consumers start by creating integration tests against a provider mock and ru
 
 ### Contract
 
-Contracts are generated from the expectations defined in the provider mock as a result of a successful test run. CDC frameworks like [Pact](https://docs.pact.io/) provide a [specification for contracts](https://github.com/pact-foundation/pact-specification) in json format consisting of the list of request/responses generated from the consumer tests plus some additional metadata.
+Contracts are generated from the expectations defined in the provider mock as a result of a successful test run. CDC frameworks like [Pact](https://docs.pact.io/) provide a [specification for contracts](https://github.com/pact-foundation/pact_specification) in json format consisting of the list of request/responses generated from the consumer tests plus some additional metadata.
 
 Contracts are not a replacement for a discussion between the consumer and provider team. This is the moment where this discussion should take place (if not already done before). The consumer tests and generated contract are refined with the feedback and cooperation of the provider team. Lastly the finalized contract is versioned and stored in a central place accessible by both consumer and provider.
 
@@ -50,7 +50,7 @@ Either way, thanks to CDC it is easy to pinpoint integration issues down to the 
 
 ## CDC Testing Frameworks and Tools
 
-[Pact](https://docs.pact.io/) is an implementation of CDC testing that allows mocking of responses in the consumer codebase, and verification of the interactions in the provider codebase, while defining a [specification for contracts](https://github.com/pact-foundation/pact-specification). It was originally written in Ruby but has available wrappers for multiple languages. Pact is the de-facto standard to use when working with CDC.
+[Pact](https://docs.pact.io/) is an implementation of CDC testing that allows mocking of responses in the consumer codebase, and verification of the interactions in the provider codebase, while defining a [specification for contracts](https://github.com/pact-foundation/pact_specification). It was originally written in Ruby but has available wrappers for multiple languages. Pact is the de-facto standard to use when working with CDC.
 
 [Spring Cloud Contract](https://cloud.spring.io/spring-cloud-contract/reference/html) is an implementation of CDC testing from Spring, and offers easy integration in the Spring ecosystem. Support for non-Spring and non-JVM providers and consumers also exists.
 
@@ -60,13 +60,13 @@ CDC has several benefits that make it an approach worth considering when dealing
 
 Maintenance efforts can be reduced by testing consumer-provider interactions in isolation without the need of a complex integrated environment, specially as the interactions between components grow in number and become more complex.
 
-![CDC VS E2E tests](./images/cdc-vs-e2e.png)
+![CDC VS E2E tests](./images/cdc_vs_e2e.png)
 
 Additionally, a close collaboration between consumer and provider teams is strongly encouraged through the CDC development process, which can bring many other benefits. Contracts offer a formal way to document the shared understanding how components interact with each other, and serve as a base for the communication between teams. In a way, the contract repository serves as a live documentation of all consumer-provider interactions of a system.
 
 CDC has some drawbacks as well. An extra layer of testing is added requiring a proper investment in education for team members to understand and use CDC correctly.
 
-Additionally, [the CDC test scope](https://docs.pact.io/getting_started/testing-scope) should be considered carefully to prevent blurring CDC with other higher level functional testing layers. Contract tests are not the place to verify internal business logic and correctness of the consumer.
+Additionally, [the CDC test scope](https://docs.pact.io/getting_started/testing_scope) should be considered carefully to prevent blurring CDC with other higher level functional testing layers. Contract tests are not the place to verify internal business logic and correctness of the consumer.
 
 ## Resources
 
@@ -74,5 +74,5 @@ Additionally, [the CDC test scope](https://docs.pact.io/getting_started/testing-
 * [Pact](https://docs.pact.io/), a code-first consumer-driven contract testing tool with support for several different programming languages
 * [Consumer-driven contracts](https://martinfowler.com/articles/consumerDrivenContracts.html) from Ian Robinson
 * [Contract test](https://martinfowler.com/bliki/ContractTest.html) from Martin Fowler
-* A simple example of using [Pact consumer-driven contract testing in a Java client-server application](https://github.com/oottka/pact-spring)
-* [Pact dotnet workshop](https://github.com/pact-foundation/pact-workshop-dotnet-core-v1)
+* A simple example of using [Pact consumer-driven contract testing in a Java client-server application](https://github.com/oottka/pact_spring)
+* [Pact dotnet workshop](https://github.com/pact-foundation/pact_workshop_dotnet_core_v1)

@@ -10,7 +10,7 @@ A spike in a sprint can be used in a number of ways:
 
 A distinction can be made between technical spikes and functional spikes. The technical spike is used more often for evaluating the impact new technology has on the current implementation. A functional spike is used to determine the interaction with a new feature or implementation.
 
-[Engineering feasibility spikes](./engineering-feasibility-spikes.md) can also be conducted to de-risk an engagement and increase the team's understanding.
+[Engineering feasibility spikes](./engineering_feasibility_spikes.md) can also be conducted to de-risk an engagement and increase the team's understanding.
 
 ## Deliverable
 

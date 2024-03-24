@@ -15,7 +15,7 @@ This document is followed best by cloning the sample from <https://github.com/mt
 > 1. **Azure DevOps:** If you don't have it yet, create a project in Azure DevOps and [create a Service Connection to your Azure environment](https://learn.microsoft.com/en-us/azure/devops/pipelines/library/connect-to-azure?view=azure-devops). Clone the repository.
 > 2. **QuickStart folder:** Copy the contents of the QuickStart folder in there repository that can be found on  <https://github.com/mtirionMSFT/DocFxQuickStart> to the root of the repository.
 > 3. **Azure:** Create a resource group in your Azure environment where the documentation website resources should be created.
-> 4. **Create Azure resources:** Fill in the default values in *infrastructure/variables.tf* and run the commands from [Step 3 - Deploy Azure resources from your local machine](deploy-docfx-azure-website.md#3-deploy-azure-resources-from-your-local-machine) to create the Azure Resources.
+> 4. **Create Azure resources:** Fill in the default values in *infrastructure/variables.tf* and run the commands from [Step 3 - Deploy Azure resources from your local machine](deploy_docfx_azure_website.md#3_deploy_azure_resources_from_your_local_machine) to create the Azure Resources.
 > 5. **Pipeline:** Fill in the variables in *.pipelines/documentation.yml*, commit the changes and push the contents of the repository to your branch (possibly through a PR).
 >    Now you can create a pipeline in your Azure DevOps project that uses the *.pipelines/documentation.yml* and run it.
 >
@@ -62,7 +62,7 @@ A `.markdownlint.json` is included with the contents below. The [MD013 setting](
 }
 ```
 
-The contents of the **.pipelines** and **infrastructure** folders are explained in the recipe [Deploy the DocFx Documentation website to an Azure Website automatically](deploy-docfx-azure-website.md).
+The contents of the **.pipelines** and **infrastructure** folders are explained in the recipe [Deploy the DocFx Documentation website to an Azure Website automatically](deploy_docfx_azure_website.md).
 
 ## Reference documentation from source code
 
@@ -193,7 +193,7 @@ You can add specific links that are important to provide direct access.
 
 > Try not to duplicate the links on the top of the page, unless it really makes sense.
 
-To get started with the setup of this website, read the getting started document with the title [Using DocFx and Companion Tools](using-docfx-and-tools.md).
+To get started with the setup of this website, read the getting started document with the title [Using DocFx and Companion Tools](using_docfx_and_tools.md).
 
 ```
 
@@ -235,11 +235,11 @@ If you started with the QuickStart folder, the website is generated using a cust
 
 ## Deploy to an Azure Website
 
-After you completed the steps, you should have a default website generated in the *_site* folder. But of course, you want this to be accessible for everyone. So, the next step is to create for instance an Azure Website and have a process to automatically generate and deploy the contents to that website. That process is described in the recipe [Deploy the DocFx Documentation website to an Azure Website automatically](deploy-docfx-azure-website.md).
+After you completed the steps, you should have a default website generated in the *_site* folder. But of course, you want this to be accessible for everyone. So, the next step is to create for instance an Azure Website and have a process to automatically generate and deploy the contents to that website. That process is described in the recipe [Deploy the DocFx Documentation website to an Azure Website automatically](deploy_docfx_azure_website.md).
 
 ## References
 
 * [DocFX - static documentation generator](https://dotnet.github.io/docfx/index.html)
-* [Deploy the DocFx Documentation website to an Azure Website automatically](deploy-docfx-azure-website.md)
+* [Deploy the DocFx Documentation website to an Azure Website automatically](deploy_docfx_azure_website.md)
 * [Providing quality documentation in your project with DocFx and Companion Tools](https://mtirion.medium.com/providing-quality-documentation-in-your-project-with-docfx-and-companion-tools-76aed42b1ddd)
 * [Monorepo For Beginners](https://mtirion.medium.com/monorepo-for-beginners-45d5059ab40e)

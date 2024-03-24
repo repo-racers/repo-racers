@@ -1,4 +1,4 @@
 # Templates
 
-- [Gauge Framework](gauge-framework.md)
-- [Postman](postman-testing.md)
+- [Gauge Framework](gauge_framework.md)
+- [Postman](postman_testing.md)

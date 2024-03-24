@@ -6,7 +6,7 @@ development time for every feature. So why should we bother writing them?
 ## Reduce costs
 
 There is no question that the later a bug is found, the more expensive it is to fix; especially so if the bug makes it
-into production. A [2008 research study by IBM](ftp://ftp.software.ibm.com/software/rational/info/do-more/RAW14109USEN.pdf)
+into production. A [2008 research study by IBM](ftp://ftp.software.ibm.com/software/rational/info/do_more/RAW14109USEN.pdf)
 estimates that a bug caught in production could cost 6 times as much as if it was caught during implementation.
 
 ## Increase Developer Confidence

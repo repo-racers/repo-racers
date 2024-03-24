@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-- [Graph vertices and edges](#graph-vertices-and-edges)
-- [Graph Properties](#graph-properties)
-- [Vertex Descriptions](#vertex-descriptions)
-- [Full Role JSON Example](#full-role-json-example)
+- [Graph vertices and edges](#graph_vertices_and_edges)
+- [Graph Properties](#graph_properties)
+- [Vertex Descriptions](#vertex_descriptions)
+- [Full Role JSON Example](#full_role_json_example)
 
 ## Graph Model
 

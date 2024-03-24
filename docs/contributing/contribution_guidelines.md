@@ -53,16 +53,16 @@ On your fork's GitHub page, use the "Compare & pull request" button to submit yo
 We follow a fairly standard [pull request
 process](https://docs.github.com/en/pull-requests) for contributions, subject to the following guidelines:
 
-1. [File a GitHub issue](#file-a-github-issue)
-1. [Create a development branch](#create-a-development-branch)
-1. [Create a codespace](#create-a-codespace)
-1. [Update the documentation](#update-the-documentation)
-1. [Update the tests](#update-the-tests)
-1. [Update the code](#update-the-code)
+1. [File a GitHub issue](#file_a_github_issue)
+1. [Create a development branch](#create_a_development_branch)
+1. [Create a codespace](#create_a_codespace)
+1. [Update the documentation](#update_the_documentation)
+1. [Update the tests](#update_the_tests)
+1. [Update the code](#update_the_code)
 1. [Definition of Done](#definition_of_done)
-1. [Create a pull request](#create-a-pull-request)
-1. [Merge and release](#merge-and-release)
-1. [Clean up development resources](#clean-up-development-resources)
+1. [Create a pull request](#create_a_pull_request)
+1. [Merge and release](#merge_and_release)
+1. [Clean up development resources](#clean_up_development_resources)
 
 ### File a GitHub issue for peer review
 

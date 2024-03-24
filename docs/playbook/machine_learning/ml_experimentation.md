@@ -30,11 +30,11 @@ The following tools and guidelines are aimed at achieving experimentation goals 
 
 ## Tools and guidelines for successful model experimentation
 
-- [Virtual environments](#virtual-environments)
-- [Source control and folder/package structure](#source-control-and-folder-or-package-structure)
-- [Experiment tracking](#experiment-tracking)
-- [Datasets and models abstractions](#datasets-and-models-abstractions)
-- [Model evaluation](#model-evaluation)
+- [Virtual environments](#virtual_environments)
+- [Source control and folder/package structure](#source_control_and_folder_or_package_structure)
+- [Experiment tracking](#experiment_tracking)
+- [Datasets and models abstractions](#datasets_and_models_abstractions)
+- [Model evaluation](#model_evaluation)
 
 ### Virtual environments
 
@@ -69,7 +69,7 @@ In ISE, we often choose from either `venv`, `Conda` or `Poetry`, depending on th
 
 Applied ML projects often contain source code, notebooks, devops scripts, documentation, scientific resources, datasets and more. We recommend coming up with an agreed folder structure to keep resources tidy. Consider deciding upon a generic folder structure for projects (e.g. which contains the folders `data`, `src`, `docs` and `notebooks`), or adopt popular structures like the [CookieCutter Data Science](https://drivendata.github.io/cookiecutter-data-science/) folder structure.
 
-[Source control](../source-control/README.md) should be applied to allow collaboration, versioning, code reviews, traceability and backup. In data science projects, source control should be used for code, and the storing and versioning of other  artifacts (e.g. data, scientific literature) should be decided upon depending on the scenario.
+[Source control](../source_control/README.md) should be applied to allow collaboration, versioning, code reviews, traceability and backup. In data science projects, source control should be used for code, and the storing and versioning of other  artifacts (e.g. data, scientific literature) should be decided upon depending on the scenario.
 
 #### Folder structure and source control expected outcomes
 

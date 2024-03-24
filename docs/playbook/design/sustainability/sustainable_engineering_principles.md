@@ -1,6 +1,6 @@
 # Sustainable Principles
 
-The following principle overviews provide the foundations supporting specific actions in the [Sustainable Engineering Checklist](./readme.md#sustainable-engineering-checklist). More details about each principle can be found by following the links in the headings or visiting the [Principles of Green Software Engineering website](https://principles.green/).
+The following principle overviews provide the foundations supporting specific actions in the [Sustainable Engineering Checklist](./readme.md#sustainable_engineering_checklist). More details about each principle can be found by following the links in the headings or visiting the [Principles of Green Software Engineering website](https://principles.green/).
 
 ## [Electricity Consumption](https://principles.green/principles/electricity/)
 
@@ -30,7 +30,7 @@ If supply is high, increase the demand by doing more in your applications. If th
 
 ## [Networking](https://principles.green/principles/networking/)
 
-A network is a series of switches, routers, and servers. All the computers and network equipment in a network consume electricity and have [embedded carbon](#embodied-carbon). The internet is a global network of devices typically run off the standard local grid energy mix.
+A network is a series of switches, routers, and servers. All the computers and network equipment in a network consume electricity and have [embedded carbon](#embodied_carbon). The internet is a global network of devices typically run off the standard local grid energy mix.
 
 When you send data across the internet, you are sending that data through many devices in the network, each one of those devices consuming electricity. As a result, any data you send or receive over the internet emits carbon.
 

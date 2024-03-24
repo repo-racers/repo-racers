@@ -24,4 +24,4 @@ Remember, the goal of secret management is to protect sensitive information from
 
 - [Credential Scanning](./credential_scanning.md)
 - [Secrets Rotation](./secrets_rotation.md)
-- [Static code analysis](./static-code-analysis.md)
+- [Static code analysis](./static_code_analysis.md)

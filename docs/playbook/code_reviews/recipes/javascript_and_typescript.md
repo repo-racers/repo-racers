@@ -153,7 +153,7 @@ As an alternative [husky](https://github.com/typicode/husky) can be considered t
 
 ## Code Review Checklist
 
-In addition to the [Code Review Checklist](../process-guidance/reviewer-guidance.md) you should also look for these JavaScript and TypeScript specific code review items.
+In addition to the [Code Review Checklist](../process_guidance/reviewer_guidance.md) you should also look for these JavaScript and TypeScript specific code review items.
 
 ### Javascript / Typescript Checklist
 

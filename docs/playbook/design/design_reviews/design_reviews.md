@@ -6,8 +6,8 @@
 - [Measures](#measures)
 - [Impact](#impact)
 - [Participation](#participation)
-- [Facilitation Guidance](#facilitation-guidance)
-- [Technical Spike](#technical-spike)
+- [Facilitation Guidance](#facilitation_guidance)
+- [Technical Spike](#technical_spike)
 
 ## Goals
 
@@ -76,17 +76,17 @@ Joint meetings with dev crew, subject-matter experts (SMEs) and customer enginee
 
 ### Async Design Reviews via Pull-Requests
 
-See the [async design review recipe](./recipes/async-design-reviews.md) for guidance on facilitating async design reviews. This can be useful for teams that are geographically distributed across different time-zones.
+See the [async design review recipe](./recipes/async_design_reviews.md) for guidance on facilitating async design reviews. This can be useful for teams that are geographically distributed across different time-zones.
 
 ## Technical Spike
 
-A technical spike is most often used for evaluating the impact new technology has on the current implementation. Please read more [here](./recipes/technical-spike.md).
+A technical spike is most often used for evaluating the impact new technology has on the current implementation. Please read more [here](./recipes/technical_spike.md).
 
 ## Design Documentation
 
 - Document and update the architecture design in the project design documentation
-- Track and document design decisions in a [decision log](decision-log/README.md)
-- Document decision process in [trade studies](trade-studies/README.md) when multiple solutions exist for the given problem
+- Track and document design decisions in a [decision log](decision_log/README.md)
+- Document decision process in [trade studies](trade_studies/README.md) when multiple solutions exist for the given problem
 
 Early on in engagements, the team must decide where to land artifacts generated from design reviews.
 Typically, we meet the customer where they are at (for example, using their Confluence instance to land documentation if that is their preferred process).

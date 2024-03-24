@@ -6,10 +6,10 @@ Rather than duplicate or replace the cited sources, this section aims to complim
 
 ## Subsections
 
-* [Data Heavy Design Guidance](data-heavy-design-guidance.md)
-* [Object Oriented Design Reference](object-oriented-design-reference.md)
-* [Distributed System Design Reference](distributed-system-design-reference.md)
-* [REST API Design Guidance](rest-api-design-guidance.md)
-* [Cloud Resource Design Guidance](cloud-resource-design-guidance.md)
-* [Network Architecture Guidance for Azure](network-architecture-guidance-for-azure.md)
-* [Network Architecture Guidance for Hybrid](network-architecture-guidance-for-hybrid.md)
+* [Data Heavy Design Guidance](data_heavy_design_guidance.md)
+* [Object Oriented Design Reference](object_oriented_design_reference.md)
+* [Distributed System Design Reference](distributed_system_design_reference.md)
+* [REST API Design Guidance](rest_api_design_guidance.md)
+* [Cloud Resource Design Guidance](cloud_resource_design_guidance.md)
+* [Network Architecture Guidance for Azure](network_architecture_guidance_for_azure.md)
+* [Network Architecture Guidance for Hybrid](network_architecture_guidance_for_hybrid.md)

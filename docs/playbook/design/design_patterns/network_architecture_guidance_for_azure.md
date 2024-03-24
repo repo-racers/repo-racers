@@ -8,7 +8,7 @@ The following are some best practices when setting up and working with network r
 
 ### Hub-and-spoke Topology
 
-![image](images/spoke-spoke-routing.png)
+![image](images/spoke_spoke_routing.png)
 
 A hub-and-spoke network topology is a common architecture pattern used in Azure for organizing and managing network resources. It is based on the concept of a central hub that connects to various spoke networks. This model is particularly useful for organizing resources, maintaining security, and simplifying network management.
 
@@ -63,4 +63,4 @@ Read more at [azure-best-practices/plan-for-ip-addressing](https://learn.microso
 
 ### Resource Allocation
 
-For resource allocation the best practices from [Cloud Resource Design Guidance](cloud-resource-design-guidance.md) should be followed.
+For resource allocation the best practices from [Cloud Resource Design Guidance](cloud_resource_design_guidance.md) should be followed.

@@ -15,9 +15,9 @@ Every source code repository should include documentation that is specific to it
 - How to compile, test, build, deploy the solution/each project
   - Different OS versions
   - Command line + editors/IDEs
-- [Design Decision Logs](../../design/design-reviews/decision-log/README.md)
-  - [Architecture Decision Record (ADRs)](../../design/design-reviews/decision-log/README.md#architecture-decision-record-(ADR))
-  - [Trade Studies](../../design/design-reviews/trade-studies/README.md)
+- [Design Decision Logs](../../design/design_reviews/decision_log/README.md)
+  - [Architecture Decision Record (ADRs)](../../design/design_reviews/decision_log/README.md#architecture_decision_record_(ADR))
+  - [Trade Studies](../../design/design_reviews/trade_studies/README.md)
 
 Some sections in the documentation of the repository might point to the projectâ€™s documentation (e.g., Onboarding, Working Agreement, Contributing Guide).
 
@@ -28,37 +28,37 @@ Some sections in the documentation of the repository might point to the projectâ
   - Stakeholders
   - Definitions
   - Requirements
-- [Onboarding](../../developer-experience/onboarding-guide-template.md)
+- [Onboarding](../../developer_experience/onboarding_guide_template.md)
 - Repository guide
   - Production, Spikes
-- [Team agreements](../../agile-development/advanced-topics/team-agreements/README.md)
-  - [Team Manifesto](../../agile-development/advanced-topics/team-agreements/team-manifesto.md)
+- [Team agreements](../../agile_development/advanced_topics/team_agreements/README.md)
+  - [Team Manifesto](../../agile_development/advanced_topics/team_agreements/team_manifesto.md)
     - Short summary of expectations around the technical way of working and supported mindset in the team.
     - E.g., ownership, respect, collaboration, transparency.
-  - [Working Agreement](../../agile-development/advanced-topics/team-agreements/working-agreements.md)
+  - [Working Agreement](../../agile_development/advanced_topics/team_agreements/working_agreements.md)
     - How we work together as a team and what our expectations and principles are.
     - E.g., communication, work-life balance, scrum rhythm, backlog management, code management.
-  - [Definition of Done](../../agile-development/advanced-topics/team-agreements/definition-of-done.md)
+  - [Definition of Done](../../agile_development/advanced_topics/team_agreements/definition_of_done.md)
     - List of tasks that must be completed to close a user story, a sprint, or a milestone.
-  - [Definition of Ready](../../agile-development/advanced-topics/team-agreements/definition-of-ready.md)
+  - [Definition of Ready](../../agile_development/advanced_topics/team_agreements/definition_of_ready.md)
     - How complete a user story should be in order to be selected as candidate for estimation in the sprint planning.
 - Contributing Guide
   - Repo structure
   - Design documents
-  - [Branching and branch name strategy](../../source-control/naming-branches.md)
-  - [Merge and commit history strategy](../../source-control/merge-strategies.md)
-  - [Pull Requests](./pull-requests.md)
-  - [Code Review Process](../../code-reviews/README.md)
-  - [Code Review Checklist](../../code-reviews/process-guidance/reviewer-guidance.md)
-    - [Language Specific Checklists](../../code-reviews/recipes/README.md)
-- [Project Design](../../design/design-reviews/README.md)
-  - [High Level / Game Plan](../../design/design-reviews/recipes/high-level-design-recipe.md)
-  - [Milestone / Epic Design Review](../../design/design-reviews/recipes/milestone-epic-design-review-recipe.md)
-- [Design Review Recipes](../../design/design-reviews/README.md#Recipes)
-  - [Milestone / Epic Design Review Template](../../design/design-reviews/recipes/milestone-epic-design-review-template.md)
-  - [Feature / Story Design Review Template](../../design/design-reviews/recipes/feature-story-design-review-template.md)
-  - [Task Design Review Template](../../design/design-reviews/recipes/task-design-review-template.md)
-  - [Decision Log Template](../../design/design-reviews/decision-log/doc/decision-log.md)
-  - [Architecture Decision Record (ADR) Template](../../design/design-reviews/decision-log/README.md#architecture-decision-record-(ADR)) ([Example 1](../../design/design-reviews/decision-log/doc/adr/0001-record-architecture-decisions.md),
-    [Example 2](../../design/design-reviews/decision-log/doc/adr/0002-app-level-logging.md))
-  - [Trade Study Template](../../design/design-reviews/trade-studies/template.md)
+  - [Branching and branch name strategy](../../source_control/naming_branches.md)
+  - [Merge and commit history strategy](../../source_control/merge_strategies.md)
+  - [Pull Requests](./pull_requests.md)
+  - [Code Review Process](../../code_reviews/README.md)
+  - [Code Review Checklist](../../code_reviews/process_guidance/reviewer_guidance.md)
+    - [Language Specific Checklists](../../code_reviews/recipes/README.md)
+- [Project Design](../../design/design_reviews/README.md)
+  - [High Level / Game Plan](../../design/design_reviews/recipes/high_level_design_recipe.md)
+  - [Milestone / Epic Design Review](../../design/design_reviews/recipes/milestone_epic_design_review_recipe.md)
+- [Design Review Recipes](../../design/design_reviews/README.md#Recipes)
+  - [Milestone / Epic Design Review Template](../../design/design_reviews/recipes/milestone_epic_design_review_template.md)
+  - [Feature / Story Design Review Template](../../design/design_reviews/recipes/feature_story_design_review_template.md)
+  - [Task Design Review Template](../../design/design_reviews/recipes/task_design_review_template.md)
+  - [Decision Log Template](../../design/design_reviews/decision_log/doc/decision_log.md)
+  - [Architecture Decision Record (ADR) Template](../../design/design_reviews/decision_log/README.md#architecture_decision_record_(ADR)) ([Example 1](../../design/design_reviews/decision_log/doc/adr/0001_record_architecture_decisions.md),
+    [Example 2](../../design/design_reviews/decision_log/doc/adr/0002_app_level_logging.md))
+  - [Trade Study Template](../../design/design_reviews/trade_studies/template.md)

@@ -59,7 +59,7 @@ the end\-to\-end functionality.
 
 There are several categories of tests as well:
 
-### [Load Testing](./load-testing.md)
+### [Load Testing](./load_testing.md)
 
 This is the subcategory of performance testing that focuses on validating the
 performance characteristics of a system, when the system faces the load volumes
@@ -279,7 +279,7 @@ In general we need to consider the following points:
 
 - Then test again. This cycle continues until the test objective is achieved.
 
-The [Iterative Performance Test Template](./iterative-perf-test-template.md) can be used to capture details about the test result for every iterations.
+The [Iterative Performance Test Template](./iterative_perf_test_template.md) can be used to capture details about the test result for every iterations.
 
 ## Resources
 

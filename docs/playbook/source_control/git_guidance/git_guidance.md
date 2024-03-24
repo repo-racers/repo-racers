@@ -120,7 +120,7 @@ To avoid losing work, it is good to commit often in small chunks. This allows yo
     git add source-control/git-guidance/README.md
     ```
 
-4. Commit the changes to your local branch with a descriptive [commit message](#commit-best-practices)
+4. Commit the changes to your local branch with a descriptive [commit message](#commit_best_practices)
 
     ```cmd
     git commit -m "add basic git instructions"
@@ -144,7 +144,7 @@ Once the feature branch is pushed to the remote repository, it is visible to any
 
 ### Merging
 
-We encourage the use of Pull Request to merge code to the main repository to make sure that all code in the final product is [code reviewed](../../code-reviews/README.md)
+We encourage the use of Pull Request to merge code to the main repository to make sure that all code in the final product is [code reviewed](../../code_reviews/README.md)
 
 The Pull Request (PR) process in [Azure DevOps](https://learn.microsoft.com/en-us/azure/devops/repos/git/pull-requests?view=azure-devops), [GitHub](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) and other similar tools make it easy both to start a PR, review a PR and merge a PR.
 
@@ -259,7 +259,7 @@ The essential parts of a commit message are:
 You are free to structure commit messages; however, git commands like `git log` utilize above structure.
 Therefore, it can be helpful to follow a convention within your team and to utilize git best.
 
-For example, [Conventional Commits](https://www.conventionalcommits.org/) is a lightweight convention that complements [SemVer](https://semver.org/), by describing the features, fixes, and breaking changes made in commit messages. See [Component Versioning](../component-versioning.md) for more information on versioning.
+For example, [Conventional Commits](https://www.conventionalcommits.org/) is a lightweight convention that complements [SemVer](https://semver.org/), by describing the features, fixes, and breaking changes made in commit messages. See [Component Versioning](../component_versioning.md) for more information on versioning.
 
 For more information on commit message conventions, see:
 
@@ -364,11 +364,11 @@ git submodule foreach git pull origin
 
 Avoid committing frequently changed binary files, such as large images, video or compiled code to your git repository. Binary content is not diffed like text content, so cloning or pulling from the repository may pull each revision of the binary file.
 
-One solution to this problem is `Git LFS (Git Large File Storage)` - an open source Git extension for versioning large files. You can find more information on Git LFS in the [Git LFS and VFS document](git-lfs-and-vfs.md).
+One solution to this problem is `Git LFS (Git Large File Storage)` - an open source Git extension for versioning large files. You can find more information on Git LFS in the [Git LFS and VFS document](git_lfs_and_vfs.md).
 
 ## Working with large repositories
 
-When working with a very large repository of which you don't require all the files, you can use `VFS for Git` - an open source Git extension that virtualize the file system beneath your Git repository, so that you seem to work in a regular working directory but while VFS for Git only downloads objects as they are needed. You can find more information on VFS for Git in the [Git LFS and VFS document](git-lfs-and-vfs.md).
+When working with a very large repository of which you don't require all the files, you can use `VFS for Git` - an open source Git extension that virtualize the file system beneath your Git repository, so that you seem to work in a regular working directory but while VFS for Git only downloads objects as they are needed. You can find more information on VFS for Git in the [Git LFS and VFS document](git_lfs_and_vfs.md).
 
 ## Tools
 

@@ -126,9 +126,9 @@ We suggest confirming that you have access to all necessary resources (including
 
 Below are the links to the exit document template and to some questions which may be helpful in confirming resource access.
 
-* [Summary of Scope Exit Document Template](./ml-envisioning-summary-template.md)
-* [List of Resource Access Questions](./ml-data-exploration.md)
-* [List of Data Exploration Workshop Questions](./ml-data-exploration.md)
+* [Summary of Scope Exit Document Template](./ml_envisioning_summary_template.md)
+* [List of Resource Access Questions](./ml_data_exploration.md)
+* [List of Data Exploration Workshop Questions](./ml_data_exploration.md)
 
 ## References
 

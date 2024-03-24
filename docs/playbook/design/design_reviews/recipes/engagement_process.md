@@ -7,21 +7,21 @@ Design reviews should not feel like a burden. Design reviews can be easily incor
 - Only create design reviews when needed. Not every story or task requires a complete design review.
 - Leverage this guidance to make changes that best fit in with the team. Every team works differently.
 - Leverage Microsoft subject-matter experts (SME) as needed during design reviews. Not every story needs SME or leadership sign-off. Most design reviews can be fully executed within a dev crew.
-- [Use diagrams](./preferred-diagram-tooling.md) to visualize concepts and architecture.
+- [Use diagrams](./preferred_diagram_tooling.md) to visualize concepts and architecture.
 
 The following guidelines outline how Microsoft and the customer together can incorporate design reviews into their day-to-day agile processes.
 
 ## Envisioning / Architecture Design Session (ADS)
 
-Early in an engagement Microsoft works with customers to understand their unique goals and objectives and establish a definition of done. Microsoft dives deep into existing customer infrastructure and architecture to understand potential constraints. Additionally, we seek to understand and uncover specific [non-functional requirements](../../design-patterns/non-functional-requirements-capture-guide.md) that influence the solution.
+Early in an engagement Microsoft works with customers to understand their unique goals and objectives and establish a definition of done. Microsoft dives deep into existing customer infrastructure and architecture to understand potential constraints. Additionally, we seek to understand and uncover specific [non-functional requirements](../../design_patterns/non_functional_requirements_capture_guide.md) that influence the solution.
 
-During this time the team uncovers many unknowns, leveraging all new-found information, in order to help generate an impactful design that meets customer goals. After ADS it can be helpful to conduct [Engineering Feasibility Spikes](../recipes/engineering-feasibility-spikes.md) to further de-risk technologies being considered for the engagement.
+During this time the team uncovers many unknowns, leveraging all new-found information, in order to help generate an impactful design that meets customer goals. After ADS it can be helpful to conduct [Engineering Feasibility Spikes](../recipes/engineering_feasibility_spikes.md) to further de-risk technologies being considered for the engagement.
 
 > **Tip**: All unknowns have not been addressed at this point.
 
 ## Sprint Planning
 
-In many engagements Microsoft works with customers using a SCRUM agile development process which begins with sprint planning. [Sprint planning](../../../agile-development/core-expectations/README.md) is a great opportunity to dive deep into the next set of high priority work. Some key points to address are the following:
+In many engagements Microsoft works with customers using a SCRUM agile development process which begins with sprint planning. [Sprint planning](../../../agile_development/core_expectations/README.md) is a great opportunity to dive deep into the next set of high priority work. Some key points to address are the following:
 
 1. Identify stories that require design reviews
 1. Separate design from implementation for complex stories
@@ -37,18 +37,18 @@ Stories that will benefit from design reviews have one or more of the following 
 
 ## Sprint Backlog Refinement
 
-If your team is not already hosting a [Sprint Backlog Refinement](../../../agile-development/advanced-topics/backlog-management/README.md) session at least once per week you should consider it. It is a great opportunity to:
+If your team is not already hosting a [Sprint Backlog Refinement](../../../agile_development/advanced_topics/backlog_management/README.md) session at least once per week you should consider it. It is a great opportunity to:
 
 1. Keep the backlog clean
 1. Re-prioritize work based on shifting business priorities
 1. Fill in missing descriptions and acceptance criteria
 1. Identify stories that require design reviews
 
-The team can follow the same steps from [sprint planning](#sprint-planning) to help identify which stories require design reviews. This can often save much time during the actual sprint planning meetings to focus on the task at hand.
+The team can follow the same steps from [sprint planning](#sprint_planning) to help identify which stories require design reviews. This can often save much time during the actual sprint planning meetings to focus on the task at hand.
 
 ## Sprint Retrospectives
 
-[Sprint retrospectives](../../../agile-development/core-expectations/README.md) are a great time to check in with the dev team, identify what is working or not working, and propose changes to keep improving.
+[Sprint retrospectives](../../../agile_development/core_expectations/README.md) are a great time to check in with the dev team, identify what is working or not working, and propose changes to keep improving.
 
 It is also a great time to check in on design reviews
 
@@ -58,7 +58,7 @@ It is also a great time to check in on design reviews
 
 All design artifacts should be treated as a living document. As requirements change or uncover more unknowns the dev crew should retroactively update all design artifacts. Missing this critical step may cause the customer to incur future technical debt. Artifacts that are not up to date are `bugs` in the design.
 
-> **Tip:** Keep your artifacts up to date by adding it to your teams [Definition of Done](../../../agile-development/advanced-topics/team-agreements/definition-of-done.md) for all user stories.
+> **Tip:** Keep your artifacts up to date by adding it to your teams [Definition of Done](../../../agile_development/advanced_topics/team_agreements/definition_of_done.md) for all user stories.
 
 ## Sync Design Reviews
 

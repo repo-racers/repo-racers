@@ -1,4 +1,4 @@
 # Recipes
 
-- [Detect secrets](./detect-secrets.md)
-- [Detect secrets on Azure DevOps](./detect-secrets-ado.md)
+- [Detect secrets](./detect_secrets.md)
+- [Detect secrets on Azure DevOps](./detect_secrets_ado.md)

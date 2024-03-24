@@ -8,16 +8,16 @@ This checklist covers a broad spectrum of considerations, including server-side 
 
 At two critical junctures of the deployment process—server-side setups and client-side configurations—we delve into specific actions like building VM Images, deploying Docker images, configuring CPU and memory settings, and more. Each section is crafted to ensure our deployment aligns with Azure's best practices and our organizational goals, whether we're rolling out a new application or optimizing an existing one.
 
-1. [Server-side](#server-side)
-1. [Client-side](#client-side)
-1. [Data storage](#data-storage)
-1. [Scalability and High Availability](#scalability-and-high-availability)
-1. [Continuous Integration](#continuous-integration)
-1. [Continuous Delivery](#continuous-delivery)
+1. [Server-side](#server_side)
+1. [Client-side](#client_side)
+1. [Data storage](#data_storage)
+1. [Scalability and High Availability](#scalability_and_high_availability)
+1. [Continuous Integration](#continuous_integration)
+1. [Continuous Delivery](#continuous_delivery)
 1. [Networking](#networking)
 1. [Security](#security)
 1. [Monitoring](#monitoring)
-1. [Cost optimization](#cost-optimization)
+1. [Cost optimization](#cost_optimization)
 
 ## Server-side
 
@@ -56,15 +56,15 @@ Configure the OS disk on each Azure Virtual Machine with enough space for your a
 
 ### Pick a JavaScript framework
 
-If you are building client-side applications in the browser, you may wish to use a JavaScript framework such as React, Angular, or Ember. You'll need to update your build system to build and package the code appropriately (see [continuous integration](#continuous-integration)).
+If you are building client-side applications in the browser, you may wish to use a JavaScript framework such as React, Angular, or Ember. You'll need to update your build system to build and package the code appropriately (see [continuous integration](#continuous_integration)).
 
 ### Pick a compile-to-JS language
 
-JavaScript has a number of problems and limitations, so you may wish to use a compile-to-JS language, such as TypeScript, Scala.js, PureScript, Elm, or ClojureScript. You'll need to update your build system to build and package the code appropriately (see [continuous integration](#continuous-integration)).
+JavaScript has a number of problems and limitations, so you may wish to use a compile-to-JS language, such as TypeScript, Scala.js, PureScript, Elm, or ClojureScript. You'll need to update your build system to build and package the code appropriately (see [continuous integration](#continuous_integration)).
 
 ### Pick a compile-to-CSS language
 
-CSS has a number of problems and limitations, so you may wish to use a compile-to-CSS language, such as SASS, less, cssnext, or postcss. You'll need to update your build system to build and package the code appropriately (see [continuous integration](#continuous-integration)).
+CSS has a number of problems and limitations, so you may wish to use a compile-to-CSS language, such as SASS, less, cssnext, or postcss. You'll need to update your build system to build and package the code appropriately (see [continuous integration](#continuous_integration)).
 
 ### Optimize your assets
 

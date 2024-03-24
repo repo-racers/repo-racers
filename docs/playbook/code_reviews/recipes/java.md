@@ -45,7 +45,7 @@ Here is an example yaml for a Gradle build task with all three analysis tools en
 
 ## Code Review Checklist
 
-In addition to the [Code Review Checklist](../process-guidance/reviewer-guidance.md) you should also look for these Java specific code review items
+In addition to the [Code Review Checklist](../process_guidance/reviewer_guidance.md) you should also look for these Java specific code review items
 
 * [ ] Does the project use Lambda to make code cleaner?
 * [ ] Is dependency injection (DI) used?  Is it setup correctly?

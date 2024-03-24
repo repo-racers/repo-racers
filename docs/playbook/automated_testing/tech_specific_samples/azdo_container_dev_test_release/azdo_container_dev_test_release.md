@@ -10,9 +10,9 @@ Follow this link to dive deeper or revisit the [DevTest pattern](https://learn.m
 
 ## Table of Contents
 
-[Build the Container](#build-the-container)
-[Test the Container](#test-the-container)
-[Push Container](#push-container)
+[Build the Container](#build_the_container)
+[Test the Container](#test_the_container)
+[Push Container](#push_container)
 [References](#references)
 
 ## Build the Container

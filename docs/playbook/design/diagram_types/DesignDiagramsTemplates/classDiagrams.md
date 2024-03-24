@@ -42,7 +42,7 @@ One can find many examples online such as at [UML Diagrams](https://www.uml-diag
 
 Below are some basic examples:
 
-![image](./Images/generalization-aggregation-association.png)
+![image](./Images/generalization_aggregation_association.png)
 
 ![image](./Images/realization.png)
 

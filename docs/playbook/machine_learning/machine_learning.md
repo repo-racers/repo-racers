@@ -10,8 +10,8 @@ This guideline documents the Machine Learning (ML) practices in ISE. ISE works w
 
 ## How to use these fundamentals
 
-* If you are starting a new ML project, consider reading through the [general guidance documents](#general-guidance).
-* For specific aspects of an ML project, refer to the guidelines for different [project phases](#ml-project-phases).
+* If you are starting a new ML project, consider reading through the [general guidance documents](#general_guidance).
+* For specific aspects of an ML project, refer to the guidelines for different [project phases](#ml_project_phases).
 
 ## ML Project phases
 
@@ -19,22 +19,22 @@ The diagram below shows different phases in an ideal ML project. Due to practica
 
 ![Project flow](images/flow.png)
 
-* **[Envisioning](ml-problem-formulation-envisioning.md)**: Initial problem understanding, customer goals and objectives.
-* **[Feasibility Study](ml-feasibility-study.md)**: Assess whether the problem in question is feasible to solve satisfactorily using ML with the available data.
+* **[Envisioning](ml_problem_formulation_envisioning.md)**: Initial problem understanding, customer goals and objectives.
+* **[Feasibility Study](ml_feasibility_study.md)**: Assess whether the problem in question is feasible to solve satisfactorily using ML with the available data.
 * **Model Milestone**: There is a basic model that is achieving the minimum required performance, both in terms of ML performance and system performance. Using the knowledge gathered to this milestone, define the scope, objectives, high-level architecture, definition of done and plan for the entire project.
-* **[Model(s) experimentation](ml-experimentation.md)**: Tools and best practices for conducting successful model experimentation.
-* **Model(s) Operationalization**: [Model readiness for production](ml-model-checklist.md) checklist.
+* **[Model(s) experimentation](ml_experimentation.md)**: Tools and best practices for conducting successful model experimentation.
+* **Model(s) Operationalization**: [Model readiness for production](ml_model_checklist.md) checklist.
 
 ## General guidance
 
-* [ML Process Guidance](ml-proposed-process.md)
-* [ML Fundamentals checklist](ml-fundamentals-checklist.md)
-* [Data Exploration](ml-data-exploration.md)
-* [Agile ML development](ml-project-management.md)
-* [Testing Data Science and ML Ops code](ml-testing.md)
-* [Profiling Machine Learning and ML Ops code](ml-profiling.md)
-* [Responsible AI](responsible-ai.md)
-* [Program Management for ML projects](ml-tpm-guidance.md)
+* [ML Process Guidance](ml_proposed_process.md)
+* [ML Fundamentals checklist](ml_fundamentals_checklist.md)
+* [Data Exploration](ml_data_exploration.md)
+* [Agile ML development](ml_project_management.md)
+* [Testing Data Science and ML Ops code](ml_testing.md)
+* [Profiling Machine Learning and ML Ops code](ml_profiling.md)
+* [Responsible AI](responsible_ai.md)
+* [Program Management for ML projects](ml_tpm_guidance.md)
 
 ## References
 

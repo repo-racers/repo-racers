@@ -69,7 +69,7 @@ Use .editorconfig to configure code formatting rules in your project.
 
 It's important that you enforce your code style and rules in the CI to avoid any team member merging code that does not comply with your standards into your git repo.
 
-If you are using FxCop analyzers and StyleCop analyzer, it's very simple to enable those in the CI. You have to make sure you are setting up the project using nuget and .editorconfig ([see Project setup](#project-setup)). Once you have this setup, you will have to configure the pipeline to build your code. That's pretty much it. The FxCop analyzers will run and report the result in your build pipeline. If there are rules that are violated, your build will be red.
+If you are using FxCop analyzers and StyleCop analyzer, it's very simple to enable those in the CI. You have to make sure you are setting up the project using nuget and .editorconfig ([see Project setup](#project_setup)). Once you have this setup, you will have to configure the pipeline to build your code. That's pretty much it. The FxCop analyzers will run and report the result in your build pipeline. If there are rules that are violated, your build will be red.
 
 ```yaml
     - task: DotNetCoreCLI@2
@@ -83,11 +83,11 @@ If you are using FxCop analyzers and StyleCop analyzer, it's very simple to enab
 
 The above steps also work in VS Code provided you enable Roslyn support for Omnisharp. The setting is `omnisharp.enableRoslynAnalyzers` and must be set to `true`. After enabling this setting you must "Restart Omnisharp" (this can be done from the Command Palette in VS Code or by restarting VS Code).
 
-![rosyln-support](images/vscode-roslyn.png)
+![rosyln-support](images/vscode_roslyn.png)
 
 ## Code Review Checklist
 
-In addition to the [Code Review Checklist](../process-guidance/reviewer-guidance.md) you should also look for these C# specific code review items
+In addition to the [Code Review Checklist](../process_guidance/reviewer_guidance.md) you should also look for these C# specific code review items
 
 * [ ] Does this code make correct use of [asynchronous programming constructs](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/#BKMK_AsyncandAwait), including proper use of `await` and `Task.WhenAll` including CancellationTokens?
 * [ ] Is the code subject to concurrency issues? Are shared objects properly protected?

@@ -16,7 +16,7 @@ We assume that you, as a CI/CD engineer, want to inject environment variables or
 
 Many integration or end-to-end workflows require specific environment variables that are only available at runtime. For example, a workflow might be doing the following:
 
-![Workflow Diagram](images/workflow-diagram.png)
+![Workflow Diagram](images/workflow_diagram.png)
 
 In this situation, testing the pipeline is extremely difficult without having to make external calls to the resource. In many cases, making external calls to the resource can be expensive or time-consuming, significantly slowing down inner loop development.
 
@@ -83,7 +83,7 @@ jobs:
         run: echo "Flag is available and true"
 ```
 
-Available as a .YAML [here](examples/commit-example.yaml).
+Available as a .YAML [here](examples/commit_example.yaml).
 
 Code Explanation:
 
@@ -211,7 +211,7 @@ jobs:
         run: echo "Flag is available and true"
 ```
 
-Available as a .YAML [here](examples/pr-example.yaml).
+Available as a .YAML [here](examples/pr_example.yaml).
 
 Code Explanation:
 

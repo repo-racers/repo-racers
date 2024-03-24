@@ -43,7 +43,7 @@ There are a range of developer platform specific diagnostic tools which can be u
 
 ## Environment for profiling
 
-To create an application profile as close to production as possible, the environment in which the application is intended to run in production has to be considered and it might be necessary to perform a snapshot of the application state [under load](../automated-testing/performance-testing/README.md).
+To create an application profile as close to production as possible, the environment in which the application is intended to run in production has to be considered and it might be necessary to perform a snapshot of the application state [under load](../automated_testing/performance_testing/README.md).
 
 ### Diagnostics in containers
 

@@ -6,7 +6,7 @@ Credential scanning is the practice of automatically inspecting a project to ens
 
 Including secrets in a project's source code is a significant risk, as it might make those secrets available to unwanted parties. Even if it seems that the source code is accessible to the same people who are privy to the secrets, this situation is likely to change as the project grows. Spreading secrets in different places makes them harder to manage, access control, and revoke efficiently. Secrets that are committed to source control are also harder to discard of, since they will persist in the source's history.
 Another consideration is that coupling the project's code to its infrastructure and deployment specifics is limiting and considered a bad practice. From a software design perspective, the code should be independent of the runtime configuration that will be used to run it, and that runtime configuration includes secrets.
- As such, there should be a clear boundary between code and secrets: secrets should be managed outside of the source code (read more [here](../../../continuous-delivery/secrets-management/README.md)) and credential scanning should be employed to ensure that this boundary is never violated.
+ As such, there should be a clear boundary between code and secrets: secrets should be managed outside of the source code (read more [here](../../../continuous_delivery/secrets_management/README.md)) and credential scanning should be employed to ensure that this boundary is never violated.
 
 ## Applying Credential Scanning
 
@@ -23,8 +23,8 @@ To implement credential scanning for a project, consider the  following:
 
 Recipes and Scenarios -
 
-1. [detect-secrets](./recipes/detect-secrets.md) is an aptly named module for detecting secrets within a code base.
-1. Use [detect-secrets inside Azure DevOps Pipeline](./recipes/detect-secrets-ado.md)
+1. [detect-secrets](./recipes/detect_secrets.md) is an aptly named module for detecting secrets within a code base.
+1. Use [detect-secrets inside Azure DevOps Pipeline](./recipes/detect_secrets_ado.md)
 1. [Microsoft Security Code Analysis extension](https://learn.microsoft.com/en-us/azure/security/develop/security-code-analysis-overview)
 
 Additional Tools -
