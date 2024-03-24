@@ -1,4 +1,4 @@
-# Source Control
+# Overview
 
 There are many options when working with Source Control. At Repo Racers we use [GitHub](https://github.com/) for all our repositories.
 
