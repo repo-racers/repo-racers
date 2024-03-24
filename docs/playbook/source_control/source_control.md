@@ -30,9 +30,9 @@ When creating a new repository, the team should at least do the following
 * Agree on [branch naming](naming_branches.md) (e.g. `user/your_alias/feature_name`)
 * Establish [branch/PR policies](../code_reviews/pull_requests.md)
 * For public repositories the default branch should contain the following files:
-  * [LICENSE](../resources/templates/LICENSE)
-  * [README.md](../resources/templates/README.md)
-  * [CONTRIBUTING.md](../resources/templates/CONTRIBUTING.md)
+  * LICENSE
+  * README.md
+  * CONTRIBUTING.md
 
 ## Contributing to an existing repository
 
