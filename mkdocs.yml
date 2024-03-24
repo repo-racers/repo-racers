@@ -61,63 +61,310 @@ plugins:
 nav:
   - Home: index.md
   - Our Playbook:
-      - playbook/our_playbook.md
-      - playbook/accessibility.md
+      - 'Why a Playbook': 'playbook/our_playbook.md'
+      - 'Accessibility': 'playbook/accessibility.md'
       - Agile Guide:
-          - playbook/agile_guide/scrumban.md
+          - 'Scrumban': 'playbook/agile_guide/scrumban.md'
           - Basics:
-              - Backlog Management: playbook/agile_guide/basics/backlog_management.md
-              - Ceremonies: playbook/agile_guide/basics/ceremonies.md
-              - Roles: playbook/agile_guide/basics/roles.md
-              - Sprints: playbook/agile_guide/basics/sprints.md
-          - How We Roll: playbook/agile_guide/how_we_roll/how_we_roll.md
+              - 'Backlog Management': 'playbook/agile_guide/basics/backlog_management.md'
+              - 'Ceremonies': 'playbook/agile_guide/basics/ceremonies.md'
+              - 'Roles': 'playbook/agile_guide/basics/roles.md'
+              - 'Sprints': 'playbook/agile_guide/basics/sprints.md'
+          - 'How We Roll': 'playbook/agile_guide/how_we_roll/how_we_roll.md'
           - Beyond The Basics:
-              - Backlog Management: playbook/agile_guide/beyond_the_basics/backlog_management/backlog_management.md
+              - Backlog Management: 'playbook/agile_guide/beyond_the_basics/backlog_management/backlog_management.md'
               - Collaboration:
-                  - playbook/agile_guide/beyond_the_basics/collaboration/collaboration.md
-                  - Virtual Collaboration: playbook/agile_guide/beyond_the_basics/collaboration/virtual_collaboration.md
-                  - Pair Programming: playbook/agile_guide/beyond_the_basics/collaboration/pair_programming.md
-                  - Team Dynamics: playbook/agile_guide/beyond_the_basics/collaboration/team_dynamics.md
-                  - Social Question: playbook/agile_guide/beyond_the_basics/collaboration/social_question.md
+                  - 'Collaboration': 'playbook/agile_guide/beyond_the_basics/collaboration/collaboration.md'
+                  - 'Virtual Collaboration': 'playbook/agile_guide/beyond_the_basics/collaboration/virtual_collaboration.md'
+                  - 'Pair Programming': 'playbook/agile_guide/beyond_the_basics/collaboration/pair_programming.md'
+                  - 'Team Dynamics': 'playbook/agile_guide/beyond_the_basics/collaboration/team_dynamics.md'
+                  - 'Social Question': 'playbook/agile_guide/beyond_the_basics/collaboration/social_question.md'
               - Crew Contracts:
-                  - playbook/agile_guide/beyond_the_basics/crew_contracts/crew_contracts.md
-                  - playbook/agile_guide/beyond_the_basics/crew_contracts/crew_manifesto.md
-                  - playbook/agile_guide/beyond_the_basics/crew_contracts/working_agreement.md
-                  - playbook/agile_guide/beyond_the_basics/crew_contracts/definition_of_ready.md
-                  - playbook/agile_guide/beyond_the_basics/crew_contracts/definition_of_done.md
-      - playbook/reliability/reliability.md
+                  - 'Crew Contracts': 'playbook/agile_guide/beyond_the_basics/crew_contracts/crew_contracts.md'
+                  - 'Crew Manifesto': 'playbook/agile_guide/beyond_the_basics/crew_contracts/crew_manifesto.md'
+                  - 'Working Agreement': 'playbook/agile_guide/beyond_the_basics/crew_contracts/working_agreement.md'
+                  - 'Definition of Ready': 'playbook/agile_guide/beyond_the_basics/crew_contracts/definition_of_ready.md'
+                  - 'Definition of Done': 'playbook/agile_guide/beyond_the_basics/crew_contracts/definition_of_done.md'
+      - 'Reliability': 'playbook/reliability/reliability.md'
+      - Code Reviews:
+          - 'Code Reviews': 'playbook/code_reviews/code_reviews.md'
+          - 'FAQ': 'playbook/code_reviews/faq.md'
+          - 'Inclusion in Code Review': 'playbook/code_reviews/inclusion_in_code_review.md'
+          - 'Pull Request Template': 'playbook/code_reviews/pull_request_template.md'
+          - 'Pull Requests': 'playbook/code_reviews/pull_requests.md'
+          - 'Tools': 'playbook/code_reviews/tools.md'
+          - Evidence and Measures:
+              - 'Evidence and Measures': 'playbook/code_reviews/evidence_and_measures/evidence_and_measures.md'
+          - Process Guidance:
+              - 'Author Guidance': 'playbook/code_reviews/process_guidance/author_guidance.md'
+              - 'Process Guidance': 'playbook/code_reviews/process_guidance/process_guidance.md'
+              - 'Reviewer Guidance': 'playbook/code_reviews/process_guidance/reviewer_guidance.md'
+          - Recipes:
+              - 'Azure Pipelines YAML': 'playbook/code_reviews/recipes/azure_pipelines_yaml.md'
+              - 'Bash': 'playbook/code_reviews/recipes/bash.md'
+              - 'C#': 'playbook/code_reviews/recipes/csharp.md'
+              - 'Go': 'playbook/code_reviews/recipes/go.md'
+              - 'Java': 'playbook/code_reviews/recipes/java.md'
+              - 'JavaScript and TypeScript': 'playbook/code_reviews/recipes/javascript_and_typescript.md'
+              - 'Markdown': 'playbook/code_reviews/recipes/markdown.md'
+              - 'Python': 'playbook/code_reviews/recipes/python.md'
+              - 'Recipes': 'playbook/code_reviews/recipes/recipes.md'
+              - 'Terraform': 'playbook/code_reviews/recipes/terraform.md'
+      - Continuous Delivery:
+          - 'Continuous Delivery': 'playbook/continuous_delivery/continuous_delivery.md'
+          - DevOps Provider Recipes:
+              - Runtime Variables: 'playbook/continuous_delivery/devops_provider_recipes/github_actions/runtime_variables/runtime_variables.md'
+          - GitOps:
+              - Deploying: 'playbook/continuous_delivery/gitops/deploying/deploying.md'
+              - Secret Management:
+                  - 'Azure DevOps Secret Management Per Branch': 'playbook/continuous_delivery/gitops/secret_management/azure_devops_secret_management_per_branch.md'
+                  - 'Secret Management': 'playbook/continuous_delivery/gitops/secret_management/secret_management.md'
+                  - 'Secret Rotation in Pods': 'playbook/continuous_delivery/gitops/secret_management/secret_rotation_in_pods.md'
+          - Low Code Solutions: 'playbook/continuous_delivery/low_code_solutions/low_code_solutions.md'
+          - Recipes:
+              - 'Recipes': 'playbook/continuous_delivery/recipes/recipes.md'
+              - GitHub Workflows: 'playbook/continuous_delivery/recipes/github_workflows/github_workflows.md'
+              - Terraform:
+                  - 'Save Output to Variable Group': 'playbook/continuous_delivery/recipes/terraform/save_output_to_variable_group.md'
+                  - 'Share Common Variables Naming Conventions': 'playbook/continuous_delivery/recipes/terraform/share_common_variables_naming_conventions.md'
+                  - 'Terraform': 'playbook/continuous_delivery/recipes/terraform/terraform.md'
+                  - 'Terraform Structure Guidelines': 'playbook/continuous_delivery/recipes/terraform/terraform_structure_guidelines.md'
+          - Secrets Management: 'playbook/continuous_delivery/secrets_management/secrets_management.md'
+      - Continuous Integration:
+          - 'CI/CD': 'playbook/continuous_integration/CICD.md'
+          - 'Continuous Integration': 'playbook/continuous_integration/continuous_integration.md'
+          - 'Inclusive Linting': 'playbook/continuous_integration/inclusive_linting.md'
+          - CI in Data Science:
+              - Working with Notebooks: 'playbook/continuous_integration/ci_in_data_science/working_with_notebooks/working_with_notebooks.md'
+          - DevSecOps:
+              - 'DevSecOps': 'playbook/continuous_integration/dev_sec_ops/dev_sec_ops.md'
+              - Azure DevOps:
+                  - 'Azure DevOps': 'playbook/continuous_integration/dev_sec_ops/azure_devops/azure_devops.md'
+                  - 'Service Connection Security': 'playbook/continuous_integration/dev_sec_ops/azure_devops/service_connection_security.md'
+              - Dependency Container Scanning: 'playbook/continuous_integration/dev_sec_ops/dependency_container_scanning/dependency_container_scanning.md'
+              - Evaluate OSS: 'playbook/continuous_integration/dev_sec_ops/evaluate_oss/evaluate_oss.md'
+              - Penetration Testing: 'playbook/continuous_integration/dev_sec_ops/penetration_testing/penetration_testing.md'
+              - Secret Management:
+                  - 'Credential Scanning': 'playbook/continuous_integration/dev_sec_ops/secret_management/credential_scanning.md'
+                  - 'Secret Management': 'playbook/continuous_integration/dev_sec_ops/secret_management/secret_management.md'
+                  - 'Secrets Rotation': 'playbook/continuous_integration/dev_sec_ops/secret_management/secrets_rotation.md'
+                  - 'Static Code Analysis': 'playbook/continuous_integration/dev_sec_ops/secret_management/static_code_analysis.md'
+                  - Recipes:
+                      - 'Detect Secrets': 'playbook/continuous_integration/dev_sec_ops/secret_management/recipes/detect_secrets.md'
+                      - 'Detect Secrets ADO': 'playbook/continuous_integration/dev_sec_ops/secret_management/recipes/detect_secrets_ado.md'
+                      - 'Recipes': 'playbook/continuous_integration/dev_sec_ops/secret_management/recipes/recipes.md'
+          - DevContainers: 'playbook/continuous_integration/devcontainers/devcontainers.md'
+          - Markdown Linting: 'playbook/continuous_integration/markdown_linting/markdown_linting.md'
+      - Design:
+          - 'Readme': 'playbook/design/readme.md'
+          - Design Patterns:
+              - 'Cloud Resource Design Guidance': 'playbook/design/design_patterns/cloud_resource_design_guidance.md'
+              - 'Data Heavy Design Guidance': 'playbook/design/design_patterns/data_heavy_design_guidance.md'
+              - 'Design Patterns': 'playbook/design/design_patterns/design_patterns.md'
+              - 'Distributed System Design Reference': 'playbook/design/design_patterns/distributed_system_design_reference.md'
+              - 'Network Architecture Guidance for Azure': 'playbook/design/design_patterns/network_architecture_guidance_for_azure.md'
+              - 'Network Architecture Guidance for Hybrid': 'playbook/design/design_patterns/network_architecture_guidance_for_hybrid.md'
+              - 'Non Functional Requirements Capture Guide': 'playbook/design/design_patterns/non_functional_requirements_capture_guide.md'
+              - 'Object Oriented Design Reference': 'playbook/design/design_patterns/object_oriented_design_reference.md'
+              - 'REST API Design Guidance': 'playbook/design/design_patterns/rest_api_design_guidance.md'
+          - Design Reviews:
+              - 'Design Reviews': 'playbook/design/design_reviews/design_reviews.md'
+              - Decision Log:
+                  - 'Decision Log': 'playbook/design/design_reviews/decision_log/decision_log.md'
+                  - Doc:
+                      - 'Decision Log': 'playbook/design/design_reviews/decision_log/doc/decision_log.md'
+                      - ADR:
+                          - 'Record Architecture Decisions': 'playbook/design/design_reviews/decision_log/doc/adr/0001_record_architecture_decisions.md'
+                          - 'App Level Logging': 'playbook/design/design_reviews/decision_log/doc/adr/0002_app_level_logging.md'
+                  - Examples:
+                      - Memory:
+                          - 'Decision Log': 'playbook/design/design_reviews/decision_log/examples/memory/Decision_Log.md'
+                          - 'Memory': 'playbook/design/design_reviews/decision_log/examples/memory/memory.md'
+                          - Architecture:
+                              - 'Data Model': 'playbook/design/design_reviews/decision_log/examples/memory/Architecture/Data_Model.md'
+                          - Deployment:
+                              - 'Environments': 'playbook/design/design_reviews/decision_log/examples/memory/Deployment/Environments.md'
+                          - Trade Studies:
+                              - 'GitOps': 'playbook/design/design_reviews/decision_log/examples/memory/Trade_Studies/GitOps.md'
+              - Recipes:
+                  - 'Async Design Reviews': 'playbook/design/design_reviews/recipes/async_design_reviews.md'
+                  - 'Engagement Process': 'playbook/design/design_reviews/recipes/engagement_process.md'
+                  - 'Engineering Feasibility Spikes': 'playbook/design/design_reviews/recipes/engineering_feasibility_spikes.md'
+                  - 'Feature Story Design Review Template': 'playbook/design/design_reviews/recipes/feature_story_design_review_template.md'
+                  - 'High Level Design Recipe': 'playbook/design/design_reviews/recipes/high_level_design_recipe.md'
+                  - 'Milestone Epic Design Review Recipe': 'playbook/design/design_reviews/recipes/milestone_epic_design_review_recipe.md'
+                  - 'Milestone Epic Design Review Template': 'playbook/design/design_reviews/recipes/milestone_epic_design_review_template.md'
+                  - 'Preferred Diagram Tooling': 'playbook/design/design_reviews/recipes/preferred_diagram_tooling.md'
+                  - 'Recipes': 'playbook/design/design_reviews/recipes/recipes.md'
+                  - 'Sprint Spike Template': 'playbook/design/design_reviews/recipes/sprint_spike_template.md'
+                  - 'Task Design Review Template': 'playbook/design/design_reviews/recipes/task_design_review_template.md'
+                  - 'Technical Spike': 'playbook/design/design_reviews/recipes/technical_spike.md'
+              - Trade Studies:
+                  - 'Template': 'playbook/design/design_reviews/trade_studies/template.md'
+                  - 'Trade Studies': 'playbook/design/design_reviews/trade_studies/trade_studies.md'
+          - Diagram Types:
+              - 'Diagram Types': 'playbook/design/diagram_types/diagram_types.md'
+              - Design Diagrams Templates:
+                  - 'Class Diagrams': 'playbook/design/diagram_types/DesignDiagramsTemplates/classDiagrams.md'
+                  - 'Component Diagrams': 'playbook/design/diagram_types/DesignDiagramsTemplates/componentDiagrams.md'
+                  - 'Deployment Diagrams': 'playbook/design/diagram_types/DesignDiagramsTemplates/deploymentDiagrams.md'
+                  - 'Sequence Diagrams': 'playbook/design/diagram_types/DesignDiagramsTemplates/sequenceDiagrams.md'
+          - Exception Handling: 'playbook/design/exception_handling/readme.md'
+          - Sustainability:
+              - 'Readme': 'playbook/design/sustainability/readme.md'
+              - 'Sustainable Action Disclaimers': 'playbook/design/sustainability/sustainable_action_disclaimers.md'
+              - 'Sustainable Engineering Principles': 'playbook/design/sustainability/sustainable_engineering_principles.md'
+      - Developer Experience:
+          - 'Client App Inner Loop': 'playbook/developer_experience/client_app_inner_loop.md'
+          - 'Copilots': 'playbook/developer_experience/copilots.md'
+          - 'Cross Platform Tasks': 'playbook/developer_experience/cross_platform_tasks.md'
+          - 'Devcontainers': 'playbook/developer_experience/devcontainers.md'
+          - 'Developer Experience': 'playbook/developer_experience/developer_experience.md'
+          - 'Execute Local Pipeline with Docker': 'playbook/developer_experience/execute_local_pipeline_with_docker.md'
+          - 'Fake Services Inner Loop': 'playbook/developer_experience/fake_services_inner_loop.md'
+          - 'Going Further': 'playbook/developer_experience/going_further.md'
+          - 'Onboarding Guide Template': 'playbook/developer_experience/onboarding_guide_template.md'
+          - 'Toggle VNet Dev Environment': 'playbook/developer_experience/toggle_vnet_dev_environment.md'
+      - Documentation:
+          - 'Documentation': 'playbook/documentation/documentation.md'
+          - Best Practices:
+              - 'Automation': 'playbook/documentation/best_practices/automation.md'
+              - 'Best Practices': 'playbook/documentation/best_practices/best_practices.md'
+              - 'Establish and Manage': 'playbook/documentation/best_practices/establish_and_manage.md'
+              - 'Good Documentation': 'playbook/documentation/best_practices/good_documentation.md'
+          - Guidance:
+              - 'Code': 'playbook/documentation/guidance/code.md'
+              - 'Engineering Feedback': 'playbook/documentation/guidance/engineering_feedback.md'
+              - 'Project and Repositories': 'playbook/documentation/guidance/project_and_repositories.md'
+              - 'Pull Requests': 'playbook/documentation/guidance/pull_requests.md'
+              - 'REST APIs': 'playbook/documentation/guidance/rest_apis.md'
+              - 'Work Items': 'playbook/documentation/guidance/work_items.md'
+          - Recipes:
+              - 'Deploy DocFX Azure Website': 'playbook/documentation/recipes/deploy_docfx_azure_website.md'
+              - 'Recipes': 'playbook/documentation/recipes/recipes.md'
+              - 'Static Website with MkDocs': 'playbook/documentation/recipes/static_website_with_mkdocs.md'
+              - 'Sync Wiki Between Repos': 'playbook/documentation/recipes/sync_wiki_between_repos.md'
+              - 'Using DocFX and Tools': 'playbook/documentation/recipes/using_docfx_and_tools.md'
+          - Tools:
+              - 'Automation': 'playbook/documentation/tools/automation.md'
+              - 'Integrations': 'playbook/documentation/tools/integrations.md'
+              - 'Languages': 'playbook/documentation/tools/languages.md'
+              - 'Wikis': 'playbook/documentation/tools/wikis.md'
+      - Engineering Feedback:
+          - 'Engineering Feedback': 'playbook/engineering_feedback/engineering_feedback.md'
+          - 'Feedback Examples': 'playbook/engineering_feedback/feedback_examples.md'
+          - 'Feedback FAQ': 'playbook/engineering_feedback/feedback_faq.md'
+          - 'Feedback Guidance': 'playbook/engineering_feedback/feedback_guidance.md'
+      - Machine Learning:
+          - 'Machine Learning': 'playbook/machine_learning/machine_learning.md'
+          - 'ML Data Exploration': 'playbook/machine_learning/ml_data_exploration.md'
+          - 'ML Envisioning Summary Template': 'playbook/machine_learning/ml_envisioning_summary_template.md'
+          - 'ML Experimentation': 'playbook/machine_learning/ml_experimentation.md'
+          - 'ML Feasibility Study': 'playbook/machine_learning/ml_feasibility_study.md'
+          - 'ML Fundamentals Checklist': 'playbook/machine_learning/ml_fundamentals_checklist.md'
+          - 'ML Model Checklist': 'playbook/machine_learning/ml_model_checklist.md'
+          - 'ML Problem Formulation Envisioning': 'playbook/machine_learning/ml_problem_formulation_envisioning.md'
+          - 'ML Profiling': 'playbook/machine_learning/ml_profiling.md'
+          - 'ML Project Management': 'playbook/machine_learning/ml_project_management.md'
+          - 'ML Proposed Process': 'playbook/machine_learning/ml_proposed_process.md'
+          - 'ML Testing': 'playbook/machine_learning/ml_testing.md'
+          - 'ML TPM Guidance': 'playbook/machine_learning/ml_tpm_guidance.md'
+          - 'Responsible AI': 'playbook/machine_learning/responsible_ai.md'
+      - Observability:
+          - 'Alerting': 'playbook/observability/alerting.md'
+          - 'Best Practices': 'playbook/observability/best_practices.md'
+          - 'Correlation ID': 'playbook/observability/correlation_id.md'
+          - 'Diagnostic Tools': 'playbook/observability/diagnostic_tools.md'
+          - 'Log vs Metric vs Trace': 'playbook/observability/log_vs_metric_vs_trace.md'
+          - 'Logs Privacy': 'playbook/observability/logs_privacy.md'
+          - 'Microservices': 'playbook/observability/microservices.md'
+          - 'ML Observability': 'playbook/observability/ml_observability.md'
+          - 'Observability': 'playbook/observability/observability.md'
+          - 'Observability as Code': 'playbook/observability/observability_as_code.md'
+          - 'Observability Databricks': 'playbook/observability/observability_databricks.md'
+          - 'Observability Pipelines': 'playbook/observability/observability_pipelines.md'
+          - 'Pitfalls': 'playbook/observability/pitfalls.md'
+          - 'Profiling': 'playbook/observability/profiling.md'
+          - 'Recipes Observability': 'playbook/observability/recipes_observability.md'
+          - Pillars:
+              - 'Dashboard': 'playbook/observability/pillars/dashboard.md'
+              - 'Logging': 'playbook/observability/pillars/logging.md'
+              - 'Metrics': 'playbook/observability/pillars/metrics.md'
+              - 'Tracing': 'playbook/observability/pillars/tracing.md'
+          - Tools:
+              - 'Kubernetes Dashboards': 'playbook/observability/tools/KubernetesDashboards.md'
+              - 'OpenTelemetry': 'playbook/observability/tools/OpenTelemetry.md'
+              - 'Prometheus': 'playbook/observability/tools/Prometheus.md'
+              - 'Loki': 'playbook/observability/tools/loki.md'
+              - 'Tools': 'playbook/observability/tools/tools.md'
       - Privacy:
-          - playbook/privacy/privacy.md
-          - Data Handling: playbook/privacy/data_handling.md
-          - Privacy Frameworks: playbook/privacy/privacy_frameworks.md
+          - 'Privacy': 'playbook/privacy/privacy.md'
+          - 'Data Handling': 'playbook/privacy/data_handling.md'
+          - 'Privacy Frameworks': 'playbook/privacy/privacy_frameworks.md'
       - Security:
-          - playbook/security/security.md
-          - Threat Modelling: playbook/security/threat_modelling.md
-          - Threat Modelling Example: playbook/security/threat_modelling_example.md
-          - Rules of Engagement: playbook/security/rules_of_engagement.md
+          - 'Security': 'playbook/security/security.md'
+          - 'Threat Modelling': 'playbook/security/threat_modelling.md'
+          - 'Threat Modelling Example': 'playbook/security/threat_modelling_example.md'
+          - 'Rules of Engagement': 'playbook/security/rules_of_engagement.md'
       - Source Control:
-          - playbook/source_control/source_control.md
-          - Git Guidance: playbook/source_control/git_guidance/git_guidance.md
-          - Component Versioning: playbook/source_control/component_versioning.md
-          - Merge Strategies: playbook/source_control/merge_strategies.md
-          - Naming Branches: playbook/source_control/naming_branches.md
-          - Secrets Management: playbook/source_control/secrets_management.md
-
+          - 'Source Control': 'playbook/source_control/source_control.md'
+          - 'Git Guidance': 'playbook/source_control/git_guidance/git_guidance.md'
+          - 'Component Versioning': 'playbook/source_control/component_versioning.md'
+          - 'Merge Strategies': 'playbook/source_control/merge_strategies.md'
+          - 'Naming Branches': 'playbook/source_control/naming_branches.md'
+          - 'Secrets Management': 'playbook/source_control/secrets_management.md'
+          - 'Git LFS and VFS': 'playbook/source_control/git_guidance/git_lfs_and_vfs.md'
+      - Automated Testing:
+          - 'Automated Testing': 'playbook/automated_testing/automated_testing.md'
+          - 'CDC Testing': 'playbook/automated_testing/cdc_testing/cdc_testing.md'
+          - E2E Testing:
+              - 'E2E Testing': 'playbook/automated_testing/e2e_testing/e2e_testing.md'
+              - 'Testing Comparison': 'playbook/automated_testing/e2e_testing/testing_comparison.md'
+              - 'Testing Methods': 'playbook/automated_testing/e2e_testing/testing_methods.md'
+              - Recipes:
+                  - 'Gauge Framework': 'playbook/automated_testing/e2e_testing/recipes/gauge_framework.md'
+                  - 'Postman Testing': 'playbook/automated_testing/e2e_testing/recipes/postman_testing.md'
+                  - 'Recipes': 'playbook/automated_testing/e2e_testing/recipes/recipes.md'
+          - 'Fault Injection Testing': 'playbook/automated_testing/fault_injection_testing/fault_injection_testing.md'
+          - 'Integration Testing': 'playbook/automated_testing/integration_testing/integration_testing.md'
+          - Performance Testing:
+              - 'Iterative Perf Test Template': 'playbook/automated_testing/performance_testing/iterative_perf_test_template.md'
+              - 'Load Testing': 'playbook/automated_testing/performance_testing/load_testing.md'
+              - 'Performance Testing': 'playbook/automated_testing/performance_testing/performance_testing.md'
+          - 'Shadow Testing': 'playbook/automated_testing/shadow_testing/shadow_testing.md'
+          - 'Smoke Testing': 'playbook/automated_testing/smoke_testing/smoke_testing.md'
+          - 'Synthetic Monitoring Tests': 'playbook/automated_testing/synthetic_monitoring_tests/synthetic_monitoring_tests.md'
+          - Tech Specific Samples:
+              - 'Tech Specific Samples': 'playbook/automated_testing/tech_specific_samples/tech_specific_samples.md'
+              - 'Azdo Container Dev Test Release': 'playbook/automated_testing/tech_specific_samples/azdo_container_dev_test_release/azdo_container_dev_test_release.md'
+              - 'Blobstorage Unit Tests': 'playbook/automated_testing/tech_specific_samples/blobstorage_unit_tests/blobstorage_unit_tests.md'
+          - Templates:
+              - 'Case Study Template': 'playbook/automated_testing/templates/case_study_template.md'
+              - 'Templates': 'playbook/automated_testing/templates/templates.md'
+              - 'Test Type Template': 'playbook/automated_testing/templates/test_type_template.md'
+          - 'UI Testing': 'playbook/automated_testing/ui_testing/ui_testing.md'
+          - Unit Testing:
+              - 'Authoring Example': 'playbook/automated_testing/unit_testing/authoring_example.md'
+              - 'Custom Connector': 'playbook/automated_testing/unit_testing/custom_connector.md'
+              - 'Mocking': 'playbook/automated_testing/unit_testing/mocking.md'
+              - 'TDD Example': 'playbook/automated_testing/unit_testing/tdd_example.md'
+              - 'Unit Testing': 'playbook/automated_testing/unit_testing/unit_testing.md'
+              - 'Why Unit Tests': 'playbook/automated_testing/unit_testing/why_unit_tests.md'
   - Crew Contracts:
-      - Crew Manifesto: crew_contracts/crew_manifesto.md
-      - Definition of Ready: crew_contracts/definition_of_ready.md
-      - Definition of Done: crew_contracts/definition_of_done.md
-      - 12 Factor App Checklist: crew_contracts/12_factor_app_checklist.md
-      - Azure Deployment Checklist: crew_contracts/azure_deployment_checklist.md
-      - Code of Conduct: crew_contracts/code_of_conduct.md
+      - 'Crew Manifesto': 'crew_contracts/crew_manifesto.md'
+      - 'Definition of Ready': 'crew_contracts/definition_of_ready.md'
+      - 'Definition of Done': 'crew_contracts/definition_of_done.md'
+      - '12 Factor App Checklist': 'crew_contracts/12_factor_app_checklist.md'
+      - 'Azure Deployment Checklist': 'crew_contracts/azure_deployment_checklist.md'
+      - 'Code of Conduct': 'crew_contracts/code_of_conduct.md'
   - Service Catalog:
-      - service_catalog/service_catalog.md
+      - 'Service Catalog': 'service_catalog/service_catalog.md'
   - Product Catalog:
-      - product_catalog/product_catalog.md
+      - 'Product Catalog': 'product_catalog/product_catalog.md'
   - Contributing To This Repository:
-      - contributing/contribution_guidelines.md
-      - Pre-Commit: contributing/pre_commit.md
+      - 'Contribution Guidelines': 'contributing/contribution_guidelines.md'
+      - 'Pre-Commit': 'contributing/pre_commit.md'
   - Our Super Heroes:
-      - our_heroes/our_super_heroes.md
+      - 'Our Super Heroes': 'our_heroes/our_super_heroes.md'
   - Showcase:
-      - showcase/bankrupt_britain.md
+      - 'Bankrupt Britain': 'showcase/bankrupt_britain.md'
