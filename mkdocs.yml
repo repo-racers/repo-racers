@@ -85,6 +85,13 @@ nav:
                   - playbook/agile_guide/beyond_the_basics/crew_contracts/working_agreement.md
                   - playbook/agile_guide/beyond_the_basics/crew_contracts/definition_of_ready.md
                   - playbook/agile_guide/beyond_the_basics/crew_contracts/definition_of_done.md
+      - Source Control:
+          - playbook/source_control/source_control.md
+          - Git Guidance: playbook/source_control/git_guidance/git_guidance.md
+          - Component Versioning: playbook/source_control/component_versioning.md
+          - Merge Strategies: playbook/source_control/merge_strategies.md
+          - Naming Branches: playbook/source_control/naming_branches.md
+          - Secrets Management: playbook/source_control/secrets_management.md
   - Crew Contracts:
       - Crew Manifesto: crew_contracts/crew_manifesto.md
       - Definition of Ready: crew_contracts/definition_of_ready.md
