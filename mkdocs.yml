@@ -85,7 +85,42 @@ nav:
                   - 'Working Agreement': 'playbook/agile_guide/beyond_the_basics/crew_contracts/working_agreement.md'
                   - 'Definition of Ready': 'playbook/agile_guide/beyond_the_basics/crew_contracts/definition_of_ready.md'
                   - 'Definition of Done': 'playbook/agile_guide/beyond_the_basics/crew_contracts/definition_of_done.md'
-      - 'Reliability': 'playbook/reliability/reliability.md'
+      - Automated Testing:
+          - 'Automated Testing': 'playbook/automated_testing/automated_testing.md'
+          - 'CDC Testing': 'playbook/automated_testing/cdc_testing/cdc_testing.md'
+          - E2E Testing:
+              - 'E2E Testing': 'playbook/automated_testing/e2e_testing/e2e_testing.md'
+              - 'Testing Comparison': 'playbook/automated_testing/e2e_testing/testing_comparison.md'
+              - 'Testing Methods': 'playbook/automated_testing/e2e_testing/testing_methods.md'
+              - Recipes:
+                  - 'Gauge Framework': 'playbook/automated_testing/e2e_testing/recipes/gauge_framework.md'
+                  - 'Postman Testing': 'playbook/automated_testing/e2e_testing/recipes/postman_testing.md'
+                  - 'Recipes': 'playbook/automated_testing/e2e_testing/recipes/recipes.md'
+          - 'Fault Injection Testing': 'playbook/automated_testing/fault_injection_testing/fault_injection_testing.md'
+          - 'Integration Testing': 'playbook/automated_testing/integration_testing/integration_testing.md'
+          - Performance Testing:
+              - 'Iterative Perf Test Template': 'playbook/automated_testing/performance_testing/iterative_perf_test_template.md'
+              - 'Load Testing': 'playbook/automated_testing/performance_testing/load_testing.md'
+              - 'Performance Testing': 'playbook/automated_testing/performance_testing/performance_testing.md'
+          - 'Shadow Testing': 'playbook/automated_testing/shadow_testing/shadow_testing.md'
+          - 'Smoke Testing': 'playbook/automated_testing/smoke_testing/smoke_testing.md'
+          - 'Synthetic Monitoring Tests': 'playbook/automated_testing/synthetic_monitoring_tests/synthetic_monitoring_tests.md'
+          - Tech Specific Samples:
+              - 'Tech Specific Samples': 'playbook/automated_testing/tech_specific_samples/tech_specific_samples.md'
+              - 'Azdo Container Dev Test Release': 'playbook/automated_testing/tech_specific_samples/azdo_container_dev_test_release/azdo_container_dev_test_release.md'
+              - 'Blobstorage Unit Tests': 'playbook/automated_testing/tech_specific_samples/blobstorage_unit_tests/blobstorage_unit_tests.md'
+          - Templates:
+              - 'Case Study Template': 'playbook/automated_testing/templates/case_study_template.md'
+              - 'Templates': 'playbook/automated_testing/templates/templates.md'
+              - 'Test Type Template': 'playbook/automated_testing/templates/test_type_template.md'
+          - 'UI Testing': 'playbook/automated_testing/ui_testing/ui_testing.md'
+          - Unit Testing:
+              - 'Authoring Example': 'playbook/automated_testing/unit_testing/authoring_example.md'
+              - 'Custom Connector': 'playbook/automated_testing/unit_testing/custom_connector.md'
+              - 'Mocking': 'playbook/automated_testing/unit_testing/mocking.md'
+              - 'TDD Example': 'playbook/automated_testing/unit_testing/tdd_example.md'
+              - 'Unit Testing': 'playbook/automated_testing/unit_testing/unit_testing.md'
+              - 'Why Unit Tests': 'playbook/automated_testing/unit_testing/why_unit_tests.md'
       - Code Reviews:
           - 'Code Reviews': 'playbook/code_reviews/code_reviews.md'
           - 'FAQ': 'playbook/code_reviews/faq.md'
@@ -301,6 +336,7 @@ nav:
           - 'Privacy': 'playbook/privacy/privacy.md'
           - 'Data Handling': 'playbook/privacy/data_handling.md'
           - 'Privacy Frameworks': 'playbook/privacy/privacy_frameworks.md'
+      - 'Reliability': 'playbook/reliability/reliability.md'
       - Security:
           - 'Security': 'playbook/security/security.md'
           - 'Threat Modelling': 'playbook/security/threat_modelling.md'
@@ -314,42 +350,6 @@ nav:
           - 'Naming Branches': 'playbook/source_control/naming_branches.md'
           - 'Secrets Management': 'playbook/source_control/secrets_management.md'
           - 'Git LFS and VFS': 'playbook/source_control/git_guidance/git_lfs_and_vfs.md'
-      - Automated Testing:
-          - 'Automated Testing': 'playbook/automated_testing/automated_testing.md'
-          - 'CDC Testing': 'playbook/automated_testing/cdc_testing/cdc_testing.md'
-          - E2E Testing:
-              - 'E2E Testing': 'playbook/automated_testing/e2e_testing/e2e_testing.md'
-              - 'Testing Comparison': 'playbook/automated_testing/e2e_testing/testing_comparison.md'
-              - 'Testing Methods': 'playbook/automated_testing/e2e_testing/testing_methods.md'
-              - Recipes:
-                  - 'Gauge Framework': 'playbook/automated_testing/e2e_testing/recipes/gauge_framework.md'
-                  - 'Postman Testing': 'playbook/automated_testing/e2e_testing/recipes/postman_testing.md'
-                  - 'Recipes': 'playbook/automated_testing/e2e_testing/recipes/recipes.md'
-          - 'Fault Injection Testing': 'playbook/automated_testing/fault_injection_testing/fault_injection_testing.md'
-          - 'Integration Testing': 'playbook/automated_testing/integration_testing/integration_testing.md'
-          - Performance Testing:
-              - 'Iterative Perf Test Template': 'playbook/automated_testing/performance_testing/iterative_perf_test_template.md'
-              - 'Load Testing': 'playbook/automated_testing/performance_testing/load_testing.md'
-              - 'Performance Testing': 'playbook/automated_testing/performance_testing/performance_testing.md'
-          - 'Shadow Testing': 'playbook/automated_testing/shadow_testing/shadow_testing.md'
-          - 'Smoke Testing': 'playbook/automated_testing/smoke_testing/smoke_testing.md'
-          - 'Synthetic Monitoring Tests': 'playbook/automated_testing/synthetic_monitoring_tests/synthetic_monitoring_tests.md'
-          - Tech Specific Samples:
-              - 'Tech Specific Samples': 'playbook/automated_testing/tech_specific_samples/tech_specific_samples.md'
-              - 'Azdo Container Dev Test Release': 'playbook/automated_testing/tech_specific_samples/azdo_container_dev_test_release/azdo_container_dev_test_release.md'
-              - 'Blobstorage Unit Tests': 'playbook/automated_testing/tech_specific_samples/blobstorage_unit_tests/blobstorage_unit_tests.md'
-          - Templates:
-              - 'Case Study Template': 'playbook/automated_testing/templates/case_study_template.md'
-              - 'Templates': 'playbook/automated_testing/templates/templates.md'
-              - 'Test Type Template': 'playbook/automated_testing/templates/test_type_template.md'
-          - 'UI Testing': 'playbook/automated_testing/ui_testing/ui_testing.md'
-          - Unit Testing:
-              - 'Authoring Example': 'playbook/automated_testing/unit_testing/authoring_example.md'
-              - 'Custom Connector': 'playbook/automated_testing/unit_testing/custom_connector.md'
-              - 'Mocking': 'playbook/automated_testing/unit_testing/mocking.md'
-              - 'TDD Example': 'playbook/automated_testing/unit_testing/tdd_example.md'
-              - 'Unit Testing': 'playbook/automated_testing/unit_testing/unit_testing.md'
-              - 'Why Unit Tests': 'playbook/automated_testing/unit_testing/why_unit_tests.md'
   - Crew Contracts:
       - 'Crew Manifesto': 'crew_contracts/crew_manifesto.md'
       - 'Definition of Ready': 'crew_contracts/definition_of_ready.md'
