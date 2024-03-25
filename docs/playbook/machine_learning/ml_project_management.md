@@ -9,22 +9,22 @@ When running ML projects, we follow the Agile methodology for software developme
 1. Run and manage ML projects effectively
 2. Create effective collaboration between the ML team and the other teams working on the project
 
-To learn more about how ISE runs the Agile process for software development teams, refer to this [doc](../agile_development).
+To learn more about how Repo Racers runs the Agile process for software development teams, refer to this [doc](../agile_guide/scrumban.md).
 
 Within this framework, the team follows these Agile ceremonies:
 
-- [Backlog management](../agile_development/advanced_topics/backlog_management/backlog_management.md)
-- [Retrospectives](../agile_development/core_expectations/core_expectations.md)
-- [Scrum of Scrums](../agile_development/advanced_topics/effective_organization/scrum_of_scrums.md) (where applicable)
-- [Sprint planning](../agile_development/core_expectations/core_expectations.md)
-- [Stand-ups](../agile_development/core_expectations/core_expectations.md)
-- [Working agreement](../agile_development/advanced_topics/team_agreements/working_agreements.md)
+- [Backlog management](../agile_guide/beyond_the_basics/backlog_management/backlog_management.md)
+- [Retrospectives](../agile_guide/how_we_roll/how_we_roll.md)
+- Scrum of Scrums (where applicable)
+- [Sprint planning](../agile_guide/how_we_roll/how_we_roll.md)
+- [Stand-ups](../agile_guide/how_we_roll/how_we_roll.md)
+- [Working agreement](../agile_guide/beyond_the_basics/crew_contracts/working_agreement.md)
 
 ### Notes on Agile process during exploration and experimentation
 
 1. While acknowledging the fact that ML user stories and research spikes are less predictable than software development ones, we strive to have a deliverable for every user story in every sprint.
 
-2. User stories and spikes are usually estimated using [T-shirt sizes](../agile_development/core_expectations/core_expectations.md) or similar, and not in actual days/hours. See more [here](../agile_development/core_expectations/core_expectations.md) on story estimation.
+2. User stories and spikes are usually estimated using [T-shirt sizes](../agile_guide/how_we_roll/how_we_roll.md) or similar, and not in actual days/hours. See more [here](../agile_guide/how_we_roll/how_we_roll.md) on story estimation.
 
 3. ML design sessions should be included in each sprint.
 
