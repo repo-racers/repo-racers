@@ -1,6 +1,6 @@
 # "In Git We Trust, everything else can fork off!"
 
-![In Git We Trust](docs/assets/images/in_git_we_trust.webp)
+![In Git We Trust](docs/assets/images/heroes/richard_stallman.webp)
 
 Welcome to **Repo Racers**, your premier GitHub professional services partner. We are dedicated to enhancing your GitHub experience, offering expert support for code management and development.
 
