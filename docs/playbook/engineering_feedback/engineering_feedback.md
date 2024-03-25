@@ -40,5 +40,3 @@ For real-world examples please follow [Feedback Examples](feedback_examples.md).
 ## How to submit Engineering Feedback
 
 Please follow the [Engineering Feedback Guidance](feedback_guidance.md) to ensure that you provide feedback that can be triaged and processed most efficiently.
-
-Please review the [Frequently Asked Questions](feedback_faq.md) page for additional information on the engineering feedback process.

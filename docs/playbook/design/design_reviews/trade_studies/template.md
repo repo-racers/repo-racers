@@ -36,8 +36,6 @@ The following section should establish the desired capabilities of the solution 
 
 > **IMPORTANT** This is **not** intended to define outcomes for the design activity itself. It is intended to define the outcomes for the solution being designed.
 
-As mentioned in the [User Interface](../../../user_interface_engineering/user_interface_engineering.md) section, if the trade study is analyzing an application development solution, make use of the _persona stories_ to derive desired outcomes. For example, if a persona story exemplifies a certain accessibility requirement, the parallel desired outcome may be "The application must be accessible for people with vision-based disabilities".
-
 ### Evaluation Criteria
 
 The former should be condensed down to a set of "evaluation criteria" that we can rate any potential solutions
@@ -70,7 +68,7 @@ If applicable, describe the boundaries from which we have to design the solution
 
 #### Accessibility
 
-**Accessibility is never optional**. Microsoft has made a public commitment to always produce accessible applications. For more information visit the official [Microsoft accessibility site](https://www.microsoft.com/accessibility) and read the [Accessibility](../../../accessibility/accessibility.md) page.
+**Accessibility is never optional**. Microsoft has made a public commitment to always produce accessible applications. For more information visit the official [Microsoft accessibility site](https://www.microsoft.com/accessibility) and read the [Accessibility](../../../accessibility.md) page.
 
 Consider the following prompts when determining application accessibility requirements:
 
