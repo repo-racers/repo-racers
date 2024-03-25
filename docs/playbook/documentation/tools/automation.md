@@ -16,7 +16,7 @@ If you want to automate some checks on your Markdown documents, there are severa
 - Automation
   - [pre-commit](https://pre-commit.com/) to use Git hook scripts to identify simple issues before submitting our code or documentation for review.
   - Check [Build validation](../../code_reviews/recipes/markdown.md#build_validation) to automate linting for PRs.
-  - Check [CI Pipeline for better documentation](../../continuous_integration/markdown_linting/README.md) for a sample pipeline with `markdownlint`, `markdown-link-check` and `write-good`.
+  - Check [CI Pipeline for better documentation](../../continuous_integration/markdown_linting/markdown_linting.md) for a sample pipeline with `markdownlint`, `markdown-link-check` and `write-good`.
 
 Sample output:
 

@@ -25,7 +25,7 @@ When requesting a security review for your application, please make sure you hav
 
 ## DevSecOps
 
-Introduce security to your project at early stages. The [DevSecOps section](../continuous_integration/dev_sec_ops/README.md) covers security practices, automation, tools and frameworks as part of the application CI.
+Introduce security to your project at early stages. The [DevSecOps section](../continuous_integration/dev_sec_ops/dev_sec_ops.md) covers security practices, automation, tools and frameworks as part of the application CI.
 
 ## OWASP Cheat Sheets
 

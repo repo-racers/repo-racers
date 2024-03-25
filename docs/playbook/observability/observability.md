@@ -20,7 +20,7 @@ Building observable systems enables development teams at ISE to measure how well
 
 ## Tools, Patterns and Recommended Practices
 
-- [Tooling and Patterns](tools/README.md)
+- [Tooling and Patterns](tools/tools.md)
 - [Observability As Code](observability_as_code.md)
 - [Recommended Practices](best_practices.md)
 - [Diagnostics tools](diagnostic_tools.md)

@@ -2,7 +2,7 @@
 
 ## Github
 
-- [Github workflows](./github_workflows/README.md)
+- [Github workflows](./github_workflows/github_workflows.md)
 
 ## Terraform
 

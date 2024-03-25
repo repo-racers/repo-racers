@@ -4,14 +4,14 @@ Changes to any main codebase - main branch in Git repository, for example - must
 
 Pull requests enable:
 
-* Code inspection - see [Code Reviews](./README.md)
+* Code inspection - see [Code Reviews](./..md)
 * Running automated qualification of the code
   * Linters
   * Compilation
   * Unit tests
   * Integration tests etc.
 
-The requirements of pull requests can and should be enforced by policies, which can be set in the most modern version control and work item tracking systems. See [Evidence and Measures section](./evidence_and_measures/README.md) for more information.
+The requirements of pull requests can and should be enforced by policies, which can be set in the most modern version control and work item tracking systems. See [Evidence and Measures section](./evidence_and_measures/evidence_and_measures.md) for more information.
 
 ## General Process
 
@@ -23,7 +23,7 @@ The requirements of pull requests can and should be enforced by policies, which 
     * Write and/or update tests to cover the changes and make sure all new and existing tests pass
     * Write and/or update the documentation to match the changes
 1. Once convinced the criteria above are met, create and submit a new pull request adhering to the [pull request template](./pull_request_template.md)
-1. Follow the [code review](./process_guidance/README.md) process to merge the changes to the main codebase
+1. Follow the [code review](./process_guidance/process_guidance.md) process to merge the changes to the main codebase
 
 The following diagram illustrates this approach.
 

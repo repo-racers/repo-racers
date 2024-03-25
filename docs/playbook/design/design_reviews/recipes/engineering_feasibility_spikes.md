@@ -45,7 +45,7 @@ After the team shares current progress, another round of planning is done. This 
 
 During the sharing call, and when the team believes it has enough information, the team sometimes comes to the realization that the original spike acceptance criteria is no longer valid. The team pivots into another area that provides more value.
 
-A [decision log](../decision_log/README.md) can be used to track outcomes.
+A [decision log](../decision_log/decision_log.md) can be used to track outcomes.
 
 ### Engineering Feasibility Sprints Diagram
 
@@ -89,4 +89,4 @@ Conducting engineering feasibility spikes sets the team and the customer up for 
 - The key purpose of the engineering feasibility spike is learning.
 - Learning comes from both conducting and sharing insights from spikes.
 - Use new spike infused learnings to revise, refine, re-prioritize, or create the next set of spikes.
-- When spikes are completed, look for new weekly rhythms like adding a ‘risk’ column to the retro board or raising topics at [daily standup](../../../agile_development/core_expectations/README.md) to identify emerging risks.
+- When spikes are completed, look for new weekly rhythms like adding a ‘risk’ column to the retro board or raising topics at [daily standup](../../../agile_development/core_expectations/core_expectations.md) to identify emerging risks.

@@ -59,7 +59,7 @@ An automated build should encompass the following principles:
 
 ### DevOps security checks
 
-- Introduce security to your project at early stages. Follow the [DevSecOps section](dev_sec_ops/README.md) to introduce security practices, automation, tools and frameworks as part of the CI.
+- Introduce security to your project at early stages. Follow the [DevSecOps section](dev_sec_ops/dev_sec_ops.md) to introduce security practices, automation, tools and frameworks as part of the CI.
 
 ## Build Environment Dependencies
 

@@ -1,6 +1,6 @@
 # Reusing dev containers within a pipeline
 
-Given a repository with a local development container aka [dev container](../devcontainers/README.md) that contains all the tooling required for development, would it make sense to reuse that container for running the tooling in the Continuous Integration pipelines?
+Given a repository with a local development container aka [dev container](../devcontainers/devcontainers.md) that contains all the tooling required for development, would it make sense to reuse that container for running the tooling in the Continuous Integration pipelines?
 
 ## Options for building devcontainers within pipeline
 

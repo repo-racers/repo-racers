@@ -6,37 +6,37 @@ The table below maps outcomes -- the results that you may want to achieve in you
 
 | When I am working on... | I want to get this outcome... | ...so I should consider |
 |-------------------------|-------------------------------|-------------------------|
-| Development | Prove backward compatibility with existing callers and clients | [Shadow testing](shadow_testing/README.md), [Integration testing](integration_testing/README.md) |
-| Development | Ensure telemetry is sufficiently detailed and complete to trace and diagnose malfunction in [End-to-End testing](e2e_testing/README.md) flows | Distributed Debug challenges, Orphaned call chain analysis |
-| Development | Ensure program logic is correct for a variety of expected, mainline, edge and unexpected inputs | [Unit testing](unit_testing/README.md), Functional tests, [Consumer-driven Contract Testing](cdc_testing/README.md), [Integration testing](integration_testing/README.md) |
-| Development | Prevent regressions in logical correctness; earlier is better | [Unit testing](unit_testing/README.md), Functional tests, [Consumer-driven Contract Testing](cdc_testing/README.md), [Integration testing](integration_testing/README.md), Rings (each of these are expanding scopes of coverage) |
+| Development | Prove backward compatibility with existing callers and clients | [Shadow testing](shadow_testing/shadow_testing.md), [Integration testing](integration_testing/integration_testing.md) |
+| Development | Ensure telemetry is sufficiently detailed and complete to trace and diagnose malfunction in [End-to-End testing](e2e_testing/e2e_testing.md) flows | Distributed Debug challenges, Orphaned call chain analysis |
+| Development | Ensure program logic is correct for a variety of expected, mainline, edge and unexpected inputs | [Unit testing](unit_testing/unit_testing.md), Functional tests, [Consumer-driven Contract Testing](cdc_testing/cdc_testing.md), [Integration testing](integration_testing/integration_testing.md) |
+| Development | Prevent regressions in logical correctness; earlier is better | [Unit testing](unit_testing/unit_testing.md), Functional tests, [Consumer-driven Contract Testing](cdc_testing/cdc_testing.md), [Integration testing](integration_testing/integration_testing.md), Rings (each of these are expanding scopes of coverage) |
 | Development | Quickly validate mainline correctness of a point of functionality (e.g. single API), manually | Manual smoke testing Tools: postman, powershell, curl |
-| Development | Validate interactions between components in isolation, ensuring that consumer and provider components are compatible and conform to a shared understanding documented in a contract | [Consumer-driven Contract Testing](cdc_testing/README.md) |
-| Development | Validate that multiple components function together across multiple interfaces in a call chain, incl network hops | [Integration testing](integration_testing/README.md), End-to-end ([End-to-End testing](e2e_testing/README.md)) tests, Segmented end-to-end ([End-to-End testing](e2e_testing/README.md)) |
+| Development | Validate interactions between components in isolation, ensuring that consumer and provider components are compatible and conform to a shared understanding documented in a contract | [Consumer-driven Contract Testing](cdc_testing/cdc_testing.md) |
+| Development | Validate that multiple components function together across multiple interfaces in a call chain, incl network hops | [Integration testing](integration_testing/integration_testing.md), End-to-end ([End-to-End testing](e2e_testing/e2e_testing.md)) tests, Segmented end-to-end ([End-to-End testing](e2e_testing/e2e_testing.md)) |
 | Development | Prove disaster recoverability – recover from corruption of data | DR drills |
 | Development | Find vulnerabilities in service Authentication or Authorization | Scenario (security) |
 | Development | Prove correct RBAC and claims interpretation of Authorization code | Scenario (security) |
-| Development | Document and/or enforce valid API usage | [Unit testing](unit_testing/README.md), Functional tests, [Consumer-driven Contract Testing](cdc_testing/README.md) |
-| Development | Prove implementation correctness in advance of a dependency or absent a dependency | [Unit testing](unit_testing/README.md) (with mocks), [Unit testing](unit_testing/README.md) (with emulators), [Consumer-driven Contract Testing](cdc_testing/README.md) |
-| Development | Ensure that the user interface is accessible | [Accessibility](../accessibility/README.md) |
-| Development | Ensure that users can operate the interface | [UI testing (automated)](ui_testing/README.md) (human usability observation) |
-| Development | Prevent regression in user experience | UI automation, [End-to-End testing](e2e_testing/README.md) |
+| Development | Document and/or enforce valid API usage | [Unit testing](unit_testing/unit_testing.md), Functional tests, [Consumer-driven Contract Testing](cdc_testing/cdc_testing.md) |
+| Development | Prove implementation correctness in advance of a dependency or absent a dependency | [Unit testing](unit_testing/unit_testing.md) (with mocks), [Unit testing](unit_testing/unit_testing.md) (with emulators), [Consumer-driven Contract Testing](cdc_testing/cdc_testing.md) |
+| Development | Ensure that the user interface is accessible | [Accessibility](../accessibility/accessibility.md) |
+| Development | Ensure that users can operate the interface | [UI testing (automated)](ui_testing/automated)](ui_testing.md) (human usability observation) |
+| Development | Prevent regression in user experience | UI automation, [End-to-End testing](e2e_testing/e2e_testing.md) |
 | Development | Detect and prevent 'noisy neighbor' phenomena | [Load testing](performance_testing/load_testing.md) |
-| Development | Detect availability drops | [Synthetic Transaction testing](synthetic_monitoring_tests/README.md), Outside-in probes |
-| Development | Prevent regression in 'composite' scenario use cases / workflows (e.g. an e-commerce system might have many APIs that used together in a sequence perform a "shop-and-buy" scenario) | [End-to-End testing](e2e_testing/README.md), Scenario |
-| Development; Operations | Prevent regressions in runtime performance metrics e.g. latency / cost / resource consumption; earlier is better | Rings, [Synthetic Transaction testing](synthetic_monitoring_tests/README.md) / Transaction, Rollback Watchdogs |
+| Development | Detect availability drops | [Synthetic Transaction testing](synthetic_monitoring_tests/synthetic_monitoring_tests.md), Outside-in probes |
+| Development | Prevent regression in 'composite' scenario use cases / workflows (e.g. an e-commerce system might have many APIs that used together in a sequence perform a "shop-and-buy" scenario) | [End-to-End testing](e2e_testing/e2e_testing.md), Scenario |
+| Development; Operations | Prevent regressions in runtime performance metrics e.g. latency / cost / resource consumption; earlier is better | Rings, [Synthetic Transaction testing](synthetic_monitoring_tests/synthetic_monitoring_tests.md) / Transaction, Rollback Watchdogs |
 | Development; Optimization | Compare any given metric between 2 candidate implementations or variations in functionality | Flighting, A/B testing |
-| Development; Staging | Prove production system of provisioned capacity meets goals for reliability, availability, resource consumption, performance | [Load testing (stress)](performance_testing/load_testing.md), Spike, Soak, [Performance testing](performance_testing/README.md) |
-| Development; Staging | Understand key user experience performance characteristics – latency, chattiness, resiliency to network errors | Load, [Performance testing](performance_testing/README.md), Scenario (network partitioning) |
+| Development; Staging | Prove production system of provisioned capacity meets goals for reliability, availability, resource consumption, performance | [Load testing (stress)](performance_testing/load_testing.md), Spike, Soak, [Performance testing](performance_testing/load_testing.md), Spike, Soak, [Performance testing](performance_testing.md) |
+| Development; Staging | Understand key user experience performance characteristics – latency, chattiness, resiliency to network errors | Load, [Performance testing](performance_testing/performance_testing.md), Scenario (network partitioning) |
 | Development; Staging; Operation | Discover melt points (the loads at which failure or maximum tolerable resource consumption occurs) for each individual component in the stack | Squeeze, [Load testing (stress)](performance_testing/load_testing.md) |
 | Development; Staging; Operation | Discover overall system melt point (the loads at which the end-to-end system fails) and which component is the weakest link in the whole stack | Squeeze, [Load testing (stress)](performance_testing/load_testing.md) |
 | Development; Staging; Operation | Measure capacity limits for given provisioning to predict or satisfy future provisioning needs | Squeeze, [Load testing (stress)](performance_testing/load_testing.md) |
 | Development; Staging; Operation | Create / exercise failover runbook | Failover drills |
 | Development; Staging; Operation | Prove disaster recoverability – loss of data center (the meteor scenario); measure MTTR | DR drills |
-| Development; Staging; Operation | Understand whether observability dashboards are correct, and telemetry is complete; flowing  | Trace Validation, [Load testing (stress)](performance_testing/load_testing.md), Scenario, [End-to-End testing](e2e_testing/README.md) |
+| Development; Staging; Operation | Understand whether observability dashboards are correct, and telemetry is complete; flowing  | Trace Validation, [Load testing (stress)](performance_testing/load_testing.md), Scenario, [End-to-End testing](e2e_testing/e2e_testing.md) |
 | Development; Staging; Operation | Measure impact of seasonality of traffic  | [Load testing](performance_testing/load_testing.md) |
-| Development; Staging; Operation | Prove Transaction and alerts correctly notify / take action  | [Synthetic Transaction testing](synthetic_monitoring_tests/README.md) (negative cases), [Load testing](performance_testing/load_testing.md) |
-| Development; Staging; Operation; Optimizing | Understand scalability curve, i.e. how the system consumes resources with load | [Load testing (stress)](performance_testing/load_testing.md), [Performance testing](performance_testing/README.md)  |
+| Development; Staging; Operation | Prove Transaction and alerts correctly notify / take action  | [Synthetic Transaction testing](synthetic_monitoring_tests/synthetic_monitoring_tests.md) (negative cases), [Load testing](performance_testing/load_testing.md) |
+| Development; Staging; Operation; Optimizing | Understand scalability curve, i.e. how the system consumes resources with load | [Load testing (stress)](performance_testing/load_testing.md), [Performance testing](performance_testing/performance_testing.md)  |
 | Operation; Optimizing | Discover system behavior over long-haul time | Soak  |
 | Optimizing | Find cost savings opportunities  | Squeeze |
 | Staging; Operation | Measure impact of failover / scale-out (repartitioning, increasing provisioning) / scale-down | Failover drills, Scale drills |
@@ -48,21 +48,21 @@ The table below maps outcomes -- the results that you may want to achieve in you
 
 ## Sections within Testing
 
-- [Consumer-driven contract (CDC) testing](cdc_testing/README.md)
-- [End-to-End testing](e2e_testing/README.md)
-- [Fault Injection testing](fault_injection_testing/README.md)
-- [Integration testing](integration_testing/README.md)
-- [Performance testing](performance_testing/README.md)
-- [Shadow testing](shadow_testing/README.md)
-- [Smoke testing](smoke_testing/README.md)
-- [Synthetic Transaction testing](synthetic_monitoring_tests/README.md)
-- [UI testing](ui_testing/README.md)
-- [Unit testing](unit_testing/README.md)
+- [Consumer-driven contract (CDC) testing](cdc_testing/cdc_testing.md)
+- [End-to-End testing](e2e_testing/e2e_testing.md)
+- [Fault Injection testing](fault_injection_testing/fault_injection_testing.md)
+- [Integration testing](integration_testing/integration_testing.md)
+- [Performance testing](performance_testing/performance_testing.md)
+- [Shadow testing](shadow_testing/shadow_testing.md)
+- [Smoke testing](smoke_testing/smoke_testing.md)
+- [Synthetic Transaction testing](synthetic_monitoring_tests/synthetic_monitoring_tests.md)
+- [UI testing](ui_testing/ui_testing.md)
+- [Unit testing](unit_testing/unit_testing.md)
 
 ## Technology Specific Testing
 
 - [Using DevTest Pattern for building containers with AzDO](tech_specific_samples/azdo_container_dev_test_release)
-- [Using Azurite to run blob storage tests in pipeline](tech_specific_samples/blobstorage_unit_tests/README.md)
+- [Using Azurite to run blob storage tests in pipeline](tech_specific_samples/blobstorage_unit_tests/blobstorage_unit_tests.md)
 
 ## Build for Testing
 

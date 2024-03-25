@@ -11,7 +11,7 @@ To support the process of capturing a project's _comprehensive_ non-functional r
 
 ## Areas of Investigation
 
-### [Enterprise Security](../../security/README.md)
+### [Enterprise Security](../../security/security.md)
 
 - Privacy
   - PII
@@ -69,7 +69,7 @@ To support the process of capturing a project's _comprehensive_ non-functional r
 - RBAC
   - Perms inheritance model
 
-### [Enterprise Monitoring/Operations](../../observability/README.md)
+### [Enterprise Monitoring/Operations](../../observability/observability.md)
 
 - Logging
   - Operations

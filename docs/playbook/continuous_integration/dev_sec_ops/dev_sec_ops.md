@@ -16,6 +16,6 @@ Topics covered:
 1. [Credential Scanning](./secret_management/credential_scanning.md) - automatically inspecting a project to ensure that no secrets are included in the project's source code.
 1. [Secrets Rotation](./secret_management/secrets_rotation.md) - automated process by which the secret, used by the application, is refreshed and replaced by a new secret.
 1. [Static Code Analysis](./secret_management/static_code_analysis.md) - analyze source code or compiled versions of code to help find security flaws.
-1. [Penetration Testing](./penetration_testing/README.md) - a simulated attack against your application to check for exploitable vulnerabilities.
-1. [Container Dependencies Scanning](./dependency_container_scanning/README.md) - search for vulnerabilities in container operating systems, language packages and application dependencies.
-1. [Evaluation of Open Source Libraries](./evaluate_oss/README.md) - make it harder to apply open source supply chain attacks by evaluating the libraries you use.
+1. [Penetration Testing](./penetration_testing/penetration_testing.md) - a simulated attack against your application to check for exploitable vulnerabilities.
+1. [Container Dependencies Scanning](./dependency_container_scanning/dependency_container_scanning.md) - search for vulnerabilities in container operating systems, language packages and application dependencies.
+1. [Evaluation of Open Source Libraries](./evaluate_oss/evaluate_oss.md) - make it harder to apply open source supply chain attacks by evaluating the libraries you use.

@@ -8,7 +8,7 @@ There are many options when working with Source Control. At Repo Racers we use [
 * [Branch Naming](naming_branches.md)
 * [Versioning](component_versioning.md)
 * [Working with Secrets](secrets_management.md)
-* [Git Guidance](git_guidance/README.md)
+* [Git Guidance](git_guidance/git_guidance.md)
 
 ## Goal
 

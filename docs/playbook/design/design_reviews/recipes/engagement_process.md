@@ -21,7 +21,7 @@ During this time the team uncovers many unknowns, leveraging all new-found infor
 
 ## Sprint Planning
 
-In many engagements Microsoft works with customers using a SCRUM agile development process which begins with sprint planning. [Sprint planning](../../../agile_development/core_expectations/README.md) is a great opportunity to dive deep into the next set of high priority work. Some key points to address are the following:
+In many engagements Microsoft works with customers using a SCRUM agile development process which begins with sprint planning. [Sprint planning](../../../agile_development/core_expectations/core_expectations.md) is a great opportunity to dive deep into the next set of high priority work. Some key points to address are the following:
 
 1. Identify stories that require design reviews
 1. Separate design from implementation for complex stories
@@ -37,7 +37,7 @@ Stories that will benefit from design reviews have one or more of the following 
 
 ## Sprint Backlog Refinement
 
-If your team is not already hosting a [Sprint Backlog Refinement](../../../agile_development/advanced_topics/backlog_management/README.md) session at least once per week you should consider it. It is a great opportunity to:
+If your team is not already hosting a [Sprint Backlog Refinement](../../../agile_development/advanced_topics/backlog_management/backlog_management.md) session at least once per week you should consider it. It is a great opportunity to:
 
 1. Keep the backlog clean
 1. Re-prioritize work based on shifting business priorities
@@ -48,7 +48,7 @@ The team can follow the same steps from [sprint planning](#sprint_planning) to h
 
 ## Sprint Retrospectives
 
-[Sprint retrospectives](../../../agile_development/core_expectations/README.md) are a great time to check in with the dev team, identify what is working or not working, and propose changes to keep improving.
+[Sprint retrospectives](../../../agile_development/core_expectations/core_expectations.md) are a great time to check in with the dev team, identify what is working or not working, and propose changes to keep improving.
 
 It is also a great time to check in on design reviews
 

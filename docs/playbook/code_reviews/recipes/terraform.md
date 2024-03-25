@@ -2,7 +2,7 @@
 
 ## Style Guide
 
-Developers should follow the [terraform style guide](https://github.com/jonbrouse/terraform-style-guide/blob/master/README.md).
+Developers should follow the [terraform style guide](https://github.com/jonbrouse/terraform-style-guide/blob/master/master.md).
 
 Projects should check Terraform scripts with automated tools.
 

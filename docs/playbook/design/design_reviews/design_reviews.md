@@ -68,7 +68,7 @@ Domain experts should participate in design review sessions as needed
 
 ### Recipes
 
-Please see our [Design Review Recipes](./recipes/README.md) for guidance on design process.
+Please see our [Design Review Recipes](./recipes/recipes.md) for guidance on design process.
 
 ### Sync Design Reviews via in-person / virtual meetings
 
@@ -85,8 +85,8 @@ A technical spike is most often used for evaluating the impact new technology ha
 ## Design Documentation
 
 - Document and update the architecture design in the project design documentation
-- Track and document design decisions in a [decision log](decision_log/README.md)
-- Document decision process in [trade studies](trade_studies/README.md) when multiple solutions exist for the given problem
+- Track and document design decisions in a [decision log](decision_log/decision_log.md)
+- Document decision process in [trade studies](trade_studies/trade_studies.md) when multiple solutions exist for the given problem
 
 Early on in engagements, the team must decide where to land artifacts generated from design reviews.
 Typically, we meet the customer where they are at (for example, using their Confluence instance to land documentation if that is their preferred process).
