@@ -18,7 +18,7 @@ The table below maps outcomes -- the results that you may want to achieve in you
 | Development | Prove correct RBAC and claims interpretation of Authorization code | Scenario (security) |
 | Development | Document and/or enforce valid API usage | [Unit testing](unit_testing/unit_testing.md), Functional tests, [Consumer-driven Contract Testing](cdc_testing/cdc_testing.md) |
 | Development | Prove implementation correctness in advance of a dependency or absent a dependency | [Unit testing](unit_testing/unit_testing.md) (with mocks), [Unit testing](unit_testing/unit_testing.md) (with emulators), [Consumer-driven Contract Testing](cdc_testing/cdc_testing.md) |
-| Development | Ensure that the user interface is accessible | [Accessibility](../accessibility/accessibility.md) |
+| Development | Ensure that the user interface is accessible | [Accessibility](../accessibility.md) |
 | Development | Ensure that users can operate the interface | [UI testing (automated)](ui_testing/automated)](ui_testing.md) (human usability observation) |
 | Development | Prevent regression in user experience | UI automation, [End-to-End testing](e2e_testing/e2e_testing.md) |
 | Development | Detect and prevent 'noisy neighbor' phenomena | [Load testing](performance_testing/load_testing.md) |
@@ -26,7 +26,7 @@ The table below maps outcomes -- the results that you may want to achieve in you
 | Development | Prevent regression in 'composite' scenario use cases / workflows (e.g. an e-commerce system might have many APIs that used together in a sequence perform a "shop-and-buy" scenario) | [End-to-End testing](e2e_testing/e2e_testing.md), Scenario |
 | Development; Operations | Prevent regressions in runtime performance metrics e.g. latency / cost / resource consumption; earlier is better | Rings, [Synthetic Transaction testing](synthetic_monitoring_tests/synthetic_monitoring_tests.md) / Transaction, Rollback Watchdogs |
 | Development; Optimization | Compare any given metric between 2 candidate implementations or variations in functionality | Flighting, A/B testing |
-| Development; Staging | Prove production system of provisioned capacity meets goals for reliability, availability, resource consumption, performance | [Load testing (stress)](performance_testing/load_testing.md), Spike, Soak, [Performance testing](performance_testing/load_testing.md), Spike, Soak, [Performance testing](performance_testing.md) |
+| Development; Staging | Prove production system of provisioned capacity meets goals for reliability, availability, resource consumption, performance | [Load testing (stress)](performance_testing/load_testing.md), Spike, Soak, [Performance testing](performance_testing/load_testing.md), Spike, Soak, [Performance testing](performance_testing/performance_testing.md) |
 | Development; Staging | Understand key user experience performance characteristics – latency, chattiness, resiliency to network errors | Load, [Performance testing](performance_testing/performance_testing.md), Scenario (network partitioning) |
 | Development; Staging; Operation | Discover melt points (the loads at which failure or maximum tolerable resource consumption occurs) for each individual component in the stack | Squeeze, [Load testing (stress)](performance_testing/load_testing.md) |
 | Development; Staging; Operation | Discover overall system melt point (the loads at which the end-to-end system fails) and which component is the weakest link in the whole stack | Squeeze, [Load testing (stress)](performance_testing/load_testing.md) |

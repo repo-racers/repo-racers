@@ -54,7 +54,7 @@ The `GitVersion` tool uses the git history to generate *repeatable* and *unique*
 Version updates happen through:
 
 * Commit messages or tags for Major / Minor / Revision updates.
-  > When using commit messages a convention such as Conventional Commits is recommended (see [Git Guidance - Commit Message Structure](git_guidance/see [Git Guidance - Commit Message Structure](git_guidance.md#commit_message_structure))
+  > When using commit messages a convention such as Conventional Commits is recommended (see [Git Guidance - Commit Message Structure](git_guidance/see [Git Guidance - Commit Message Structure](./git_guidance/git_guidance.md)
 * Branch names (e.g. develop, release/..) for Alpha / Beta / RC
 * Otherwise: Number of commits (+12, ...)
 

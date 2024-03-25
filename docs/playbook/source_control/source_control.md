@@ -8,7 +8,7 @@ There are many options when working with Source Control. At Repo Racers we use [
 * [Branch Naming](naming_branches.md)
 * [Versioning](component_versioning.md)
 * [Working with Secrets](secrets_management.md)
-* [Git Guidance](git_guidance/git_guidance.md)
+* [Git Guidance](./git_guidance/git_guidance.md)
 
 ## Goal
 
@@ -18,7 +18,7 @@ There are many options when working with Source Control. At Repo Racers we use [
 
 ## General Guidance
 
-Consistency is important, so agree to the approach as a team before starting to code. Treat this as a design decision, so include a design proposal and review, in the same way as you would document all design decisions (see [Working Agreements](../agile_development/advanced_topics/team_agreements/working_agreements.md) and [Design Reviews](../design/design_reviews/design_reviews.md)).
+Consistency is important, so agree to the approach as a team before starting to code. Treat this as a design decision, so include a design proposal and review, in the same way as you would document all design decisions (see [Working Agreements](../agile_guide/beyond_the_basics/crew_contracts/working_agreement.md) and [Design Reviews](../design/design_reviews/design_reviews.md)).
 
 ## Creating a new repository
 
