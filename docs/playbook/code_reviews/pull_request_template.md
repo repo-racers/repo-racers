@@ -1,4 +1,4 @@
-# [Work Item ID](.)
+# [Work Item ID](./pull_request_template.md)
 
 For more information about how to contribute to this repo, visit this [page](https://github.com/microsoft/code-with-engineering-playbook/blob/main/CONTRIBUTING.md)
 
