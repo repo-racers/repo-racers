@@ -4,7 +4,7 @@ Changes to any main codebase - main branch in Git repository, for example - must
 
 Pull requests enable:
 
-* Code inspection - see [Code Reviews](./..md)
+* Code inspection - see [Code Reviews](./code_reviews.md)
 * Running automated qualification of the code
   * Linters
   * Compilation

@@ -19,7 +19,7 @@ The table below maps outcomes -- the results that you may want to achieve in you
 | Development | Document and/or enforce valid API usage | [Unit testing](unit_testing/unit_testing.md), Functional tests, [Consumer-driven Contract Testing](cdc_testing/cdc_testing.md) |
 | Development | Prove implementation correctness in advance of a dependency or absent a dependency | [Unit testing](unit_testing/unit_testing.md) (with mocks), [Unit testing](unit_testing/unit_testing.md) (with emulators), [Consumer-driven Contract Testing](cdc_testing/cdc_testing.md) |
 | Development | Ensure that the user interface is accessible | [Accessibility](../accessibility.md) |
-| Development | Ensure that users can operate the interface | [UI testing (automated)](ui_testing/automated)](ui_testing.md) (human usability observation) |
+| Development | Ensure that users can operate the interface | [UI testing (automated)](./ui_testing/ui_testing.md) (human usability observation) |
 | Development | Prevent regression in user experience | UI automation, [End-to-End testing](e2e_testing/e2e_testing.md) |
 | Development | Detect and prevent 'noisy neighbor' phenomena | [Load testing](performance_testing/load_testing.md) |
 | Development | Detect availability drops | [Synthetic Transaction testing](synthetic_monitoring_tests/synthetic_monitoring_tests.md), Outside-in probes |
@@ -61,7 +61,7 @@ The table below maps outcomes -- the results that you may want to achieve in you
 
 ## Technology Specific Testing
 
-- [Using DevTest Pattern for building containers with AzDO](tech_specific_samples/azdo_container_dev_test_release)
+- [Using DevTest Pattern for building containers with AzDO](./tech_specific_samples/azdo_container_dev_test_release/azdo_container_dev_test_release.md)
 - [Using Azurite to run blob storage tests in pipeline](tech_specific_samples/blobstorage_unit_tests/blobstorage_unit_tests.md)
 
 ## Build for Testing
