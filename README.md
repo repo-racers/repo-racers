@@ -1,4 +1,4 @@
-# "In Git We Trust, everything else can fork off!"
+# "In Git We Trust"
 
 ![In Git We Trust](docs/assets/images/heroes/richard_stallman.webp)
 
