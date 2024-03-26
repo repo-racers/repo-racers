@@ -191,7 +191,7 @@ nav:
           - DevContainers: 'playbook/continuous_integration/devcontainers/devcontainers.md'
           - Markdown Linting: 'playbook/continuous_integration/markdown_linting/markdown_linting.md'
       - Design:
-          - 'Readme': 'playbook/design/readme.md'
+          - 'Design': 'playbook/design/design.md'
           - Design Patterns:
               - 'Cloud Resource Design Guidance': 'playbook/design/design_patterns/cloud_resource_design_guidance.md'
               - 'Data Heavy Design Guidance': 'playbook/design/design_patterns/data_heavy_design_guidance.md'

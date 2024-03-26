@@ -1,76 +1,63 @@
-# Inclusion in Code Review
+# Inclusion in Code Review at Repo Racers
 
-Below are some points which emphasize why inclusivity in code reviews is important:
-
-* Code reviews are an important part of our job as software professionals.
-* In ISE we work with cross cultural teams from across the globe.
-* How we communicate affects team morale.
-* Inclusive code reviews welcome new developers and make them comfortable with the team.
-* Rude or personal attacks doing code reviews alienate - people can unknowingly make rude comments when reviewing pull requests (PRs).
+Inclusion in code reviews is pivotal for fostering a positive and productive work environment, especially given the diverse, global nature of our teams at Repo Racers. Effective communication during code reviews not only impacts team morale but also welcomes and integrates new developers into our teams, encouraging a culture of mutual respect and continuous learning.
 
 ## Types and Examples of Non-Inclusive Code Review Behavior
 
-* Inequitable review assignments.
-  * Example: Assigning most reviews to few people and dismissing some members of the team altogether.
-* Negative interpersonal interactions.
-  * Example: Long arguments over subjective topics such as code style.
-* Biased decision making.
-  * Example: Comments about the developer and not the code. Assuming code from developer X will always be good and hence not reviewing it properly and vice versa.
+Non-inclusive behaviors in code reviews can manifest in various ways, including, but not limited to:
 
-## Examples of Inclusive Code Reviews
+- **Inequitable Review Assignments**:
+  - For instance, overburdening certain team members with review tasks while excluding others.
+- **Negative Interpersonal Interactions**:
+  - Engaging in prolonged debates over subjective matters such as coding styles.
+- **Biased Decision Making**:
+  - Making comments about the developer instead of focusing on the code, or assuming a developer's code is of a certain quality based on past perceptions.
 
-* Anyone and everyone in the team should be assigned PRs to review.
-* Reviewer should be clear about what is an opinion, their personal preference, best practice or a fact. Arguments over personal preferences and opinions are mostly avoidable.
-* Using inclusive language and tone in the code review comments. For example, being suggestive rather being prescriptive in the review comments is a good way to get the point across the table.
-* It's a good practice for the author of a PR to thank the reviewer for the review, when they have contributed in improving the code or you have learnt something new.
-* Using the sandwich method for recommending a code change to a new developer or a new customer: Sandwich the suggestion between 2 compliments. For example: "Great work so far, but I would recommend a few changes here. Btw, I loved the use of XYZ here, nice job!"
+## Practices for Inclusive Code Reviews
+
+Adopting inclusive practices in code reviews can greatly enhance team cohesion and code quality:
+
+- Ensure equitable distribution of PR review assignments across the team.
+- Distinguish between opinions, personal preferences, best practices, and facts in review comments to minimize subjective disputes.
+- Utilize inclusive language and a constructive tone in comments.
+- Encourage PR authors to express gratitude for constructive feedback.
+- Apply the sandwich feedback method, especially with newcomers: start and end with positive feedback, with suggestions for improvement in between.
 
 ## Guidelines for the Author
 
-* Aim to write a code that is easy to read, review and maintain.
-* It’s important to ensure that whoever is looking at the code, whether that be the reviewer or a future engineer, can understand the motivations and how your code achieves its goals.
-* Proactively asking for targeted help or feedback.
-* Respond clearly to questions asked by the reviewers.
-* Avoid huge commits by submitting incremental changes. Commits which are large and contain changes to multiple files will lead to unfair review of the code. Biased behavior of reviewers may kick in while reviewing such PRs. For e.g. a huge commit from a senior developer may get approved without thorough review whereas a huge commit from a junior developer may never get reviewed and approved.
+- Write clear, maintainable code that facilitates easy review.
+- Be open to seeking and incorporating feedback.
+- Provide concise responses to reviewer inquiries.
+- Break down changes into smaller, manageable commits to facilitate easier review and avoid bias.
 
 ## Guidelines for the Reviewer
 
-* Assume positive intent from the author.
-* Write clear and elaborate comments.
-* Identify subjectivity, choice of coding and best practice. It is good to discuss coding style and subjective coding choices in some other forum and not in the PR. A PR should not become a ground to discuss subjective coding choices and having long arguments over it.
-* If you do not understand the code properly, refrain from commenting e.g., "This code is incomprehensible". It is better to have a call with the author and get a basic understanding of their work.
-* Be suggestive and not prescriptive. A reviewer should suggest changes and not prescribe changes, let the author decide if they really want to accept the changes proposed.
+- Approach each review with a presumption of positive intent from the author.
+- Provide detailed, constructive feedback.
+- Focus discussions on the code itself rather than subjective style preferences.
+- Offer suggestions rather than directives, empowering the author to make informed decisions.
+- Engage in direct communication with the author for clarifications instead of making assumptions.
 
 ## Culture and Code Reviews
 
-We in ISE, may come across situations in which code reviews are not ideal and often we are observing non inclusive code review behaviors. Its important to be aware of the fact that culture and communication style of a particular geography also influences how people interact over pull requests.
-In such cases, assuming positive intent of the author and reviewer is a good start to start analyzing quality of code reviews.
+Cultural differences and communication styles can influence code review dynamics. Recognizing and respecting these differences, while assuming positive intent, is crucial in maintaining a respectful and inclusive review process.
 
-## Dealing with the Impostor Phenomenon
+## Addressing Impostor Syndrome
 
-Impostor phenomenon is a psychological pattern in which an individual doubts their skills, talents, or accomplishments and has a persistent internalized fear of being exposed as a "fraud" - [Wikipedia](https://en.wikipedia.org/wiki/Impostor_phenomenon).
+Impostor syndrome can make the code review process daunting for both authors and reviewers. Overcoming this involves:
 
-Someone experiencing impostor phenomenon may find submitting code for a review particularly stressful. It is important to realize that everybody can have meaningful contributions and not to let the perceived weaknesses prevent contributions.
+- Adhering to established guidelines to ensure code quality.
+- Seeking collaborative opportunities for learning and improvement.
+- Recognizing the value of diverse perspectives in enhancing code quality.
+- Engaging in pair reviews for deeper understanding and connection.
 
-Some tips for overcoming the impostor phenomenon for authors:
+## Tools for Fostering Inclusive Code Reviews
 
-* Review the guidelines highlighted above and make sure your code change adhere to them.
-* Ask for help from a colleague - pair program with an experienced colleague that you can learn from.
+Several tools can aid in promoting an inclusive code review culture:
 
-Some tips for overcoming the impostor phenomenon for reviewers:
+- [Anonymous GitHub](https://github.com/tdurieux/anonymous_github)
+- [Blind Code Reviews](https://github.com/zombie/blind-reviews)
+- [Gitmask](https://www.gitmask.com)
+- [inclusivelint](https://github.com/inclusivelint)
 
-* Anyone can have valuable insights.
-* A fresh new pair of eyes are always welcome.
-* Study the review until you have clearly understood it, check the corner cases and look for ways to improve it.
-* If something is not clear, a simple specific question should be asked.
-* If you have learnt something, you can always compliment the author.
-* If possible, pair with someone to review the code so that you can establish a personal connection and have a more profound discussion about the code.
-
-## Tools
-
-Below are some tools which may help in establishing inclusive code review culture within our teams.
-
-* [Anonymous GitHub](https://github.com/tdurieux/anonymous_github)
-* [Blind Code Reviews](https://github.com/zombie/blind-reviews)
-* [Gitmask](https://www.gitmask.com)
-* [inclusivelint](https://github.com/inclusivelint)
+Incorporating inclusivity into code reviews is not just about improving code quality—it's about building a supportive, collaborative, and respectful community where all developers can thrive.

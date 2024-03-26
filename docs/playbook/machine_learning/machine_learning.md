@@ -1,40 +1,40 @@
-# Machine Learning Fundamentals at ISE
+# Machine Learning Fundamentals at Repo Racers
 
-This guideline documents the Machine Learning (ML) practices in ISE. ISE works with customers on developing ML models and putting them in production, with an emphasis on engineering and research best practices throughout the project's life cycle.
+This guideline outlines the Machine Learning (ML) practices at Repo Racers. We collaborate with clients to develop ML models and deploy them into production environments, focusing on adhering to engineering and research best practices throughout the project lifecycle.
 
 ## Goals
 
-* Provide a set of ML practices to follow in an ML project.
-* Provide clarity on ML process and how it fits within a software engineering project.
-* Provide best practices for the different stages of an ML project.
+* Establish a comprehensive set of ML practices for project execution.
+* Clarify the ML process and its integration within broader software engineering projects.
+* Offer best practices for various stages of an ML project.
 
-## How to use these fundamentals
+## How to Use These Fundamentals
 
-* If you are starting a new ML project, consider reading through the [general guidance documents](#general_guidance).
-* For specific aspects of an ML project, refer to the guidelines for different [project phases](#ml_project_phases).
+* Starting a new ML project? Begin with our [general guidance documents](#general_guidance).
+* Looking for advice on specific parts of your ML project? Consult the guidelines for the different [project phases](#ml_project_phases).
 
-## ML Project phases
+## ML Project Phases
 
-The diagram below shows different phases in an ideal ML project. Due to practical constraints and requirements, it might not always be possible to have a project structured in such a manner, however best practices should be followed for each individual phase.
+Below is a diagram illustrating the phases of an ideal ML project. While practical limitations and specific requirements might prevent a project from strictly adhering to this structure, best practices for each phase should still be followed.
 
 ![Project flow](images/flow.png)
 
-* **[Envisioning](ml_problem_formulation_envisioning.md)**: Initial problem understanding, customer goals and objectives.
-* **[Feasibility Study](ml_feasibility_study.md)**: Assess whether the problem in question is feasible to solve satisfactorily using ML with the available data.
-* **Model Milestone**: There is a basic model that is achieving the minimum required performance, both in terms of ML performance and system performance. Using the knowledge gathered to this milestone, define the scope, objectives, high-level architecture, definition of done and plan for the entire project.
-* **[Model(s) experimentation](ml_experimentation.md)**: Tools and best practices for conducting successful model experimentation.
-* **Model(s) Operationalization**: [Model readiness for production](ml_model_checklist.md) checklist.
+* **[Envisioning](ml_problem_formulation_envisioning.md)**: Initial understanding of the problem, along with customer goals and objectives.
+* **[Feasibility Study](ml_feasibility_study.md)**: Evaluation of whether the problem can be effectively solved with ML given the available data.
+* **Model Milestone**: Achievement of a baseline model meeting minimum performance criteria, both in ML metrics and system performance. Use insights gained up to this point to define the project's scope, objectives, high-level architecture, definition of done, and overall plan.
+* **[Model(s) Experimentation](ml_experimentation.md)**: Tools and best practices for conducting effective model experimentation.
+* **Model(s) Operationalization**: Checklist for [model readiness for production](ml_model_checklist.md).
 
-## General guidance
+## General Guidance
 
 * [ML Process Guidance](ml_proposed_process.md)
-* [ML Fundamentals checklist](ml_fundamentals_checklist.md)
+* [ML Fundamentals Checklist](ml_fundamentals_checklist.md)
 * [Data Exploration](ml_data_exploration.md)
-* [Agile ML development](ml_project_management.md)
-* [Testing Data Science and ML Ops code](ml_testing.md)
-* [Profiling Machine Learning and ML Ops code](ml_profiling.md)
+* [Agile ML Development](ml_project_management.md)
+* [Testing Data Science and ML Ops Code](ml_testing.md)
+* [Profiling Machine Learning and ML Ops Code](ml_profiling.md)
 * [Responsible AI](responsible_ai.md)
-* [Program Management for ML projects](ml_tpm_guidance.md)
+* [Program Management for ML Projects](ml_tpm_guidance.md)
 
 ## References
 
