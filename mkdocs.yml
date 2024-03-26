@@ -250,11 +250,11 @@ nav:
               - 'Sustainable Action Disclaimers': 'playbook/design/sustainability/sustainable_action_disclaimers.md'
               - 'Sustainable Engineering Principles': 'playbook/design/sustainability/sustainable_engineering_principles.md'
       - Developer Experience:
+          - 'Developer Experience': 'playbook/developer_experience/developer_experience.md'
           - 'Client App Inner Loop': 'playbook/developer_experience/client_app_inner_loop.md'
           - 'Copilots': 'playbook/developer_experience/copilots.md'
           - 'Cross Platform Tasks': 'playbook/developer_experience/cross_platform_tasks.md'
           - 'Devcontainers': 'playbook/developer_experience/devcontainers.md'
-          - 'Developer Experience': 'playbook/developer_experience/developer_experience.md'
           - 'Execute Local Pipeline with Docker': 'playbook/developer_experience/execute_local_pipeline_with_docker.md'
           - 'Fake Services Inner Loop': 'playbook/developer_experience/fake_services_inner_loop.md'
           - 'Going Further': 'playbook/developer_experience/going_further.md'
@@ -305,6 +305,7 @@ nav:
           - 'ML TPM Guidance': 'playbook/machine_learning/ml_tpm_guidance.md'
           - 'Responsible AI': 'playbook/machine_learning/responsible_ai.md'
       - Observability:
+          - 'Observability': 'playbook/observability/observability.md'
           - 'Alerting': 'playbook/observability/alerting.md'
           - 'Best Practices': 'playbook/observability/best_practices.md'
           - 'Correlation ID': 'playbook/observability/correlation_id.md'
@@ -313,7 +314,6 @@ nav:
           - 'Logs Privacy': 'playbook/observability/logs_privacy.md'
           - 'Microservices': 'playbook/observability/microservices.md'
           - 'ML Observability': 'playbook/observability/ml_observability.md'
-          - 'Observability': 'playbook/observability/observability.md'
           - 'Observability as Code': 'playbook/observability/observability_as_code.md'
           - 'Observability Databricks': 'playbook/observability/observability_databricks.md'
           - 'Observability Pipelines': 'playbook/observability/observability_pipelines.md'
@@ -349,6 +349,15 @@ nav:
           - 'Naming Branches': 'playbook/source_control/naming_branches.md'
           - 'Secrets Management': 'playbook/source_control/secrets_management.md'
           - 'Git LFS and VFS': 'playbook/source_control/git_guidance/git_lfs_and_vfs.md'
+  - Service Catalog:
+      - 'Service Catalog': 'service_catalog/service_catalog.md'
+  - Product Catalog:
+      - 'Product Catalog': 'product_catalog/product_catalog.md'
+  - Showcase:
+      - 'Bankrupt Britain': 'showcase/bankrupt_britain.md'
+  - Contributing To This Repository:
+      - 'Contribution Guidelines': 'contributing/contribution_guidelines.md'
+      - 'Pre-Commit': 'contributing/pre_commit.md'
   - Crew Contracts:
       - 'Crew Manifesto': 'crew_contracts/crew_manifesto.md'
       - 'Definition of Ready': 'crew_contracts/definition_of_ready.md'
@@ -356,14 +365,5 @@ nav:
       - '12 Factor App Checklist': 'crew_contracts/12_factor_app_checklist.md'
       - 'Azure Deployment Checklist': 'crew_contracts/azure_deployment_checklist.md'
       - 'Code of Conduct': 'crew_contracts/code_of_conduct.md'
-  - Service Catalog:
-      - 'Service Catalog': 'service_catalog/service_catalog.md'
-  - Product Catalog:
-      - 'Product Catalog': 'product_catalog/product_catalog.md'
-  - Contributing To This Repository:
-      - 'Contribution Guidelines': 'contributing/contribution_guidelines.md'
-      - 'Pre-Commit': 'contributing/pre_commit.md'
   - Our Super Heroes:
       - 'Our Super Heroes': 'our_heroes/our_super_heroes.md'
-  - Showcase:
-      - 'Bankrupt Britain': 'showcase/bankrupt_britain.md'

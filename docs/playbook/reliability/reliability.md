@@ -1,3 +1,6 @@
+![Richard Stallman](../../assets/images/heroes/richard_stallman.webp)
+<p align="right"><sub><a href="https://en.wikipedia.org/wiki/Richard_Stallman" target="_blank">Richard Stallman</a> (AI Generated Artwork)</sub></p>
+
 # Reliability
 
 All the technical disciplines described in this playbook contribute towards a more reliable infrastructure. Automated integration and deployment ensures code is properly tested, and helps remove human error, while slow releases build confidence in the code. Observability helps more quickly pinpoint errors when they arise to get back to a stable state, and so on.

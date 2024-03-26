@@ -1,3 +1,6 @@
+![Barbara Liskov](../../assets/images/heroes/barbara_liskov.webp)
+<p align="right"><sub><a href="https://en.wikipedia.org/wiki/Barbara_Liskov" target="_blank">Barbara Liskov</a> (AI Generated Artwork)</sub></p>
+
 # Testing
 
 ## Map of Outcomes to Testing Techniques

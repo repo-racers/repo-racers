@@ -1,3 +1,6 @@
+![Hedy Lamarr](../../assets/images/heroes/hedy_lamarr.webp)
+<p align="right"><sub><a href="https://en.wikipedia.org/wiki/Hedy_Lamarr" target="_blank">Hedy Lamarr</a> (AI Generated Artwork)</sub></p>
+
 # Developer Experience (DevEx)
 
 Developer experience refers to how easy or difficult it is for a developer to perform essential tasks needed to implement a change. A positive developer experience would mean these tasks are relatively easy for the team (see measures below).

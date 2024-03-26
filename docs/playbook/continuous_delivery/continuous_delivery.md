@@ -1,3 +1,6 @@
+![Edsger W. Dijkstra](../../assets/images/heroes/edsger_w_dijkstra.webp)
+<p align="right"><sub><a href="https://en.wikipedia.org/wiki/Edsger_W._Dijkstra" target="_blank">Edsger W. Dijkstra</a> (AI Generated Artwork)</sub></p>
+
 # Continuous Delivery
 
 The inspiration behind continuous delivery is constantly delivering valuable software to users and developers more frequently. Applying the principles and practices laid out in this readme will help you reduce risk, eliminate manual operations and increase quality and confidence.

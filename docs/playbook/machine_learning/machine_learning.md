@@ -1,3 +1,6 @@
+![Katherine Johnson](../../assets/images/heroes/katherine_johnson.webp)
+<p align="right"><sub><a href="https://en.wikipedia.org/wiki/Katherine_Johnson" target="_blank">Katherine Johnson</a> (AI Generated Artwork)</sub></p>
+
 # Machine Learning Fundamentals at Repo Racers
 
 This guideline outlines the Machine Learning (ML) practices at Repo Racers. We collaborate with clients to develop ML models and deploy them into production environments, focusing on adhering to engineering and research best practices throughout the project lifecycle.

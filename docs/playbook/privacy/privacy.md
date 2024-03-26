@@ -1,3 +1,6 @@
+![Linus Torvalds](../../assets/images/heroes/linus_torvalds.webp)
+<p align="right"><sub><a href="https://en.wikipedia.org/wiki/Linus_Torvalds" target="_blank">Linus Torvalds</a> (AI Generated Artwork)</sub></p>
+
 # Overview
 
 This part of the playbook focuses on privacy design guidelines and principles.

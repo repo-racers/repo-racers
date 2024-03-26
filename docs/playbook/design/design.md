@@ -1,3 +1,6 @@
+![Grace Hopper](../../assets/images/heroes/grace_hopper.webp)
+<p align="right"><sub><a href="https://en.wikipedia.org/wiki/Grace_Hopper" target="_blank">Grace Hopper</a> (AI Generated Artwork)</sub></p>
+
 # Design
 
 Mastering the art of software design is a complex challenge.

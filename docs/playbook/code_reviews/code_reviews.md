@@ -1,3 +1,6 @@
+![Claude Shannon](../../assets/images/heroes/claude_shannon.webp)
+<p align="right"><sub><a href="https://en.wikipedia.org/wiki/Claude_Shannon" target="_blank">Claude Shannon</a> (AI Generated Artwork)</sub></p>
+
 # Code Reviews
 
 Developers working on projects should conduct peer code reviews on every pull request (or check-in to a shared branch).

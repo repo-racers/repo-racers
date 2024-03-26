@@ -1,3 +1,6 @@
+![Alan Turing](../../assets/images/heroes/alan_turing.webp)
+<p align="right"><sub><a href="https://en.wikipedia.org/wiki/Alan_Turing" target="_blank">Alan Turing</a> (AI Generated Artwork)</sub></p>
+
 # Scrumban
 
 Welcome to the starting point for our crew's journey through the world of Scrum, Kanban and Agile. This guide is tailor-made for us, there are many ways to do Agile, this is how we do it.

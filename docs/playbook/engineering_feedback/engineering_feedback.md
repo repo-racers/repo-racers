@@ -1,4 +1,7 @@
-# Repo Racers Engineering Feedback
+![Karen Spärck Jones](../../assets/images/heroes/karen_spark_jones.webp)
+<p align="right"><sub><a href="https://en.wikipedia.org/wiki/Karen_Sp%C3%A4rck_Jones" target="_blank">Karen Spärck Jones</a> (AI Generated Artwork)</sub></p>
+
+# Engineering Feedback
 
 ## The Importance of Submitting Engineering Feedback at Repo Racers
 

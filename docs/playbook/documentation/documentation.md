@@ -1,3 +1,6 @@
+![Joan Clarke](../../assets/images/heroes/joan_clarke.webp)
+<p align="right"><sub><a href="https://en.wikipedia.org/wiki/Joan_Clarke" target="_blank">Joan Clarke</a> (AI Generated Artwork)</sub></p>
+
 # Documentation
 
 Every software development project requires documentation. [Agile Software Development](https://agilemanifesto.org/) values *working software over comprehensive documentation*. Still, projects should include the key information needed to understand the development and the use of the generated software.

@@ -1,3 +1,6 @@
+![Dennis Ritchie](../../assets/images/heroes/dennis_ritchie.webp)
+<p align="right"><sub><a href="https://en.wikipedia.org/wiki/Dennis_Ritchie" target="_blank">Dennis Ritchie</a> (AI Generated Artwork)</sub></p>
+
 # Observability
 
 Building observable systems enables development teams at Repo Racers to measure how well the application is behaving. Observability serves the following goals:
