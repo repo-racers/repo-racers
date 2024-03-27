@@ -1,3 +1,6 @@
+![Jaron Lanier](../assets/images/heroes/jaron_lanier.webp)
+<p align="right"><sub><a href="https://en.wikipedia.org/wiki/Jaron_Lanier" target="_blank">Jaron Lanier</a> (AI Generated Artwork)</sub></p>
+
 # Accessibility
 
 Accessibility is a critical component of any successful project and ensures the solutions we build are usable and enjoyed by as many people as possible. While meeting accessibility compliance standards is required, accessibility is much broader than compliance alone. Accessibility is about using techniques like inclusive design to infuse different perspectives and the full range of human diversity into the products we build. By incorporating accessibility into your project from the initial envisioning through MVP and beyond, you are promoting a more inclusive environment for your team and helping close the "Disability Divide" that exists for many people living with disabilities.

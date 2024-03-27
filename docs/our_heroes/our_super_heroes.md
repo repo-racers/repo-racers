@@ -64,6 +64,13 @@ While primarily known as a film actress, Lamarr was also a co-inventor of an ear
 
 <a href="https://en.wikipedia.org/wiki/Hedy_Lamarr" target="_blank">Hedy Lamarr - Wikipedia</a>
 
+## Jaron Lanier (b. 1960))
+
+![Jaron Lanier](../assets/images/heroes/jaron_lanier.webp)
+Visual artist, computer philosophy writer, technologist, futurist, and composer of contemporary classical music. Considered a founder of the field of virtual reality.
+
+<a href="https://en.wikipedia.org/wiki/Jaron_Lanier" target="_blank">Jaron Lanier - Wikipedia</a>
+
 ## Joan Clarke (1917–1996)
 
 ![Joan Clarke](../assets/images/heroes/joan_clarke.webp)
