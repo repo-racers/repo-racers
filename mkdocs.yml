@@ -362,5 +362,4 @@ nav:
       - '12 Factor App Checklist': 'crew_contracts/12_factor_app_checklist.md'
       - 'Azure Deployment Checklist': 'crew_contracts/azure_deployment_checklist.md'
       - 'Code of Conduct': 'crew_contracts/code_of_conduct.md'
-  - Our Super Heroes:
       - 'Our Super Heroes': 'our_heroes/our_super_heroes.md'
