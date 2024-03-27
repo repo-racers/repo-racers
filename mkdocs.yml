@@ -4,7 +4,8 @@ site_name: Repo Racers
 site_url: https://turbo-goldfish-j47gj56wq5wcrjx-8000.app.github.dev/
 site_author: Repo Racers
 site_description: >-
-  Playbook and tooling for migrations to GitHub from
+  Playbook and tooling for everything GitHub, 
+  including migrations to GitHub from
   other platforms and between GitHub instance types.
 
 # Repository
@@ -17,7 +18,7 @@ copyright: Copyright &copy; 2024 Repo Racers
 # Configuration
 theme:
   name: material
-  custom_dir: docs/overrides
+  custom_dir: material/overrides
   favicon: 'assets/images/favicon.ico'
   palette:
     - media: "(prefers-color-scheme)"
@@ -46,10 +47,6 @@ theme:
   features:
     - navigation.tabs
     - navigation.footer
-
-# Extra
-extra:
-  404: '404.md'
 
 plugins:
   - search
