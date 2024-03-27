@@ -346,10 +346,10 @@ nav:
           - 'Naming Branches': 'playbook/source_control/naming_branches.md'
           - 'Secrets Management': 'playbook/source_control/secrets_management.md'
           - 'Git LFS and VFS': 'playbook/source_control/git_guidance/git_lfs_and_vfs.md'
-  - Service Catalog:
-      - 'Service Catalog': 'service_catalog/service_catalog.md'
   - Product Catalog:
       - 'Product Catalog': 'product_catalog/product_catalog.md'
+  - Service Catalog:
+      - 'Service Catalog': 'service_catalog/service_catalog.md'
   - Elite Membership: elite_membership/elite_membership.md
   - Showcase:
       - 'Bankrupt Britain': 'showcase/bankrupt_britain.md'
