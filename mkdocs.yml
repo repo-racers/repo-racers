@@ -4,9 +4,9 @@ site_name: Repo Racers
 site_url: https://turbo-goldfish-j47gj56wq5wcrjx-8000.app.github.dev/
 site_author: Repo Racers
 site_description: >-
-  Playbook and tooling for everything GitHub, 
-  including migrations to GitHub from
-  other platforms and between GitHub instance types.
+  A playbook for supercharging GitHub and Azure DevOps.
+  Maintained with pride in our work
+  by the crew at Repo Racers.
 
 # Repository
 repo_name: repo-racers
