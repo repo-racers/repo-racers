@@ -350,6 +350,7 @@ nav:
       - 'Service Catalog': 'service_catalog/service_catalog.md'
   - Product Catalog:
       - 'Product Catalog': 'product_catalog/product_catalog.md'
+  - Elite Membership: elite_membership/elite_membership.md
   - Showcase:
       - 'Bankrupt Britain': 'showcase/bankrupt_britain.md'
   - Contributing To This Repository:
