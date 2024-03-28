@@ -25,7 +25,7 @@ As an Elite Member, you gain instant access to a suite of exclusive features and
   - Custom GitHub Solutions
   - Bespoke Migration Services
   - Personalized Training for GitHub Copilot and other tools
-  - Priority Access to New Products and Enhancements
+  - Priority Access to new Products and Services
 - **Networking Opportunities**: Connect with other technology leaders in the Elite Members community.
 
 ## How to Become an Elite Member

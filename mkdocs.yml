@@ -351,8 +351,6 @@ nav:
   - Service Catalog:
       - 'Service Catalog': 'service_catalog/service_catalog.md'
   - Elite Membership: elite_membership/elite_membership.md
-  - Showcase:
-      - 'Bankrupt Britain': 'showcase/bankrupt_britain.md'
   - Contributing To This Repository:
       - 'Contribution Guidelines': 'contributing/contribution_guidelines.md'
       - 'Pre-Commit': 'contributing/pre_commit.md'
