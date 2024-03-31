@@ -1,3 +1,6 @@
+![Tim Berners-Lee](../../assets/images/heroes/tim_berners_lee.webp)
+<p align="right"><sub><a href="https://en.wikipedia.org/wiki/Tim_Berners-Lee" target="_blank">Tim Berners-Lee</a> (AI Generated Artwork)</sub></p>
+
 # Overview
 
 There are many options when working with Source Control. At Repo Racers we use [GitHub](https://github.com/) for all our repositories.

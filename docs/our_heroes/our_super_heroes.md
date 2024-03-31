@@ -120,9 +120,23 @@ As the director of the Software Engineering Division of the MIT Instrumentation 
 
 <a href="https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)" target="_blank">Margaret Elaine Hamilton - Wikipedia</a>
 
+## Radia Perlman (b. 1958)
+
+![Radia Perlman](../assets/images/heroes/radia_perlman.webp)
+Radia Joy Perlman is an American computer programmer and network engineer. She is a major figure in assembling the networks and technology to enable what we now know as the internet.
+
+<a href="https://en.wikipedia.org/wiki/Radia_Perlman" target="_blank">Radia Perlman - Wikipedia</a>
+
 ## Richard Stallman (b. 1953)
 
 ![Richard Stallman](../assets/images/heroes/richard_stallman.webp)
 Founder of the Free Software Movement, Stallman initiated the development of the GNU operating system, which, together with the Linux kernel, is used widely in its variants.
 
 <a href="https://en.wikipedia.org/wiki/Richard_Stallman" target="_blank">Richard Stallman - Wikipedia</a>
+
+## Tim Berners-Lee (b. 1955)
+
+![Tim Berners-Lee](../assets/images/heroes/tim_berners_lee.webp)
+Timothy John Berners-Lee also known as TimBL, is an English computer scientist best known as the inventor of the World Wide Web, the HTML markup language, the URL system, and HTTP.
+
+<a href="https://en.wikipedia.org/wiki/Tim_Berners-Lee" target="_blank">Tim Berners-Lee - Wikipedia</a>

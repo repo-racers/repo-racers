@@ -1,3 +1,6 @@
+![Raadia Perlman](../../assets/images/heroes/radia_perlman.webp)
+<p align="right"><sub><a href="https://en.wikipedia.org/wiki/Radia_Perlman" target="_blank">Radia Perlman</a> (AI Generated Artwork)</sub></p>
+
 # Overview
 
 Developers working on projects should adhere to industry-recommended standard practices for secure design and implementation of code. For the purposes of our customers, this means our engineers should understand the [OWASP Top 10 Web Application Security Risks](https://owasp.org/www-project-top-ten/), as well as how to mitigate as many of them as possible, using the resources below.
