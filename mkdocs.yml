@@ -164,6 +164,7 @@ nav:
           - Secrets Management: 'playbook/continuous_delivery/secrets_management/secrets_management.md'
       - Continuous Integration:
           - 'CI/CD': 'playbook/continuous_integration/CICD.md'
+          - 'Pre-Commit': 'playbook/continuous_integration/pre_commit.md'
           - 'Continuous Integration': 'playbook/continuous_integration/continuous_integration.md'
           - 'Inclusive Linting': 'playbook/continuous_integration/inclusive_linting.md'
           - CI in Data Science:
@@ -348,7 +349,6 @@ nav:
   - Elite Membership: elite_membership/elite_membership.md
   - Contributing To This Repository:
       - 'Contribution Guidelines': 'contributing/contribution_guidelines.md'
-      - 'Pre-Commit': 'contributing/pre_commit.md'
       - Crew Contracts:
           - 'Crew Manifesto': 'crew_contracts/crew_manifesto.md'
           - 'Definition of Ready': 'crew_contracts/definition_of_ready.md'

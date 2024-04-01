@@ -1,6 +1,6 @@
 # Pre-commit Hooks Integration
 
-This project uses [pre-commit](https://pre-commit.com) hooks to maintain the high quality and consistency of contributions to our GitHub repository. This guide is aimed at developers who are looking to contribute to our project, providing insights into our setup and the benefits of using [pre-commit](https://pre-commit.com) hooks.
+We use [pre-commit](https://pre-commit.com) hooks to maintain the high quality and consistency of contributions to our GitHub repositories.
 
 ## What are [pre-commit](https://pre-commit.com) Hooks?
 
