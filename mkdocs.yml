@@ -349,11 +349,11 @@ nav:
   - Contributing To This Repository:
       - 'Contribution Guidelines': 'contributing/contribution_guidelines.md'
       - 'Pre-Commit': 'contributing/pre_commit.md'
-  - Crew Contracts:
-      - 'Crew Manifesto': 'crew_contracts/crew_manifesto.md'
-      - 'Definition of Ready': 'crew_contracts/definition_of_ready.md'
-      - 'Definition of Done': 'crew_contracts/definition_of_done.md'
-      - '12 Factor App Checklist': 'crew_contracts/12_factor_app_checklist.md'
-      - 'Azure Deployment Checklist': 'crew_contracts/azure_deployment_checklist.md'
-      - 'Code of Conduct': 'crew_contracts/code_of_conduct.md'
-      - 'Our Super Heroes': 'our_heroes/our_super_heroes.md'
+      - Crew Contracts:
+          - 'Crew Manifesto': 'crew_contracts/crew_manifesto.md'
+          - 'Definition of Ready': 'crew_contracts/definition_of_ready.md'
+          - 'Definition of Done': 'crew_contracts/definition_of_done.md'
+          - '12 Factor App Checklist': 'crew_contracts/12_factor_app_checklist.md'
+          - 'Azure Deployment Checklist': 'crew_contracts/azure_deployment_checklist.md'
+          - 'Code of Conduct': 'crew_contracts/code_of_conduct.md'
+          - 'Our Super Heroes': 'our_heroes/our_super_heroes.md'
