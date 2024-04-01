@@ -259,12 +259,8 @@ nav:
           - 'Toggle VNet Dev Environment': 'playbook/developer_experience/toggle_vnet_dev_environment.md'
       - Documentation:
           - 'Documentation': 'playbook/documentation/documentation.md'
-          - Best Practices:
-              - 'Automation': 'playbook/documentation/best_practices/automation.md'
-              - 'Best Practices': 'playbook/documentation/best_practices/best_practices.md'
-              - 'Establish and Manage': 'playbook/documentation/best_practices/establish_and_manage.md'
-              - 'Good Documentation': 'playbook/documentation/best_practices/good_documentation.md'
           - Guidance:
+              - 'Documentation As Code': 'playbook/documentation/guidance/documentation_as_code.md'
               - 'Code': 'playbook/documentation/guidance/code.md'
               - 'Engineering Feedback': 'playbook/documentation/guidance/engineering_feedback.md'
               - 'Project and Repositories': 'playbook/documentation/guidance/project_and_repositories.md'
@@ -273,7 +269,6 @@ nav:
               - 'Work Items': 'playbook/documentation/guidance/work_items.md'
           - Recipes:
               - 'Deploy DocFX Azure Website': 'playbook/documentation/recipes/deploy_docfx_azure_website.md'
-              - 'Recipes': 'playbook/documentation/recipes/recipes.md'
               - 'Static Website with MkDocs': 'playbook/documentation/recipes/static_website_with_mkdocs.md'
               - 'Sync Wiki Between Repos': 'playbook/documentation/recipes/sync_wiki_between_repos.md'
               - 'Using DocFX and Tools': 'playbook/documentation/recipes/using_docfx_and_tools.md'

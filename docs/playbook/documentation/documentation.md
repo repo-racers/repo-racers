@@ -7,16 +7,6 @@ Every software development project requires documentation. [Agile Software Devel
 
 Documentation shouldn't be an afterthought. Different written documents and materials should be created during the whole life cycle of the project, as per the project needs.
 
-## Table of Contents
-
-- [Goals](#goals)
-- [Challenges](#challenges)
-- [What documentation should exist?](#what_documentation_should_exist)
-- [Best practices](#best_practices)
-- [Tools](#tools)
-- [Recipes](#recipes)
-- [Resources](#resources)
-
 ## Goals
 
 - Facilitate onboarding of new team members.
@@ -62,12 +52,6 @@ When working in an engineering project, we typically encounter one or more of th
 - [Work Items](./guidance/work_items.md)
 - [REST APIs](./guidance/rest_apis.md)
 - [Engineering Feedback](./guidance/engineering_feedback.md)
-
-## Best practices
-
-- [Establishing and managing documentation](./best_practices/establish_and_manage.md)
-- [Creating good documentation](./best_practices/good_documentation.md)
-- [Replacing documentation with automation](./best_practices/automation.md)
 
 ## Tools
 
