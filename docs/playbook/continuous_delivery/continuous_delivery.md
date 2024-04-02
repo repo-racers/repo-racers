@@ -15,8 +15,8 @@ A continuous delivery pipeline is an automated manifestation of your process to 
 
 ## Goal
 
-* Follow industry best practices for delivering software changes to customers and developers.
-* Establish consistency for the guiding principles and best practices when assembling continuous delivery workflows.
+- Follow industry best practices for delivering software changes to customers and developers.
+- Establish consistency for the guiding principles and best practices when assembling continuous delivery workflows.
 
 ## General Guidance
 
@@ -28,17 +28,16 @@ It's important to establish a common understanding between the Dev Lead and appl
 
 *Continuous Delivery* by Jez Humble, David Farley cover the key considerations to follow when creating a release strategy:
 
-* Parties in charge of deployments to each environment, as well as in charge of the release.
-* An asset and configuration management strategy.
-* An enumeration of the environments available for acceptance, capacity, integration, and user acceptance testing, and the process by which builds will be moved through these environments.
-* A description of the processes to be followed for deployment into testing and production environments, such as change requests to be opened and approvals that need to be granted.
-* A discussion of the method by which the application’s deploy-time and runtime configuration will be managed, and how this relates to the automated deployment process.
-* _Description of the integration with any external systems. At what stage and how are they tested as part of a release? How does the technical operator communicate with the provider in the event of a problem?
-* _A disaster recovery plan so that the application’s state can be recovered following a disaster. Which steps will need to be in place to restart or redeploy the application should it fail.
-* _Production sizing and capacity planning: How much data will your live application create? How many log files or databases will you need? How much bandwidth and disk space will you need? What latency are clients expecting?
-* How the initial deployment to production works.
-* How fixing defects and applying patches to the production environment will be handled.
-* How upgrades to the production environment will be handled, including data migration. How will upgrades be carried out to the application without destroying its state.
+- Parties in charge of deployments to each environment, as well as in charge of the release.
+- An asset and configuration management strategy. An enumeration of the environments available for acceptance, capacity, integration, and user acceptance testing, and the process by which builds will be moved through these environments.
+- A description of the processes to be followed for deployment into testing and production environments, such as change requests to be opened and approvals that need to be granted.
+- A discussion of the method by which the application’s deploy-time and runtime configuration will be managed, and how this relates to the automated deployment process.
+- Description of the integration with any external systems. At what stage and how are they tested as part of a release? How does the technical operator communicate with the provider in the event of a problem?
+- A disaster recovery plan so that the application’s state can be recovered following a disaster. Which steps will need to be in place to restart or redeploy the application should it fail.
+- Production sizing and capacity planning: How much data will your live application create? How many log files or databases will you need? How much bandwidth and disk space will you need? What latency are clients expecting?
+- How the initial deployment to production works.
+- How fixing defects and applying patches to the production environment will be handled.
+- How upgrades to the production environment will be handled, including data migration. How will upgrades be carried out to the application without destroying its state.
 
 ### Application Release and Environment Promotion
 
@@ -54,11 +53,11 @@ The very first deployment of any application should be showcased to the customer
 
 #### Criteria for a production-like environment
 
-* Runs the same operating system as production.
-* Has the same software installed as production.
-* Is sized and configured the same way as production.
-* Mirrors production's networking topology.
-* Simulated production-like load tests are executed following a release to surface any latency or throughput degradation.
+- Runs the same operating system as production.
+- Has the same software installed as production.
+- Is sized and configured the same way as production.
+- Mirrors production's networking topology.
+- Simulated production-like load tests are executed following a release to surface any latency or throughput degradation.
 
 #### Modeling your Release Pipeline
 
@@ -68,21 +67,21 @@ It's critical to model your test and release process to establish a common under
 
 ##### Release Pipeline Modeling Considerations
 
-* Depict all stages an application change would have to go through before it is released to production.
-* Define all release gate controls.
-* Determine customer-specific Cloud RBAC groups which have the authority to approve release candidates per environment.
+- Depict all stages an application change would have to go through before it is released to production.
+- Define all release gate controls.
+- Determine customer-specific Cloud RBAC groups which have the authority to approve release candidates per environment.
 
 #### Release Pipeline Stages
 
 The stages within your release workflow are ultimately testing a version of your application to validate it can be released in accordance to your acceptance criteria. The release pipeline should account for the following conditions:
 
-* Release Selection: The developer carrying out application testing should have the capability to select which release version to deploy to the testing environment.
-* Deployment - Release the application deployable build artifact (*created from the CI stage*) to the target cloud environment.
-* Configuration - Applications should be configured consistently across all your environments. This configuration is applied at the time of deployment.  Sensitive data like app secrets and certificates should be mastered in a fully managed PaaS key and secret store (eg [Key Vault](https://azure.microsoft.com/en-us/services/key-vault/), [KMS](https://aws.amazon.com/kms/)). Any secrets used by the application should be sourced internally within the application itself. Application Secrets should not be exposed within the runtime environment. We encourage 12 Factor principles, especially when it comes to [configuration management](https://12factor.net/config).
-* Data Migration - Pre populate application state and/or data records which is needed for your runtime environment. This may also include test data required for your end-to-end integration test suite.
-* Deployment smoke test. Your smoke test should also verify that your application is pointing to the correct configuration (e.g. production pointing to a UAT Database).
-* Perform any manual or automated acceptance test scenarios.
-* Approve the release gate to promote the application version to the target cloud environment. This promotion should also include the environment's configuration state (e.g. new env settings, feature flags, etc).
+- Release Selection: The developer carrying out application testing should have the capability to select which release version to deploy to the testing environment.
+- Deployment - Release the application deployable build artifact (*created from the CI stage*) to the target cloud environment.
+- Configuration - Applications should be configured consistently across all your environments. This configuration is applied at the time of deployment.  Sensitive data like app secrets and certificates should be mastered in a fully managed PaaS key and secret store (eg [Key Vault](https://azure.microsoft.com/en-us/services/key-vault/), [KMS](https://aws.amazon.com/kms/)). Any secrets used by the application should be sourced internally within the application itself. Application Secrets should not be exposed within the runtime environment. We encourage 12 Factor principles, especially when it comes to [configuration management](https://12factor.net/config).
+- Data Migration - Pre populate application state and/or data records which is needed for your runtime environment. This may also include test data required for your end-to-end integration test suite.
+- Deployment smoke test. Your smoke test should also verify that your application is pointing to the correct configuration (e.g. production pointing to a UAT Database).
+- Perform any manual or automated acceptance test scenarios.
+- Approve the release gate to promote the application version to the target cloud environment. This promotion should also include the environment's configuration state (e.g. new env settings, feature flags, etc).
 
 #### Live Release Warm Up
 
@@ -146,18 +145,18 @@ Here is a guide for [continuous deployment for Low Code Solutions](low_code_solu
 
 ## References
 
-* [Continuous Delivery](https://www.continuousdelivery.com/) by Jez Humble, David Farley.
-* [Continuous integration vs. continuous delivery vs. continuous deployment](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)
-* [Deployment Rings](https://learn.microsoft.com/en-us/azure/devops/migrate/phase-rollout-with-rings?view=azure-devops)
+- [Continuous Delivery](https://www.continuousdelivery.com/) by Jez Humble, David Farley.
+- [Continuous integration vs. continuous delivery vs. continuous deployment](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)
+- [Deployment Rings](https://learn.microsoft.com/en-us/azure/devops/migrate/phase-rollout-with-rings?view=azure-devops)
 
 ### Tools
 
 Check out the below tools to help with some CD best practices listed above:
 
-* [Flux](https://fluxcd.io/docs/concepts/) for gitops
-* [CI/CD workflow using GitOps](https://learn.microsoft.com/en-us/azure/azure-arc/kubernetes/conceptual-gitops-ci-cd#example-workflow)
-* [Tekton](https://github.com/tektoncd) for Kubernetes native pipelines
-  * Note Jenkins-X uses Tekton under the hood.
-* [Argo Workflows](https://github.com/argoproj/argo-workflows)
-* [Flagger](https://github.com/fluxcd/flagger) for powerful, Kubernetes native releases including blue/green, canary, and A/B testing.
-* Not quite CD related, but checkout [jsonnet](https://jsonnet.org/), a templating language to reduce boilerplate and increase sharing between your yaml/json manifests.
+- [Flux](https://fluxcd.io/docs/concepts/) for gitops
+- [CI/CD workflow using GitOps](https://learn.microsoft.com/en-us/azure/azure-arc/kubernetes/conceptual-gitops-ci-cd#example-workflow)
+- [Tekton](https://github.com/tektoncd) for Kubernetes native pipelines
+  - Note Jenkins-X uses Tekton under the hood.
+- [Argo Workflows](https://github.com/argoproj/argo-workflows)
+- [Flagger](https://github.com/fluxcd/flagger) for powerful, Kubernetes native releases including blue/green, canary, and A/B testing.
+- Not quite CD related, but checkout [jsonnet](https://jsonnet.org/), a templating language to reduce boilerplate and increase sharing between your yaml/json manifests.
