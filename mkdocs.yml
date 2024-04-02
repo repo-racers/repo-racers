@@ -61,7 +61,10 @@ markdown_extensions:
       pygments_lang_class: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
 
 # Page tree
 nav:
@@ -146,7 +149,6 @@ nav:
               - 'JavaScript and TypeScript': 'playbook/code_reviews/recipes/javascript_and_typescript.md'
               - 'Markdown': 'playbook/code_reviews/recipes/markdown.md'
               - 'Python': 'playbook/code_reviews/recipes/python.md'
-              - 'Recipes': 'playbook/code_reviews/recipes/recipes.md'
               - 'Terraform': 'playbook/code_reviews/recipes/terraform.md'
       - Continuous Delivery:
           - 'Continuous Delivery': 'playbook/continuous_delivery/continuous_delivery.md'

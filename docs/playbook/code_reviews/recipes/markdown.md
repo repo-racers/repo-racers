@@ -131,10 +131,10 @@ More information about `markdown-link-check` action options can be found at [`ma
 
 In addition to the [Code Review Checklist](../process_guidance/reviewer_guidance.md) you should also look for these documentation specific code review items
 
-- [ ] Is the document easy to read and understand and does it follow [good writing guidelines](#writing_style_guidelines)?
-- [ ] Is there a single source of truth or is content repeated in more than one document?
-- [ ] Is the documentation up to date with the code?
-- [ ] Is the documentation technically, and ethically correct?
+- Is the document easy to read and understand and does it follow [good writing guidelines](#writing_style_guidelines)?
+- Is there a single source of truth or is content repeated in more than one document?
+- Is the documentation up to date with the code?
+- Is the documentation technically, and ethically correct?
 
 ## Writing Style Guidelines
 
@@ -198,8 +198,8 @@ Save your guidelines together with your documentation, so they are easy to refer
   ```
 
 - Use check boxes for task lists
-  - [ ] Item 1
-  - [ ] Item 2
+  - Item 1
+  - Item 2
   - [x] Item 3
 - Add a References section to the end of the document with links to external references
 - Prefer tables to lists for comparisons and reports to make research and results more readable

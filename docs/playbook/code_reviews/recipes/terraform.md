@@ -71,49 +71,49 @@ In addition to the [Code Review Checklist](../process_guidance/reviewer_guidance
 
 ### Providers
 
-* [ ] Are all providers used in the terraform scripts [versioned](https://www.terraform.io/language/providers/requirements#best-practices-for-provider-versions) to prevent breaking changes in the future?
+- Are all providers used in the terraform scripts [versioned](https://www.terraform.io/language/providers/requirements#best-practices-for-provider-versions) to prevent breaking changes in the future?
 
 ### Repository Organization
 
-* [ ] The code split into reusable modules?
-* [ ] Modules are split into separate `.tf` files where appropriate?
-* [ ] The repository contains a `README.md` describing the architecture provisioned?
-* [ ] If Terraform code is mixed with application source code, the Terraform code isolated into a dedicated folder?
+- The code split into reusable modules?
+- Modules are split into separate `.tf` files where appropriate?
+- The repository contains a `README.md` describing the architecture provisioned?
+- If Terraform code is mixed with application source code, the Terraform code isolated into a dedicated folder?
 
 ### Terraform state
 
-* [ ] The Terraform project configured using Azure Storage as remote state backend?
-* [ ] The remote state backend storage account key stored a secure location (e.g. Azure Key Vault)?
-* [ ] The project is configured to use state files based on the environment, and the deployment pipeline is configured to supply the state file name dynamically?
+- The Terraform project configured using Azure Storage as remote state backend?
+- The remote state backend storage account key stored a secure location (e.g. Azure Key Vault)?
+- The project is configured to use state files based on the environment, and the deployment pipeline is configured to supply the state file name dynamically?
 
 ### Variables
 
-* [ ] If the infrastructure will be different depending on the environment (e.g. Dev, UAT, Production), the environment specific parameters are supplied via a `.tfvars` file?
-* [ ] All variables have `type` information. E.g. a `list(string)` or `string`.
-* [ ] All variables have a `description` stating the purpose of the variable and its usage.
-* [ ] `default` values are not supplied for variables which must be supplied by a user.
+- If the infrastructure will be different depending on the environment (e.g. Dev, UAT, Production), the environment specific parameters are supplied via a `.tfvars` file?
+- All variables have `type` information. E.g. a `list(string)` or `string`.
+- All variables have a `description` stating the purpose of the variable and its usage.
+- `default` values are not supplied for variables which must be supplied by a user.
 
 ### Testing
 
-* [ ] Unit and integration tests covering the Terraform code exist (e.g. [`Terratest`](https://terratest.gruntwork.io/), [`terratest-abstraction`](https://github.com/microsoft/terratest-abstraction))?
+- Unit and integration tests covering the Terraform code exist (e.g. [`Terratest`](https://terratest.gruntwork.io/), [`terratest-abstraction`](https://github.com/microsoft/terratest-abstraction))?
 
 ### Naming and code structure
 
-* [ ] Resource definitions and data sources are used correctly in the Terraform scripts?
-  * **resource:** Indicates to Terraform that the current configuration is in charge of managing the life cycle of the object
-  * **data:** Indicates to Terraform that you only want to get a reference to the existing object, but don’t want to manage it as part of this configuration
-* [ ] The resource names start with their containing provider's name followed by an underscore? e.g. resource from the provider `postgresql` might be named as `postgresql_database`?
-* [ ] The `try` function is only used with simple attribute references and type conversion functions? Overuse of the `try` function to suppress errors will lead to a configuration that is hard to understand and maintain.
-* [ ] Explicit type conversion functions used to normalize types are only returned in module outputs? Explicit type conversions are rarely necessary in Terraform because it will convert types automatically where required.
-* [ ] The `Sensitive` property on schema set to `true` for the fields that contains sensitive information? This will prevent the field's values from showing up in CLI output.
+- Resource definitions and data sources are used correctly in the Terraform scripts?
+  - **resource:** Indicates to Terraform that the current configuration is in charge of managing the life cycle of the object
+  - **data:** Indicates to Terraform that you only want to get a reference to the existing object, but don’t want to manage it as part of this configuration
+- The resource names start with their containing provider's name followed by an underscore? e.g. resource from the provider `postgresql` might be named as `postgresql_database`?
+- The `try` function is only used with simple attribute references and type conversion functions? Overuse of the `try` function to suppress errors will lead to a configuration that is hard to understand and maintain.
+- Explicit type conversion functions used to normalize types are only returned in module outputs? Explicit type conversions are rarely necessary in Terraform because it will convert types automatically where required.
+- The `Sensitive` property on schema set to `true` for the fields that contains sensitive information? This will prevent the field's values from showing up in CLI output.
 
 ### General recommendations
 
-* Try avoiding nesting sub configuration within resources. Create a separate resource section for resources even though they can be declared as sub-element of a resource. For example, declaring subnets within virtual network vs declaring subnets as a separate resources compared to virtual network on Azure.
-* Never hard-code any value in configuration. Declare them in `locals` section if a variable is needed multiple times as a static value and are internal to the configuration.
-* The `name`s of the resources created on Azure should not be hard-coded or static. These names should be dynamic and user-provided using `variable` block. This is helpful especially in unit testing when multiple tests are running in parallel trying to create resources on Azure but need different names (few resources in Azure need to be named uniquely e.g. storage accounts).
-* It is a good practice to `output` the ID of resources created on Azure from configuration. This is especially helpful when adding dynamic blocks for sub-elements/child elements to the parent resource.
-* Use the `required_providers` block for establishing the dependency for providers along with pre-determined version.
-* Use the `terraform` block to declare the provider dependency with exact version and also the terraform CLI version needed for the configuration.
-* Validate the variable values supplied based on usage and type of variable. The validation can be done to variables by adding `validation` block.
-* Validate that the component SKUs are the right ones, e.g. standard vs premium.
+- Try avoiding nesting sub configuration within resources. Create a separate resource section for resources even though they can be declared as sub-element of a resource. For example, declaring subnets within virtual network vs declaring subnets as a separate resources compared to virtual network on Azure.
+- Never hard-code any value in configuration. Declare them in `locals` section if a variable is needed multiple times as a static value and are internal to the configuration.
+- The `name`s of the resources created on Azure should not be hard-coded or static. These names should be dynamic and user-provided using `variable` block. This is helpful especially in unit testing when multiple tests are running in parallel trying to create resources on Azure but need different names (few resources in Azure need to be named uniquely e.g. storage accounts).
+- It is a good practice to `output` the ID of resources created on Azure from configuration. This is especially helpful when adding dynamic blocks for sub-elements/child elements to the parent resource.
+- Use the `required_providers` block for establishing the dependency for providers along with pre-determined version.
+- Use the `terraform` block to declare the provider dependency with exact version and also the terraform CLI version needed for the configuration.
+- Validate the variable values supplied based on usage and type of variable. The validation can be done to variables by adding `validation` block.
+- Validate that the component SKUs are the right ones, e.g. standard vs premium.

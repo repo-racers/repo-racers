@@ -4,12 +4,12 @@
 
 Many of the code quality assurance items can be automated or enforced by policies in modern version control and work item tracking systems. Verification of the policies on the main branch in [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/) (AzDO) or [GitHub](https://github.com/), for example, may be sufficient evidence that a project team is conducting code reviews.
 
-* [ ] The main branches in all repositories have branch policies. - [Configure branch policies](../tools.md#Configuring Branch Policies)
-* [ ] All builds produced out of project repositories include appropriate linters, run unit tests.
-* [ ] Every bug work item should include a link to the pull request that introduced it, once the error has been diagnosed. This helps with learning.
-* [ ] Each bug work item should include a note on how the bug might (or might not have) been caught in a code review.
-* [ ] The project team regularly updates their code review checklists to reflect common issues they have encountered.
-* [ ] Dev Leads should review a sample of pull requests and/or be co-reviewers with other developers to help everyone improve their skills as code reviewers.
+* The main branches in all repositories have branch policies. - [Configure branch policies](../tools.md#Configuring Branch Policies)
+* All builds produced out of project repositories include appropriate linters, run unit tests.
+* Every bug work item should include a link to the pull request that introduced it, once the error has been diagnosed. This helps with learning.
+* Each bug work item should include a note on how the bug might (or might not have) been caught in a code review.
+* The project team regularly updates their code review checklists to reflect common issues they have encountered.
+* ev Leads should review a sample of pull requests and/or be co-reviewers with other developers to help everyone improve their skills as code reviewers.
 
 ## Measures
 

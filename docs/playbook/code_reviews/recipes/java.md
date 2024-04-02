@@ -47,9 +47,9 @@ Here is an example yaml for a Gradle build task with all three analysis tools en
 
 In addition to the [Code Review Checklist](../process_guidance/reviewer_guidance.md) you should also look for these Java specific code review items
 
-* [ ] Does the project use Lambda to make code cleaner?
-* [ ] Is dependency injection (DI) used?  Is it setup correctly?
-* [ ] If the code uses Spring Boot, are you using @Inject instead of @Autowire?
-* [ ] Does the code handle exceptions correctly?
-* [ ] Is the [Azul Zulu OpenJDK](https://learn.microsoft.com/en-us/java/azure/jdk/java-jdk-install?view=azure-java-stable) being used?
-* [ ] Is a build automation and package management tool (Gradle or Maven) being used?
+- Does the project use Lambda to make code cleaner?
+- Is dependency injection (DI) used?  Is it setup correctly?
+- If the code uses Spring Boot, are you using @Inject instead of @Autowire?
+- Does the code handle exceptions correctly?
+- Is the [Azul Zulu OpenJDK](https://learn.microsoft.com/en-us/java/azure/jdk/java-jdk-install?view=azure-java-stable) being used?
+- Is a build automation and package management tool (Gradle or Maven) being used?

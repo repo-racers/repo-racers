@@ -42,30 +42,30 @@ In addition to the [Code Review Checklist](../process_guidance/reviewer_guidance
 
 ### Pipeline Structure
 
-- [ ] The steps are well understood and components are easily identifiable. Ensure that there is a proper description `displayName:` for every step in the pipeline.
-- [ ] Steps/stages of the pipeline are checked in Azure Pipelines to have more understanding of components.
-- [ ] In case you have complex nested YAML files, The pipeline in Azure Pipelines is edited to find trigger root file.
-- [ ] All the template file references are visited to ensure a small change does not cause breaking changes, changing one file may affect multiple pipelines
-- [ ] Long inline scripts in YAML file are moved into script files
+- The steps are well understood and components are easily identifiable. Ensure that there is a proper description `displayName:` for every step in the pipeline.
+- Steps/stages of the pipeline are checked in Azure Pipelines to have more understanding of components.
+- In case you have complex nested YAML files, The pipeline in Azure Pipelines is edited to find trigger root file.
+- All the template file references are visited to ensure a small change does not cause breaking changes, changing one file may affect multiple pipelines
+- Long inline scripts in YAML file are moved into script files
 
 ### YAML Structure
 
-- [ ] Re-usable components are split into separate YAML templates.
-- [ ] Variables are separated per environment stored in templates or variable groups.
-- [ ] Variable value changes in `Queue Time`, `Compile Time` and `Runtime` are considered.
-- [ ] Variable syntax values used with `Macro Syntax`, `Template Expression Syntax` and `Runtime Expression Syntax` are considered.
-- [ ] Variables can change during the pipeline, Parameters cannot.
-- [ ] Unused variables/parameters are removed in pipeline.
-- [ ] Does the pipeline meet with stage/job `Conditions` criteria?
+- Re-usable components are split into separate YAML templates.
+- Variables are separated per environment stored in templates or variable groups.
+- Variable value changes in `Queue Time`, `Compile Time` and `Runtime` are considered.
+- Variable syntax values used with `Macro Syntax`, `Template Expression Syntax` and `Runtime Expression Syntax` are considered.
+- Variables can change during the pipeline, Parameters cannot.
+- Unused variables/parameters are removed in pipeline.
+- Does the pipeline meet with stage/job `Conditions` criteria?
 
 ### Permission Check & Security
 
-- [ ] Secret values shouldn't be printed in pipeline, `issecret` is used for printing secrets for debugging
-- [ ] If pipeline is using variable groups in Library, ensure pipeline has access to the variable groups created.
-- [ ] If pipeline has a remote task in other repo/organization, does it have access?
-- [ ] If pipeline is trying to access a secure file, does it have the permission?
-- [ ] If pipeline requires approval for environment deployments, Who is the approver?
-- [ ] Does it need to keep secrets and manage them, did you consider using Azure KeyVault?
+- Secret values shouldn't be printed in pipeline, `issecret` is used for printing secrets for debugging
+- If pipeline is using variable groups in Library, ensure pipeline has access to the variable groups created.
+- If pipeline has a remote task in other repo/organization, does it have access?
+- If pipeline is trying to access a secure file, does it have the permission?
+- If pipeline requires approval for environment deployments, Who is the approver?
+- Does it need to keep secrets and manage them, did you consider using Azure KeyVault?
 
 ### Troubleshooting Tips
 
