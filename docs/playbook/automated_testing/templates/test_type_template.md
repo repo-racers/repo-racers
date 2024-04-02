@@ -18,10 +18,10 @@ How much is enough?  For example, some opine that unit test ROI drops significan
 
 ### Applicable to
 
-- [ ] Local dev 'desktop'
-- [ ] Build pipelines
-- [ ] Non-production deployments
-- [ ] Production deployments
+- Local dev 'desktop'
+- Build pipelines
+- Non-production deployments
+- Production deployments
 
 ## NOTE: If there is great (clear, succinct) documentation for the technique on the web, supply a pointer and skip the rest of this template.  No need to re-type content
 
