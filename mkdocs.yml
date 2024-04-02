@@ -246,7 +246,7 @@ nav:
                   - 'Sequence Diagrams': 'playbook/design/diagram_types/DesignDiagramsTemplates/sequenceDiagrams.md'
           - Exception Handling: 'playbook/design/exception_handling/exception_handling.md'
           - Sustainability:
-              - 'Readme': 'playbook/design/sustainability/sustainability.md'
+              - 'Sustainability': 'playbook/design/sustainability/sustainability.md'
               - 'Sustainable Action Disclaimers': 'playbook/design/sustainability/sustainable_action_disclaimers.md'
               - 'Sustainable Engineering Principles': 'playbook/design/sustainability/sustainable_engineering_principles.md'
       - Developer Experience:
