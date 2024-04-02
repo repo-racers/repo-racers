@@ -178,7 +178,6 @@ nav:
           - DevSecOps:
               - 'DevSecOps': 'playbook/continuous_integration/dev_sec_ops/dev_sec_ops.md'
               - Azure DevOps:
-                  - 'Azure DevOps': 'playbook/continuous_integration/dev_sec_ops/azure_devops/azure_devops.md'
                   - 'Service Connection Security': 'playbook/continuous_integration/dev_sec_ops/azure_devops/service_connection_security.md'
               - Dependency Container Scanning: 'playbook/continuous_integration/dev_sec_ops/dependency_container_scanning/dependency_container_scanning.md'
               - Evaluate OSS: 'playbook/continuous_integration/dev_sec_ops/evaluate_oss/evaluate_oss.md'
@@ -191,7 +190,6 @@ nav:
                   - Recipes:
                       - 'Detect Secrets': 'playbook/continuous_integration/dev_sec_ops/secret_management/recipes/detect_secrets.md'
                       - 'Detect Secrets ADO': 'playbook/continuous_integration/dev_sec_ops/secret_management/recipes/detect_secrets_ado.md'
-                      - 'Recipes': 'playbook/continuous_integration/dev_sec_ops/secret_management/recipes/recipes.md'
           - DevContainers: 'playbook/continuous_integration/devcontainers/devcontainers.md'
           - Markdown Linting: 'playbook/continuous_integration/markdown_linting/markdown_linting.md'
       - Design:
@@ -216,15 +214,13 @@ nav:
                           - 'Record Architecture Decisions': 'playbook/design/design_reviews/decision_log/doc/adr/0001_record_architecture_decisions.md'
                           - 'App Level Logging': 'playbook/design/design_reviews/decision_log/doc/adr/0002_app_level_logging.md'
                   - Examples:
-                      - Memory:
-                          - 'Decision Log': 'playbook/design/design_reviews/decision_log/examples/memory/Decision_Log.md'
-                          - 'Memory': 'playbook/design/design_reviews/decision_log/examples/memory/memory.md'
-                          - Architecture:
-                              - 'Data Model': 'playbook/design/design_reviews/decision_log/examples/memory/Architecture/Data_Model.md'
-                          - Deployment:
-                              - 'Environments': 'playbook/design/design_reviews/decision_log/examples/memory/Deployment/Environments.md'
-                          - Trade Studies:
-                              - 'GitOps': 'playbook/design/design_reviews/decision_log/examples/memory/Trade_Studies/GitOps.md'
+                      - 'Decision Log': 'playbook/design/design_reviews/decision_log/examples/Decision_Log.md'
+                      - Architecture:
+                          - 'Data Model': 'playbook/design/design_reviews/decision_log/examples/Architecture/Data_Model.md'
+                      - Deployment:
+                          - 'Environments': 'playbook/design/design_reviews/decision_log/examples/Deployment/Environments.md'
+                      - Trade Studies:
+                          - 'GitOps': 'playbook/design/design_reviews/decision_log/examples/Trade_Studies/GitOps.md'
               - Recipes:
                   - 'Async Design Reviews': 'playbook/design/design_reviews/recipes/async_design_reviews.md'
                   - 'Engagement Process': 'playbook/design/design_reviews/recipes/engagement_process.md'
@@ -239,8 +235,8 @@ nav:
                   - 'Task Design Review Template': 'playbook/design/design_reviews/recipes/task_design_review_template.md'
                   - 'Technical Spike': 'playbook/design/design_reviews/recipes/technical_spike.md'
               - Trade Studies:
-                  - 'Template': 'playbook/design/design_reviews/trade_studies/template.md'
                   - 'Trade Studies': 'playbook/design/design_reviews/trade_studies/trade_studies.md'
+                  - 'Template': 'playbook/design/design_reviews/trade_studies/template.md'
           - Diagram Types:
               - 'Diagram Types': 'playbook/design/diagram_types/diagram_types.md'
               - Design Diagrams Templates:
@@ -248,9 +244,9 @@ nav:
                   - 'Component Diagrams': 'playbook/design/diagram_types/DesignDiagramsTemplates/componentDiagrams.md'
                   - 'Deployment Diagrams': 'playbook/design/diagram_types/DesignDiagramsTemplates/deploymentDiagrams.md'
                   - 'Sequence Diagrams': 'playbook/design/diagram_types/DesignDiagramsTemplates/sequenceDiagrams.md'
-          - Exception Handling: 'playbook/design/exception_handling/readme.md'
+          - Exception Handling: 'playbook/design/exception_handling/exception_handling.md'
           - Sustainability:
-              - 'Readme': 'playbook/design/sustainability/readme.md'
+              - 'Readme': 'playbook/design/sustainability/sustainability.md'
               - 'Sustainable Action Disclaimers': 'playbook/design/sustainability/sustainable_action_disclaimers.md'
               - 'Sustainable Engineering Principles': 'playbook/design/sustainability/sustainable_engineering_principles.md'
       - Developer Experience:

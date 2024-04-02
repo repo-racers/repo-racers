@@ -50,7 +50,6 @@ Some sections in the documentation of the repository might point to the projectâ
   - [Pull Requests](./pull_requests.md)
   - [Code Review Process](../../code_reviews/code_reviews.md)
   - [Code Review Checklist](../../code_reviews/process_guidance/reviewer_guidance.md)
-    - [Language Specific Checklists](../../code_reviews/recipes/recipes.md)
 - [Project Design](../../design/design_reviews/design_reviews.md)
   - [High Level / Game Plan](../../design/design_reviews/recipes/high_level_design_recipe.md)
   - [Milestone / Epic Design Review](../../design/design_reviews/recipes/milestone_epic_design_review_recipe.md)

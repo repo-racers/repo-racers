@@ -11,17 +11,17 @@ The checklist provides guidelines for creating this production plan. It should b
 
 Before putting an individual ML model into production, the following aspects should be considered:
 
-- [ ] [Is there a well defined baseline? Is the model performing better than the baseline?](#is_there_a_well_defined_baseline_is_the_model_performing_better_than_the_baseline)
-- [ ] [Are machine learning performance metrics defined for both training and scoring?](#are_machine_learning_performance_metrics_defined_for_both_training_and_scoring)
-- [ ] [Is the model benchmarked?](#is_the_model_benchmarked)
-- [ ] [Can ground truth be obtained or inferred in production?](#can_ground_truth_be_obtained_or_inferred_in_production)
-- [ ] [Has the data distribution of training, testing and validation sets been analyzed?](#has_the_data_distribution_of_training_testing_and_validation_sets_been_analyzed)
-- [ ] [Have goals and hard limits for performance, speed of prediction and costs been established so they can be considered if trade-offs need to be made?](#have_goals_and_hard_limits_for_performance_speed_of_prediction_and_costs_been_established_so_they_can_be_considered_if_trade_offs_need_to_be_made)
-- [ ] [How will the model be integrated into other systems, and what impact will it have?](#how_will_the_model_be_integrated_into_other_systems_and_what_impact_will_it_have)
-- [ ] [How will incoming data quality be monitored?](#how_will_incoming_data_quality_be_monitored)
-- [ ] [How will drift in data characteristics be monitored?](#how_will_drift_in_data_characteristics_be_monitored)
-- [ ] [How will performance be monitored?](#how_will_performance_be_monitored)
-- [ ] [Have any ethical concerns been taken into account?](#have_any_ethical_concerns_been_taken_into_account)
+- [Is there a well defined baseline? Is the model performing better than the baseline?](#is_there_a_well_defined_baseline_is_the_model_performing_better_than_the_baseline)
+- [Are machine learning performance metrics defined for both training and scoring?](#are_machine_learning_performance_metrics_defined_for_both_training_and_scoring)
+- [Is the model benchmarked?](#is_the_model_benchmarked)
+- [Can ground truth be obtained or inferred in production?](#can_ground_truth_be_obtained_or_inferred_in_production)
+- [Has the data distribution of training, testing and validation sets been analyzed?](#has_the_data_distribution_of_training_testing_and_validation_sets_been_analyzed)
+- [Have goals and hard limits for performance, speed of prediction and costs been established so they can be considered if trade-offs need to be made?](#have_goals_and_hard_limits_for_performance_speed_of_prediction_and_costs_been_established_so_they_can_be_considered_if_trade_offs_need_to_be_made)
+- [How will the model be integrated into other systems, and what impact will it have?](#how_will_the_model_be_integrated_into_other_systems_and_what_impact_will_it_have)
+- [How will incoming data quality be monitored?](#how_will_incoming_data_quality_be_monitored)
+- [How will drift in data characteristics be monitored?](#how_will_drift_in_data_characteristics_be_monitored)
+- [How will performance be monitored?](#how_will_performance_be_monitored)
+- [Have any ethical concerns been taken into account?](#have_any_ethical_concerns_been_taken_into_account)
 
 Please note that there might be scenarios where it is not possible to check all the items on this checklist. However, it is advised to go through all items and make informed decisions based on your specific use case.
 
