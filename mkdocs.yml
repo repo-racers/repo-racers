@@ -46,8 +46,8 @@ theme:
     logo: material/github
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.footer
-
 plugins:
   - search
   - termynal:
@@ -67,7 +67,7 @@ markdown_extensions:
           class: mermaid
 
 extra_css:
-  - stylesheets/tailwind-output.css
+  - assets/css/tailwind-output.css
 
 # Page tree
 nav:
