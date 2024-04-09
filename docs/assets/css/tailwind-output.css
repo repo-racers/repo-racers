@@ -553,3 +553,19 @@ video {
   --tw-contain-paint:  ;
   --tw-contain-style:  ;
 }
+
+.block {
+  display: block;
+}
+
+.h-screen {
+  height: 100vh;
+}
+
+.bg-cover {
+  background-size: cover;
+}
+
+.bg-no-repeat {
+  background-repeat: no-repeat;
+}
