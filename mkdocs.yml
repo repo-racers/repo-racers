@@ -66,6 +66,9 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
 
+extra_css:
+  - stylesheets/tailwind-output.css
+
 # Page tree
 nav:
   - Home: index.md

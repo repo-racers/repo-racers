@@ -4,25 +4,11 @@
 {% extends "main.html" %}
 {% block tabs %}
   {{ super() }}
-  <section class="hero is-fullheight-with-navbar">
-    <div class="hero-body">
-      <div class="container has-text-centered">
-        <h1 class="title">
-          The GitHub and Azure DevOps Playbook
-        </h1>
-        <h2 class="subtitle">
-          Supercharging GitHub and Azure DevOps.
-        </h2>
-        <h2 class="subtitle">
-          From the crew at Repo Racers.
-        </h2>
-        <a href="{{ page.next_page.url | url }}" title="{{ page.next_page.title | e }}" class="button is-primary">
-          Lets Go!
-        </a>
-      </div>
-    </div>
-  </section>
   {% endblock %}
   {% block content %}
-  content
+  <section>
+    <div class="w-screen h-screen">
+      <img src="assets/images/jaron_lanier.webp" class="w-full h-full object-cover" />
+    </div>
+  </section>
   {% endblock %}
