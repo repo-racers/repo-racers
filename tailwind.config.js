@@ -4,8 +4,7 @@ module.exports = {
     './**/*.html',
     // Add paths to all other files that use Tailwind CSS classes here
   ],
-  theme: {
-    extend: {},
-  },
-  plugins: [],
+  corePlugins: {
+      preflight: false,
+    }
 }
