@@ -64,4 +64,4 @@ You can cancel your sponsorship at any time. You'll retain access to the Elite M
 
 ---
 
-For any questions or further details, please don't hesitate to reach out to us at [elite@reporacers.com](mailto:elite@reporacers.com). Let's accelerate your projects together with Repo Racers Elite Membership Program!
+For any questions or further details, please don't hesitate to reach out to us at [elite@reporacers.com](mailto:elite@reporacers.com). Let's accelerate your projects together with Repo Racers Elite Membership Program.
