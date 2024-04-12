@@ -106,48 +106,40 @@
   --tw-contain-style:
 }
 
-.container {
-  width: 100%
+.relative {
+  position: relative
 }
 
-@media (min-width: 640px) {
-  .container {
-    max-width: 640px
-  }
-}
-
-@media (min-width: 768px) {
-  .container {
-    max-width: 768px
-  }
-}
-
-@media (min-width: 1024px) {
-  .container {
-    max-width: 1024px
-  }
-}
-
-@media (min-width: 1280px) {
-  .container {
-    max-width: 1280px
-  }
-}
-
-@media (min-width: 1536px) {
-  .container {
-    max-width: 1536px
-  }
+.z-\[-1\] {
+  z-index: -1
 }
 
 .block {
   display: block
 }
 
+.flex {
+  display: flex
+}
+
 .h-screen {
   height: 100vh
 }
 
-.bg-cover {
-  background-size: cover
+.w-screen {
+  width: 100vw
+}
+
+.scale-125 {
+  --tw-scale-x: 1.25;
+  --tw-scale-y: 1.25;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))
+}
+
+.items-center {
+  align-items: center
+}
+
+.justify-center {
+  justify-content: center
 }

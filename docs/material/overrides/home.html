@@ -4,16 +4,10 @@
 {% endblock %}
 {% block tabs %}
   {{ super() }}
-  <section>
-    <div class="h-screen bg-cover">
-      <div id="container" class="container">
-        <div id="scene" class="scene">
-          <div data-depth="1.00"><img src="assets/images/home/home_bg.png" class="w-full h-full object-cover"></div>
-          <div data-depth="0.80"><img src="assets/images/home/home_trio.png" class="w-full h-full object-cover"></div>
-        </div>
-      </div>
-    </div>
-  </section>
+  <div id="scene" class="w-screen h-screen flex justify-center items-center relative z-[-1]">
+    <div data-depth="1.00" class="flex justify-center items-center"><img src="assets/images/home/home_bg.png" class="w-screen h-screen scale-125"></div>
+    <div data-depth="0.80" class="flex justify-center items-center"><img src="assets/images/home/home_trio.png" class="w-screen h-screen scale-125"></div>
+  </div>
   {% endblock %}
   {% block content %}
   {% endblock %}
