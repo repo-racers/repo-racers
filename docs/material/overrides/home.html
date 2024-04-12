@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% block extrahead %}
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/parallax/3.1.0/parallax.min.js"></script>
+{% endblock %}
+{% block tabs %}
+  {{ super() }}
+  <section>
+    <div class="h-screen bg-cover">
+      <div id="container" class="container">
+        <div id="scene" class="scene">
+          <div data-depth="1.00"><img src="assets/images/home/layer1.png"></div>
+          <div data-depth="0.80"><img src="assets/images/home/layer2.png"></div>
+          <div data-depth="0.60"><img src="assets/images/home/layer3.png"></div>
+          <div data-depth="0.40"><img src="assets/images/home/layer4.png"></div>
+          <div data-depth="0.20"><img src="assets/images/home/layer5.png"></div>
+          <div data-depth="0.00"><img src="assets/images/home/layer6.png"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+  {% endblock %}
+  {% block content %}
+  {% endblock %}
+  {% block scripts %}
+  {{ super() }}
+  <script>
+    var scene = document.getElementById('scene');
+	  var parallax = new Parallax(scene);
+  </script>
+{% endblock %}
