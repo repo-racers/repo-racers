@@ -110,6 +110,10 @@
   position: relative
 }
 
+.top-\[30px\] {
+  top: 30px
+}
+
 .z-\[-1\] {
   z-index: -1
 }
