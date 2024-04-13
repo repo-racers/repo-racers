@@ -36,7 +36,7 @@ tailwind/init:
 # tailwind compile
 #--------------------------------------------------------------------------------------------------------------
 tailwind/compile:
-	npx tailwindcss build docs/assets/css/tailwind.css -o docs/assets/css/tailwind-output.css
+	npx tailwindcss build material/overrides/assets/css/tailwind.css -o docs/assets/css/tailwind-output.css
 
 #--------------------------------------------------------------------------------------------------------------
 #
