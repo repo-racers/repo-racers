@@ -14,3 +14,7 @@
     transform: translateY(-50%); /* This centers the strip vertically */
     border-radius: 30px; /* Add rounded corners */
 }
+
+.featured-in {
+    height: 50vh; /* This will make the element 50% of the viewport's height */
+}

@@ -131,8 +131,24 @@
   margin-bottom: 1rem
 }
 
+.mb-5 {
+  margin-bottom: 1.25rem
+}
+
+.mb-8 {
+  margin-bottom: 2rem
+}
+
+.mr-5 {
+  margin-right: 1.25rem
+}
+
 .mt-4 {
   margin-top: 1rem
+}
+
+.mt-8 {
+  margin-top: 2rem
 }
 
 .block {
@@ -141,6 +157,14 @@
 
 .flex {
   display: flex
+}
+
+.h-11 {
+  height: 2.75rem
+}
+
+.h-8 {
+  height: 2rem
 }
 
 .h-screen {
@@ -165,6 +189,10 @@
   flex-direction: column
 }
 
+.flex-wrap {
+  flex-wrap: wrap
+}
+
 .items-center {
   align-items: center
 }
@@ -180,6 +208,11 @@
 .bg-blue-500 {
   --tw-bg-opacity: 1;
   background-color: rgb(59 130 246 / var(--tw-bg-opacity))
+}
+
+.bg-white {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity))
 }
 
 .px-4 {
@@ -219,12 +252,34 @@
   font-weight: 800
 }
 
+.font-normal {
+  font-weight: 400
+}
+
+.font-semibold {
+  font-weight: 600
+}
+
+.uppercase {
+  text-transform: uppercase
+}
+
 .leading-none {
   line-height: 1
 }
 
 .tracking-tight {
   letter-spacing: -0.025em
+}
+
+.text-gray-400 {
+  --tw-text-opacity: 1;
+  color: rgb(156 163 175 / var(--tw-text-opacity))
+}
+
+.text-gray-500 {
+  --tw-text-opacity: 1;
+  color: rgb(107 114 128 / var(--tw-text-opacity))
 }
 
 .text-gray-900 {
@@ -261,12 +316,37 @@
   /* Add rounded corners */
 }
 
+.featured-in {
+  height: 50vh;
+  /* This will make the element 50% of the viewport's height */
+}
+
 .hover\:bg-blue-700:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(29 78 216 / var(--tw-bg-opacity))
 }
 
+.hover\:text-gray-800:hover {
+  --tw-text-opacity: 1;
+  color: rgb(31 41 55 / var(--tw-text-opacity))
+}
+
+@media (min-width: 640px) {
+  .sm\:justify-between {
+    justify-content: space-between
+  }
+
+  .sm\:px-16 {
+    padding-left: 4rem;
+    padding-right: 4rem
+  }
+}
+
 @media (min-width: 768px) {
+  .md\:max-w-screen-md {
+    max-width: 768px
+  }
+
   .md\:text-5xl {
     font-size: 3rem;
     line-height: 1
@@ -274,9 +354,22 @@
 }
 
 @media (min-width: 1024px) {
+  .lg\:mb-0 {
+    margin-bottom: 0px
+  }
+
+  .lg\:max-w-screen-lg {
+    max-width: 1024px
+  }
+
   .lg\:px-12 {
     padding-left: 3rem;
     padding-right: 3rem
+  }
+
+  .lg\:px-36 {
+    padding-left: 9rem;
+    padding-right: 9rem
   }
 
   .lg\:py-16 {
@@ -288,11 +381,38 @@
     font-size: 3.75rem;
     line-height: 1
   }
+
+  .lg\:text-xl {
+    font-size: 1.25rem;
+    line-height: 1.75rem
+  }
+}
+
+@media (min-width: 1280px) {
+  .xl\:px-48 {
+    padding-left: 12rem;
+    padding-right: 12rem
+  }
 }
 
 @media (prefers-color-scheme: dark) {
+  .dark\:bg-gray-900 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(17 24 39 / var(--tw-bg-opacity))
+  }
+
+  .dark\:text-gray-400 {
+    --tw-text-opacity: 1;
+    color: rgb(156 163 175 / var(--tw-text-opacity))
+  }
+
   .dark\:text-white {
     --tw-text-opacity: 1;
     color: rgb(255 255 255 / var(--tw-text-opacity))
+  }
+
+  .dark\:hover\:text-gray-400:hover {
+    --tw-text-opacity: 1;
+    color: rgb(156 163 175 / var(--tw-text-opacity))
   }
 }
