@@ -4,12 +4,20 @@
 {% endblock %}
 {% block tabs %}
   {{ super() }}
+
+  <!------------------------------------------------------------------------------------------------------------------------------------------------------------>
+  <!-- Begin hero section -------------------------------------------------------------------------------------------------------------------------------------->
+  <!------------------------------------------------------------------------------------------------------------------------------------------------------------>
   <section>
+  <!-- Begin BG images ----------------------------------------------------------------------------------------------------------------------------------------->
     <div class="h-screen flex flex-col justify-center items-center relative">
       <div id="scene" class="w-screen h-screen flex justify-center items-center absolute inset-0 z-[-1]">
         <div data-depth="1.00" class="flex justify-center items-center"><img src="assets/images/home/home_bg.png" class="w-screen h-screen scale-125"></div>
         <div data-depth="0.80" class="flex justify-center items-center"><img src="assets/images/home/home_trio.png" class="w-screen h-screen scale-125"></div>
-      </div>
+    </div>
+  <!-- End BG images ------------------------------------------------------------------------------------------------------------------------------------------->
+
+  <!-- Begin hero text ----------------------------------------------------------------------------------------------------------------------------------------->
       <div id="hero" class="flex flex-col items-start justify-center py-8 px-4 text-center lg:py-16 lg:px-12 absolute inset-0 overflow-auto w-screen h-screen">
         <div class="text-center sm:mx-auto sm:w-10/12 lg:mr-auto lg:mt-0 lg:w-4/5">
           <a href="elite_membership/elite_membership/" class="border w-fit mx-auto flex justify-between items-center transition duration-200 rounded-[--annonce-border-radius] border-[--ui-light-border-color] hover:border-[--ui-light-border-hover-color] dark:border-[--ui-dark-border-color] dark:hover:border-[--ui-dark-border-hover-color] p-1 group gap-2">
@@ -47,7 +55,12 @@
       </div>
       </div>
     </div>
+  <!-- End hero text ------------------------------------------------------------------------------------------------------------------------------------------->
   </section>
+  <!------------------------------------------------------------------------------------------------------------------------------------------------------------>
+  <!-- End hero section ---------------------------------------------------------------------------------------------------------------------------------------->
+  <!------------------------------------------------------------------------------------------------------------------------------------------------------------>
+
   <section class="bg-white dark:bg-gray-900">
     <div class="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-12">
         <p class="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">From enterprise implementations to Copilot fine-tuning, we accelerate your projects with expert support and a commitment to quality. Drive GitHub like you stole it!</p>
