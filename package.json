@@ -1,9 +1,9 @@
 {
   "dependencies": {
+    "@tailus/themer": "^0.0.5",
     "autoprefixer": "^10.4.19",
     "postcss": "^8.4.38",
-    "tailwindcss": "^3.4.3",
-    "@tailus/themer": "^0.0.5",
-    "swiper": "^11.0.6"
+    "swiper": "^11.1.1",
+    "tailwindcss": "^3.4.3"
   }
 }
