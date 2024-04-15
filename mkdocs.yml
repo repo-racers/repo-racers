@@ -56,6 +56,11 @@ extra_css:
 # Page tree
 nav:
   - Home: index.md
+  - Product Catalog:
+      - 'Product Catalog': 'product_catalog/product_catalog.md'
+  - Service Catalog:
+      - 'Service Catalog': 'service_catalog/service_catalog.md'
+  - Elite Membership: elite_membership/elite_membership.md
   - Our Playbook:
       - 'Why a Playbook': 'playbook/our_playbook.md'
       - 'Accessibility': 'playbook/accessibility.md'
@@ -331,11 +336,6 @@ nav:
           - 'Naming Branches': 'playbook/source_control/naming_branches.md'
           - 'Secrets Management': 'playbook/source_control/secrets_management.md'
           - 'Git LFS and VFS': 'playbook/source_control/git_guidance/git_lfs_and_vfs.md'
-  - Product Catalog:
-      - 'Product Catalog': 'product_catalog/product_catalog.md'
-  - Service Catalog:
-      - 'Service Catalog': 'service_catalog/service_catalog.md'
-  - Elite Membership: elite_membership/elite_membership.md
   - Contributing To This Repository:
       - 'Contribution Guidelines': 'contributing/contribution_guidelines.md'
       - Crew Contracts:
