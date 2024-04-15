@@ -289,6 +289,10 @@
   height: 2.75rem;
 }
 
+.h-8 {
+  height: 2rem;
+}
+
 .h-\[1\.5px\] {
   height: 1.5px;
 }
@@ -387,10 +391,6 @@
 
 .items-center {
   align-items: center;
-}
-
-.justify-end {
-  justify-content: flex-end;
 }
 
 .justify-center {
@@ -506,29 +506,13 @@
   border-color: var(--ui-light-border-color);
 }
 
-.border-danger-500\/10 {
-  border-color: rgb(239 68 68 / 0.1);
-}
-
-.border-gray-500\/10 {
-  border-color: rgb(110 125 132 / 0.1);
-}
-
 .border-gray-950\/5 {
   border-color: rgb(2 3 4 / 0.05);
-}
-
-.border-info-500\/10 {
-  border-color: rgb(59 130 246 / 0.1);
 }
 
 .border-primary-600 {
   --tw-border-opacity: 1;
   border-color: rgb(22 163 74 / var(--tw-border-opacity));
-}
-
-.border-success-500\/10 {
-  border-color: rgb(132 204 22 / 0.1);
 }
 
 .border-warning-500\/10 {
@@ -568,30 +552,6 @@
   background-image: linear-gradient(to bottom, var(--tw-gradient-stops));
 }
 
-.from-danger-500 {
-  --tw-gradient-from: #ef4444 var(--tw-gradient-from-position);
-  --tw-gradient-to: rgb(239 68 68 / 0) var(--tw-gradient-to-position);
-  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
-}
-
-.from-gray-500 {
-  --tw-gradient-from: #6E7D84 var(--tw-gradient-from-position);
-  --tw-gradient-to: rgb(110 125 132 / 0) var(--tw-gradient-to-position);
-  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
-}
-
-.from-info-500 {
-  --tw-gradient-from: #3b82f6 var(--tw-gradient-from-position);
-  --tw-gradient-to: rgb(59 130 246 / 0) var(--tw-gradient-to-position);
-  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
-}
-
-.from-success-500 {
-  --tw-gradient-from: #84cc16 var(--tw-gradient-from-position);
-  --tw-gradient-to: rgb(132 204 22 / 0) var(--tw-gradient-to-position);
-  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
-}
-
 .from-warning-500 {
   --tw-gradient-from: #eab308 var(--tw-gradient-from-position);
   --tw-gradient-to: rgb(234 179 8 / 0) var(--tw-gradient-to-position);
@@ -618,6 +578,16 @@
 .px-2 {
   padding-left: 0.5rem;
   padding-right: 0.5rem;
+}
+
+.px-3 {
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+}
+
+.px-3\.5 {
+  padding-left: 0.875rem;
+  padding-right: 0.875rem;
 }
 
 .px-4 {
@@ -696,6 +666,11 @@
   line-height: 1.25rem;
 }
 
+.text-xs {
+  font-size: 0.75rem;
+  line-height: 1rem;
+}
+
 .font-medium {
   font-weight: 500;
 }
@@ -763,10 +738,6 @@
 
 .blur-2xl {
   --tw-blur: blur(40px);
-  filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
-}
-
-.filter {
   filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
 }
 
@@ -871,38 +842,10 @@
   background-image: linear-gradient(to bottom, var(--tw-gradient-stops));
 }
 
-.before\:from-danger-100::before {
-  content: var(--tw-content);
-  --tw-gradient-from: #fee2e2 var(--tw-gradient-from-position);
-  --tw-gradient-to: rgb(254 226 226 / 0) var(--tw-gradient-to-position);
-  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
-}
-
-.before\:from-gray-100::before {
-  content: var(--tw-content);
-  --tw-gradient-from: #EEEFF2 var(--tw-gradient-from-position);
-  --tw-gradient-to: rgb(238 239 242 / 0) var(--tw-gradient-to-position);
-  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
-}
-
-.before\:from-info-100::before {
-  content: var(--tw-content);
-  --tw-gradient-from: #dbeafe var(--tw-gradient-from-position);
-  --tw-gradient-to: rgb(219 234 254 / 0) var(--tw-gradient-to-position);
-  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
-}
-
 .before\:from-primary-600::before {
   content: var(--tw-content);
   --tw-gradient-from: #16a34a var(--tw-gradient-from-position);
   --tw-gradient-to: rgb(22 163 74 / 0) var(--tw-gradient-to-position);
-  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
-}
-
-.before\:from-success-100::before {
-  content: var(--tw-content);
-  --tw-gradient-from: #ecfccb var(--tw-gradient-from-position);
-  --tw-gradient-to: rgb(236 252 203 / 0) var(--tw-gradient-to-position);
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
 }
 
