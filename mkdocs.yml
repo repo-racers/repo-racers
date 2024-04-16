@@ -60,7 +60,9 @@ nav:
       - 'Product Catalog': 'product_catalog/product_catalog.md'
   - Service Catalog:
       - 'Service Catalog': 'service_catalog/service_catalog.md'
-  - Elite Membership: elite_membership/elite_membership.md
+  - Elite Membership:
+      - 'Elite Membership Program': elite_membership/elite_membership.md
+      - 'FAQs': elite_membership/faq.md
   - Our Playbook:
       - 'Why a Playbook': 'playbook/our_playbook.md'
       - 'Accessibility': 'playbook/accessibility.md'

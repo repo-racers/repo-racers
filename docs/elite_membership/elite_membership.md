@@ -111,6 +111,8 @@ To become a member, follow these simple steps:
 
 <i class="fas fa-arrow-circle-up" style="color: red;"></i> yhgyuguyg
 
+## Some Title
+
 You can cancel your sponsorship at any time, but we hope you'll see the value and decide to stay with us for the long haul.
 
 ## Join Our Elite Members
