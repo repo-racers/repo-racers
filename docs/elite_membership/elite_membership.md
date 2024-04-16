@@ -1,3 +1,8 @@
+---
+template: elite_membership.html
+---
+
+
 # Elite Membership Program
 
 ![Elite Membership](./assets/images/elite_membership.webp)
@@ -16,17 +21,23 @@ By joining the Elite Membership Program, you are directly contributing to the su
 
 ### What's in It for You?
 
-As an Elite Member, you gain instant access to a suite of exclusive features and benefits:
+#### As an Elite Member, you gain instant access to a suite of exclusive features and benefits
 
-- **Priority Support**: Get your questions and issues addressed with top priority.
-- **Early Access**: Use new features before they are released to the public.
-- **Exclusive Tools and Services**:
-  - Advanced GitHub Enterprise Implementation
-  - Custom GitHub Solutions
-  - Bespoke Migration Services
-  - Personalized Training for GitHub Copilot and other tools
-  - Priority Access to new Products and Services
-- **Networking Opportunities**: Connect with other technology leaders in the Elite Members community.
+<i class="fas fa-star" style="color: gold;"></i> **Priority Support**: Get your questions and issues addressed with top priority.
+
+<i class="fas fa-star" style="color: gold;"></i> **Early Access**: Use new features before they are released to the public.
+
+<i class="fas fa-star" style="color: gold;"></i> Advanced GitHub Enterprise Implementation
+
+<i class="fas fa-star" style="color: gold;"></i> Custom GitHub Solutions
+
+<i class="fas fa-star" style="color: gold;"></i> Bespoke Migration Services
+
+<i class="fas fa-star" style="color: gold;"></i> Personalized Training for GitHub Copilot and other tools
+
+<i class="fas fa-star" style="color: gold;"></i> Priority Access to new Products and Services
+
+<i class="fas fa-star" style="color: gold;"></i> **Networking Opportunities**: Connect with other technology leaders in the Elite Members community.
 
 ## How to Become an Elite Member
 
@@ -37,6 +48,68 @@ To become a member, follow these simple steps:
 3. Upon sponsorship, you'll receive an invitation to our private Elite Members area.
 
 **Important**: If sponsoring through an organization, please send an email to [elite@reporacers.com](mailto:elite@reporacers.comm) with your organization's name and the GitHub account to be added as a member.
+
+## Funding Goals
+
+### $1,500 Per Month
+
+<i class="fas fa-check-circle" style="color: limegreen;"></i>  jhguygugyug
+
+<i class="fas fa-check-circle" style="color: limegreen;"></i> uyyguyguyg
+
+<i class="fas fa-check-circle" style="color: limegreen;"></i> uyguyguyguyg
+
+<i class="fas fa-check-circle" style="color: limegreen;"></i> uyguyguyguyg
+
+### $2,500 Per Month
+
+<i class="fas fa-check-circle" style="color: limegreen;"></i>  jhguygugyug
+
+<i class="fas fa-check-circle" style="color: limegreen;"></i> uyyguyguyg
+
+<i class="fas fa-check-circle" style="color: limegreen;"></i> uyguyguyguyg
+
+<i class="fas fa-check-circle" style="color: limegreen;"></i> uyguyguyguyg
+
+### $5,000 Per Month
+
+<i class="fas fa-check-circle" style="color: limegreen;"></i>  jhguygugyug
+
+<i class="fas fa-check-circle" style="color: limegreen;"></i> uyyguyguyg
+
+<i class="fas fa-check-circle" style="color: limegreen;"></i> uyguyguyguyg
+
+<i class="fas fa-check-circle" style="color: limegreen;"></i> uyguyguyguyg
+
+### $10,000 Per Month
+
+<i class="fas fa-check-circle" style="color: limegreen;"></i>  jhguygugyug
+
+<i class="fas fa-check-circle" style="color: limegreen;"></i> uyyguyguyg
+
+<i class="fas fa-check-circle" style="color: limegreen;"></i> uyguyguyguyg
+
+<i class="fas fa-check-circle" style="color: limegreen;"></i> uyguyguyguyg
+
+### $20,000 Per Month
+
+<i class="fas fa-arrow-circle-up" style="color: orange";></i> guyguyguyg
+
+<i class="fas fa-arrow-circle-up" style="color: orange";></i> guyguyguyg
+
+<i class="fas fa-arrow-circle-up" style="color: orange";></i> guyguyguyg
+
+<i class="fas fa-arrow-circle-up" style="color: orange";></i> guyguyguyg
+
+### $30,000 Per Month
+
+<i class="fas fa-arrow-circle-up" style="color: red;"></i> yhgyuguyg
+
+<i class="fas fa-arrow-circle-up" style="color: red;"></i> yhgyuguyg
+
+<i class="fas fa-arrow-circle-up" style="color: red;"></i> yhgyuguyg
+
+<i class="fas fa-arrow-circle-up" style="color: red;"></i> yhgyuguyg
 
 You can cancel your sponsorship at any time, but we hope you'll see the value and decide to stay with us for the long haul.
 
