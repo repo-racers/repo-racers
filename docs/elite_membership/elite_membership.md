@@ -13,15 +13,17 @@ Welcome to the Elite Membership Program by Repo Racers, a privileged pathway to 
 
 The Elite Membership Program is an exclusive offering, designed as a private consultation and development service. This program is hosted in a secure, private channel, ensuring that new features and enhancements are accessible to our elite members before they're released to the public.
 
+## Our Sponsorware Strategy
+
 Every new product and service is linked to a funding goal, which, when achieved, allows us to develop and release these innovations to all our clients. However, Elite Members enjoy immediate benefits and access as soon as they are developed.
 
 ## Benefits of Sponsorship
 
 By joining the Elite Membership Program, you are directly contributing to the sustainability of the Repo Racers community. Your sponsorship allows us to allocate precious resources, primarily time, towards the development of new features, enhanced support, and overall project sustainability.
 
-### What's in It for You?
+## What's in It for You?
 
-#### As an Elite Member, you gain instant access to a suite of exclusive features and benefits
+As an Elite Member, you gain instant access to a suite of exclusive features and benefits
 
 <i class="fas fa-star" style="color: gold;"></i> **Priority Support**: Get your questions and issues addressed with top priority.
 
@@ -55,13 +57,13 @@ Our current monthly sponsorship goal is $20,000. Achieving this will allow us to
 
 ### $1,500 Per Month
 
-<i class="fas fa-check-circle" style="color: limegreen;"></i>  jhguygugyug
+<i class="fas fa-check-circle" style="color: limegreen;"></i> Repo Racers GitHub organization setup.
 
-<i class="fas fa-check-circle" style="color: limegreen;"></i> uyyguyguyg
+<i class="fas fa-check-circle" style="color: limegreen;"></i> Repo Racers GitHub Pages site launched.
 
-<i class="fas fa-check-circle" style="color: limegreen;"></i> uyguyguyguyg
+<i class="fas fa-check-circle" style="color: limegreen;"></i> Full contributor documentation.
 
-<i class="fas fa-check-circle" style="color: limegreen;"></i> uyguyguyguyg
+<i class="fas fa-check-circle" style="color: limegreen;"></i> First version of playbook.
 
 ### $2,500 Per Month
 
@@ -113,6 +115,16 @@ Our current monthly sponsorship goal is $20,000. Achieving this will allow us to
 
 <i class="fas fa-arrow-circle-up" style="color: red;"></i> yhgyuguyg
 
+### $40,000 Per Month
+
+<i class="fas fa-arrow-circle-up" style="color: red;"></i> To be announced.
+
+<i class="fas fa-arrow-circle-up" style="color: red;"></i> To be announced.
+
+<i class="fas fa-arrow-circle-up" style="color: red;"></i> To be announced.
+
+<i class="fas fa-arrow-circle-up" style="color: red;"></i> To be announced.
+
 ## Join Our Elite Members
 
 Become part of an exclusive group driving the future of GitHub and Azure Devops. Your sponsorship not only unlocks a wealth of benefits for you but also supports the ongoing development and innovation of our services.
@@ -121,6 +133,6 @@ Become part of an exclusive group driving the future of GitHub and Azure Devops.
 | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![Cprime](assets/images/cprime-inc-logo-vector-300x167.png)](https://www.cprime.com/) | **Change How Work Gets Done** <br/> Put new ways of working, technology orchestration, and agile delivery to work for your business.<br /> Cprime helps leaders unlock value from technology tools and modern ways of working to unleash the power of their teams.  |
 
----
+## Contact us
 
 For any questions or further details, please don't hesitate to reach out to us at [elite@reporacers.com](mailto:elite@reporacers.com). Let's accelerate your projects together with Repo Racers Elite Membership Program!
