@@ -51,6 +51,8 @@ To become a member, follow these simple steps:
 
 ## Funding Goals
 
+Our current monthly sponsorship goal is $20,000. Achieving this will allow us to roll out the next set of products we're developing.
+
 ### $1,500 Per Month
 
 <i class="fas fa-check-circle" style="color: limegreen;"></i>  jhguygugyug
@@ -111,31 +113,13 @@ To become a member, follow these simple steps:
 
 <i class="fas fa-arrow-circle-up" style="color: red;"></i> yhgyuguyg
 
-## Some Title
-
-You can cancel your sponsorship at any time, but we hope you'll see the value and decide to stay with us for the long haul.
-
 ## Join Our Elite Members
 
 Become part of an exclusive group driving the future of GitHub and Azure Devops. Your sponsorship not only unlocks a wealth of benefits for you but also supports the ongoing development and innovation of our services.
 
-**Current Elite Members**:
-
-- [Cprime](https://www.cprime.com/)
-
-### Funding and Goals
-
-Our current monthly sponsorship goal is $30,000. Achieving this will allow us to roll out the next set of advanced features we're developing.
-
-### FAQs
-
-#### Can I participate without being a member?
-
-While our primary services are available to all, the Elite Membership Program offers a premium, tailored experience that includes early access and exclusive features not available to non-members.
-
-#### What happens if I decide to cancel?
-
-You can cancel your sponsorship at any time. You'll retain access to the Elite Members' features until the end of your billing cycle.
+|  **Current Elite Members**                                                             |                                                                                                                                                                                                                                                                     |
+| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Cprime](assets/images/cprime-inc-logo-vector-300x167.png)](https://www.cprime.com/) | **Change How Work Gets Done** <br/> Put new ways of working, technology orchestration, and agile delivery to work for your business.<br /> Cprime helps leaders unlock value from technology tools and modern ways of working to unleash the power of their teams.  |
 
 ---
 

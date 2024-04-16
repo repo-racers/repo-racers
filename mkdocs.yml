@@ -53,6 +53,13 @@ markdown_extensions:
 extra_css:
   - assets/css/tailwind-output.css
 
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/repo-racers
+    - icon: fontawesome/brands/discord
+      link: https://discord.com/channels/1229786735161118882/1229786735161118885
+
 # Page tree
 nav:
   - Home: index.md
