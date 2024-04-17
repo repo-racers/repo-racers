@@ -41,11 +41,15 @@ As an Elite Member, you gain instant access to a suite of exclusive features and
 
 ## How to Become an Elite Member
 
-At Repo Racers, we're currently accepting sponsorship exclusively from corporate and enterprise partners.
+### Get in touch
 
-To initiate the sponsorship process, please reach out to us via email at [elite@reporacers.com](mailto:elite@reporacers.com). Our team will promptly respond to your inquiry and schedule a discussion to understand your expectations from our sponsorship program.
+At Repo Racers, we're currently accepting sponsorship exclusively from corporate and enterprise partners. To initiate the sponsorship process, please reach out to us via email at [elite@reporacers.com](mailto:elite@reporacers.com). Our team will promptly respond to your inquiry and schedule a discussion to understand your expectations from our sponsorship program.
+
+### Get aligned
 
 During this consultation, we'll collaborate to determine how we can work together to achieve the most beneficial outcomes for both parties. Once we've established mutual understanding and alignment, we'll proceed to create a working agreement outlining the terms and expectations of our partnership.
+
+### Get going
 
 Following the agreement, we'll guide you through an onboarding process to integrate your organization into our GitHub and Discord channels. This ensures seamless access to our exclusive Elite Membership benefits and resources.
 
