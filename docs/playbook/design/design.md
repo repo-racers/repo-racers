@@ -19,7 +19,7 @@ At Repo Racers, we've gathered a series of practices that aid in the design proc
 - [Design Patterns](design_patterns/design_patterns.md)
 - [Design Reviews](design_reviews/design_reviews.md)
 - [Non-Functional Requirements Guidance](design_patterns/non_functional_requirements_capture_guide.md)
-- [Sustainable Software Engineering Practices](sustainability/readme.md)
+- [Sustainable Software Engineering Practices](sustainability/sustainability.md)
 
 ## Recipes
 
