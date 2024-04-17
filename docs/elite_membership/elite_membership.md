@@ -23,13 +23,13 @@ By joining the Elite Membership Program, you are directly contributing to the su
 
 ## What's in It for You?
 
-As an Elite Member, you gain instant access to a suite of exclusive features and benefits
+As an Elite Member, you gain instant access to a suite of exclusive features and benefits:
 
 <i class="fas fa-star" style="color: gold;"></i> **Priority Support**: Get your questions and issues addressed with top priority.
 
 <i class="fas fa-star" style="color: gold;"></i> **Early Access**: Use new features before they are released to the public.
 
-<i class="fas fa-star" style="color: gold;"></i> Advanced GitHub Enterprise Implementation
+<i class="fas fa-star" style="color: gold;"></i> **Priority Development Roadmap**: Prioritize items on our roadmap and development backlog.
 
 <i class="fas fa-star" style="color: gold;"></i> Custom GitHub Solutions
 
@@ -37,7 +37,7 @@ As an Elite Member, you gain instant access to a suite of exclusive features and
 
 <i class="fas fa-star" style="color: gold;"></i> Personalized Training for GitHub Copilot and other tools
 
-<i class="fas fa-star" style="color: gold;"></i> Priority Access to new Products and Services
+<i class="fas fa-star" style="color: gold;"></i> **Priority Access**: Early preview and access to new Products and Services.
 
 ## How to Become an Elite Member
 
