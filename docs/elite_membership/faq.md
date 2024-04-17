@@ -26,7 +26,7 @@ Yes, you can upgrade or downgrade your membership plan at any time to better sui
 
 ## Is there a minimum sponsorship commitment?
 
-There is no minimum sponsorship commitment required to join the Elite Membership Program. We welcome sponsors of all sizes and are committed to providing value and support regardless of the sponsorship level.
+Yes, the minimum sponsorship commitment is $2,500 per month. This minimum amount is set to ensure that we can consistently deliver the high level of support and exclusive benefits expected of an elite member.
 
 ## How are sponsorship funds used?
 
