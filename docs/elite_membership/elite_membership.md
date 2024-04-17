@@ -39,8 +39,6 @@ As an Elite Member, you gain instant access to a suite of exclusive features and
 
 <i class="fas fa-star" style="color: gold;"></i> Priority Access to new Products and Services
 
-<i class="fas fa-star" style="color: gold;"></i> **Networking Opportunities**: Connect with other technology leaders in the Elite Members community.
-
 ## How to Become an Elite Member
 
 To become a member, follow these simple steps:
@@ -55,7 +53,9 @@ To become a member, follow these simple steps:
 
 Our current monthly sponsorship goal is $20,000. Achieving this will allow us to roll out the next set of products we're developing.
 
-### $1,500 Per Month
+### Goals Completed
+
+#### $1,500 Per Month
 
 <i class="fas fa-check-circle" style="color: limegreen;"></i> Repo Racers GitHub organization setup.
 
@@ -65,7 +65,7 @@ Our current monthly sponsorship goal is $20,000. Achieving this will allow us to
 
 <i class="fas fa-check-circle" style="color: limegreen;"></i> First version of playbook.
 
-### $2,500 Per Month
+#### $2,500 Per Month
 
 <i class="fas fa-check-circle" style="color: limegreen;"></i>  jhguygugyug
 
@@ -75,7 +75,7 @@ Our current monthly sponsorship goal is $20,000. Achieving this will allow us to
 
 <i class="fas fa-check-circle" style="color: limegreen;"></i> uyguyguyguyg
 
-### $5,000 Per Month
+#### $5,000 Per Month
 
 <i class="fas fa-check-circle" style="color: limegreen;"></i>  jhguygugyug
 
@@ -85,7 +85,7 @@ Our current monthly sponsorship goal is $20,000. Achieving this will allow us to
 
 <i class="fas fa-check-circle" style="color: limegreen;"></i> uyguyguyguyg
 
-### $10,000 Per Month
+#### $10,000 Per Month
 
 <i class="fas fa-check-circle" style="color: limegreen;"></i>  jhguygugyug
 
@@ -95,7 +95,9 @@ Our current monthly sponsorship goal is $20,000. Achieving this will allow us to
 
 <i class="fas fa-check-circle" style="color: limegreen;"></i> uyguyguyguyg
 
-### $20,000 Per Month
+### Goals Remaining
+
+#### $20,000 Per Month
 
 <i class="fas fa-arrow-circle-up" style="color: orange";></i> guyguyguyg
 
@@ -105,7 +107,7 @@ Our current monthly sponsorship goal is $20,000. Achieving this will allow us to
 
 <i class="fas fa-arrow-circle-up" style="color: orange";></i> guyguyguyg
 
-### $30,000 Per Month
+#### $30,000 Per Month
 
 <i class="fas fa-arrow-circle-up" style="color: red;"></i> yhgyuguyg
 
@@ -115,7 +117,7 @@ Our current monthly sponsorship goal is $20,000. Achieving this will allow us to
 
 <i class="fas fa-arrow-circle-up" style="color: red;"></i> yhgyuguyg
 
-### $40,000 Per Month
+#### $40,000 Per Month
 
 <i class="fas fa-arrow-circle-up" style="color: red;"></i> To be announced.
 
@@ -125,7 +127,7 @@ Our current monthly sponsorship goal is $20,000. Achieving this will allow us to
 
 <i class="fas fa-arrow-circle-up" style="color: red;"></i> To be announced.
 
-### $50,000 Per Month
+#### $50,000 Per Month
 
 <i class="fas fa-arrow-circle-up" style="color: red;"></i> To be announced.
 
