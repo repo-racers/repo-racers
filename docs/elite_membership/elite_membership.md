@@ -67,55 +67,55 @@ Our current monthly sponsorship goal is $20,000. Achieving this will allow us to
 
 #### $2,500 Per Month
 
-<i class="fas fa-check-circle" style="color: limegreen;"></i>  jhguygugyug
+<i class="fas fa-check-circle" style="color: limegreen;"></i> CICD Playbook
 
-<i class="fas fa-check-circle" style="color: limegreen;"></i> uyyguyguyg
+<i class="fas fa-check-circle" style="color: limegreen;"></i> Design & DevEx Playbook
 
-<i class="fas fa-check-circle" style="color: limegreen;"></i> uyguyguyguyg
+<i class="fas fa-check-circle" style="color: limegreen;"></i> Service Calalog
 
-<i class="fas fa-check-circle" style="color: limegreen;"></i> uyguyguyguyg
+<i class="fas fa-check-circle" style="color: limegreen;"></i> Discord Support Channels
 
 #### $5,000 Per Month
 
-<i class="fas fa-check-circle" style="color: limegreen;"></i>  jhguygugyug
+<i class="fas fa-check-circle" style="color: limegreen;"></i> Automated Testing Playbook
 
-<i class="fas fa-check-circle" style="color: limegreen;"></i> uyyguyguyg
+<i class="fas fa-check-circle" style="color: limegreen;"></i> Machince Learning Playbook
 
-<i class="fas fa-check-circle" style="color: limegreen;"></i> uyguyguyguyg
+<i class="fas fa-check-circle" style="color: limegreen;"></i> Product Catalog
 
-<i class="fas fa-check-circle" style="color: limegreen;"></i> uyguyguyguyg
+<i class="fas fa-check-circle" style="color: limegreen;"></i> Github 'Offical' Actions Public Forks
 
 #### $10,000 Per Month
 
-<i class="fas fa-check-circle" style="color: limegreen;"></i>  jhguygugyug
+<i class="fas fa-check-circle" style="color: limegreen;"></i> Pre-Commit Hooks Repo
 
-<i class="fas fa-check-circle" style="color: limegreen;"></i> uyyguyguyg
+<i class="fas fa-check-circle" style="color: limegreen;"></i> Pre-Commit Check GitHub Action
 
-<i class="fas fa-check-circle" style="color: limegreen;"></i> uyguyguyguyg
+<i class="fas fa-check-circle" style="color: limegreen;"></i> Repo Racers Dev Container Public Image
 
-<i class="fas fa-check-circle" style="color: limegreen;"></i> uyguyguyguyg
+<i class="fas fa-check-circle" style="color: limegreen;"></i> GitHub Packages Docker publish Action
 
 ### Goals Remaining
 
 #### $20,000 Per Month
 
-<i class="fas fa-arrow-circle-up" style="color: orange";></i> guyguyguyg
+<i class="fas fa-arrow-circle-up" style="color: orange";></i> To be announced
 
-<i class="fas fa-arrow-circle-up" style="color: orange";></i> guyguyguyg
+<i class="fas fa-arrow-circle-up" style="color: orange";></i> To be announced
 
-<i class="fas fa-arrow-circle-up" style="color: orange";></i> guyguyguyg
+<i class="fas fa-arrow-circle-up" style="color: orange";></i> To be announced
 
-<i class="fas fa-arrow-circle-up" style="color: orange";></i> guyguyguyg
+<i class="fas fa-arrow-circle-up" style="color: orange";></i> To be announced
 
 #### $30,000 Per Month
 
-<i class="fas fa-arrow-circle-up" style="color: red;"></i> yhgyuguyg
+<i class="fas fa-arrow-circle-up" style="color: red;"></i> To be announced
 
-<i class="fas fa-arrow-circle-up" style="color: red;"></i> yhgyuguyg
+<i class="fas fa-arrow-circle-up" style="color: red;"></i> To be announced
 
-<i class="fas fa-arrow-circle-up" style="color: red;"></i> yhgyuguyg
+<i class="fas fa-arrow-circle-up" style="color: red;"></i> To be announced
 
-<i class="fas fa-arrow-circle-up" style="color: red;"></i> yhgyuguyg
+<i class="fas fa-arrow-circle-up" style="color: red;"></i> To be announced
 
 #### $40,000 Per Month
 
