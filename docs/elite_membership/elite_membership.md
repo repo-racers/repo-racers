@@ -125,6 +125,16 @@ Our current monthly sponsorship goal is $20,000. Achieving this will allow us to
 
 <i class="fas fa-arrow-circle-up" style="color: red;"></i> To be announced.
 
+### $50,000 Per Month
+
+<i class="fas fa-arrow-circle-up" style="color: red;"></i> To be announced.
+
+<i class="fas fa-arrow-circle-up" style="color: red;"></i> To be announced.
+
+<i class="fas fa-arrow-circle-up" style="color: red;"></i> To be announced.
+
+<i class="fas fa-arrow-circle-up" style="color: red;"></i> To be announced.
+
 ## Join Our Elite Members
 
 Become part of an exclusive group driving the future of GitHub and Azure Devops. Your sponsorship not only unlocks a wealth of benefits for you but also supports the ongoing development and innovation of our services.
