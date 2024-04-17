@@ -29,25 +29,25 @@ As an Elite Member, you gain instant access to a suite of exclusive features and
 
 <i class="fas fa-star" style="color: gold;"></i> **Early Access**: Use new features before they are released to the public.
 
-<i class="fas fa-star" style="color: gold;"></i> **Priority Development Roadmap**: Prioritize items on our roadmap and development backlog.
+<i class="fas fa-star" style="color: gold;"></i> **Development Roadmap**: Prioritize items on our roadmap and development backlog.
 
-<i class="fas fa-star" style="color: gold;"></i> Custom GitHub Solutions
+<i class="fas fa-star" style="color: gold;"></i> **Online Networking**: Gain access to our private Discord community.
 
-<i class="fas fa-star" style="color: gold;"></i> Bespoke Migration Services
+<i class="fas fa-star" style="color: gold;"></i> **Developer Kudos**: Raise your company profile amongst the engineering community.
 
-<i class="fas fa-star" style="color: gold;"></i> Personalized Training for GitHub Copilot and other tools
+<i class="fas fa-star" style="color: gold;"></i> **Personalized Training**: Exclusive Discord Master Class sessions.
 
 <i class="fas fa-star" style="color: gold;"></i> **Priority Access**: Early preview and access to new Products and Services.
 
 ## How to Become an Elite Member
 
-To become a member, follow these simple steps:
+At Repo Racers, we're currently accepting sponsorship exclusively from corporate and enterprise partners.
 
-1. Visit the Repo Racers sponsorship page and select an Elite Membership tier.
-2. Complete the sponsorship process using your individual or organizational GitHub account.
-3. Upon sponsorship, you'll receive an invitation to our private Elite Members area.
+To initiate the sponsorship process, please reach out to us via email at [elite@reporacers.com](mailto:elite@reporacers.com). Our team will promptly respond to your inquiry and schedule a discussion to understand your expectations from our sponsorship program.
 
-**Important**: If sponsoring through an organization, please send an email to [elite@reporacers.com](mailto:elite@reporacers.comm) with your organization's name and the GitHub account to be added as a member.
+During this consultation, we'll collaborate to determine how we can work together to achieve the most beneficial outcomes for both parties. Once we've established mutual understanding and alignment, we'll proceed to create a working agreement outlining the terms and expectations of our partnership.
+
+Following the agreement, we'll guide you through an onboarding process to integrate your organization into our GitHub and Discord channels. This ensures seamless access to our exclusive Elite Membership benefits and resources.
 
 ## Funding Goals
 
