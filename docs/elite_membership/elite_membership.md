@@ -43,7 +43,7 @@ As an Elite Member, you gain instant access to a suite of exclusive features and
 
 ### Get in touch
 
-At Repo Racers, we're currently accepting sponsorship exclusively from corporate and enterprise partners. To initiate the sponsorship process, please reach out to us via email at [elite@reporacers.com](mailto:elite@reporacers.com). Our team will promptly respond to your inquiry and schedule a discussion to understand your expectations from our sponsorship program.
+At Repo Racers, we're currently accepting sponsorship exclusively from corporate and enterprise partners. To initiate the sponsorship process, please reach out to us via email at [elite@reporacers.com](mailto:elite@reporacers.com) or join Our [Discord](https://discord.com/channels/1229786735161118882/1229786735161118885) server. Our team will promptly respond to your inquiry and schedule a discussion to understand your expectations from our sponsorship program.
 
 ### Get aligned
 
@@ -151,4 +151,4 @@ Become part of an exclusive group driving the future of GitHub and Azure Devops.
 
 ## Contact us
 
-For any questions or further details, please don't hesitate to reach out to us at [elite@reporacers.com](mailto:elite@reporacers.com). Let's accelerate your projects together with Repo Racers Elite Membership Program!
+For any questions or further details, please don't hesitate to reach out to us at [elite@reporacers.com](mailto:elite@reporacers.com) or join our [Discord](https://discord.com/channels/1229786735161118882/1229786735161118885) server. Let's accelerate your projects together with Repo Racers Elite Membership Program!
