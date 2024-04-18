@@ -28,7 +28,8 @@ Fully integrated into Visual Studio Code and Visual Studio, LiveShare offers the
 
 ## Resources
 
-* [GitHub Codespaces](https://code.visualstudio.com/docs/remote/codespaces).
-* [VSCode Live Share](https://code.visualstudio.com/learn/collaboration/live-share).
-* [Create a Dev Container](https://code.visualstudio.com/docs/devcontainers/create-dev-container).
-* [How companies have optimized the humble office water cooler](https://www.inverse.com/innovation/how-companies-have-optimized-the-humble-office-water-cooler).
+- [Working collaboratively in a codespace](https://docs.github.com/en/codespaces/developing-in-a-codespace/working-collaboratively-in-a-codespace)
+- [GitHub Codespaces](https://code.visualstudio.com/docs/remote/codespaces).
+- [VSCode Live Share](https://code.visualstudio.com/learn/collaboration/live-share).
+- [Create a Dev Container](https://code.visualstudio.com/docs/devcontainers/create-dev-container).
+- [How companies have optimized the humble office water cooler](https://www.inverse.com/innovation/how-companies-have-optimized-the-humble-office-water-cooler).
