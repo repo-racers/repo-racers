@@ -355,3 +355,4 @@ nav:
           - 'Azure Deployment Checklist': 'crew_contracts/azure_deployment_checklist.md'
           - 'Code of Conduct': 'crew_contracts/code_of_conduct.md'
           - 'Our Super Heroes': 'our_heroes/our_super_heroes.md'
+      - 'Attribution': 'contributing/attribution.md'
