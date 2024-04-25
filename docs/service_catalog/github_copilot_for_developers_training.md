@@ -1,4 +1,4 @@
-# GitHub Copilot for Developers Intermediate
+# GitHub Copilot for Developers Training
 
 ## Overview
 

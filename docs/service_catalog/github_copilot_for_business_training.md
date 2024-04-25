@@ -1,4 +1,4 @@
-# GitHub Copilot for Business Fundamentals Training
+# GitHub Copilot for Business Training
 
 ## Overview
 

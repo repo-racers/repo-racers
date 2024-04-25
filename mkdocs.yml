@@ -50,6 +50,7 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
   - attr_list
+  - tables
 
 extra_css:
   - assets/css/tailwind-output.css
@@ -71,8 +72,8 @@ nav:
       - 'GitHub Actions Training': 'service_catalog/github_actions_training.md'
       - 'GitHub API Training': 'service_catalog/github_api_training.md'
       - 'GitHub Advanced Security Developer Training': 'service_catalog/github_advanced_security_developer_training.md'
-      - 'GitHub Copilot for Business Fundamentals Training': 'service_catalog/github_copilot_for_business_fundamentals_training.md'
-      - 'GitHub Copilot for Developers Intermediate': 'service_catalog/github_copilot_for_developers_intermediate.md'
+      - 'GitHub Copilot for Business Training': 'service_catalog/github_copilot_for_business_training.md'
+      - 'GitHub Copilot for Developers Training': 'service_catalog/github_copilot_for_developers_training.md'
       - 'GitHub Workflow Consultation': 'service_catalog/github_workflow_consultation.md'
   - Elite Membership:
       - 'Elite Membership Program': elite_membership/elite_membership.md
