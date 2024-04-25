@@ -65,9 +65,15 @@ extra:
 nav:
   - Home: index.md
   - Product Catalog:
-      - 'Product Catalog': 'product_catalog/product_catalog.md'
+      - 'Our Product Catalog': 'product_catalog/product_catalog.md'
   - Service Catalog:
-      - 'Service Catalog': 'service_catalog/service_catalog.md'
+      - 'Our Service Catalog': 'service_catalog/service_catalog.md'
+      - 'GitHub Actions Training': 'service_catalog/github_actions_training.md'
+      - 'GitHub API Training': 'service_catalog/github_api_training.md'
+      - 'GitHub Advanced Security Developer Training': 'service_catalog/github_advanced_security_developer_training.md'
+      - 'GitHub Copilot for Business Fundamentals Training': 'service_catalog/github_copilot_for_business_fundamentals_training.md'
+      - 'GitHub Copilot for Developers Intermediate': 'service_catalog/github_copilot_for_developers_intermediate.md'
+      - 'GitHub Workflow Consultation': 'service_catalog/github_workflow_consultation.md'
   - Elite Membership:
       - 'Elite Membership Program': elite_membership/elite_membership.md
       - 'FAQs': elite_membership/faq.md
