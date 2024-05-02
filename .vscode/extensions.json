@@ -5,7 +5,10 @@
         "eamodio.gitlens",
         "davidanson.vscode-markdownlint",
         "ms-azuretools.vscode-docker",
-        "esbenp.prettier-vscode"
+        "esbenp.prettier-vscode",
+        "mhutchie.git-graph",
+        "phil294.git-log--graph",
+        "ms-vsliveshare.vsliveshare"
     ],
 	"unwantedRecommendations": []
 }
