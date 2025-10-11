@@ -1,0 +1,14 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+#hero::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%; /* Make it cover the entire #hero div */
+    background-color: rgba(0, 0, 0, 0.4); /* Semi-transparent black */
+    z-index: -1;
+}
